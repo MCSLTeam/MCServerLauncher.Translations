@@ -65,20 +65,20 @@
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -172,10 +172,10 @@
   <data name="DownloadModule_MSLAPIGetCoreDescriptionFailed" xml:space="preserve">
     <value>Failed to fetch the core description!</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftBedrockArchive_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftBedrockArchive_Title" xml:space="preserve">
     <value>Compressed package for Minecraft Bedrock Edition</value>
   </data>
-  <data name="CreateInstance_SelectArchive_Description" xml:space="preserve">
+  <data name="CreateInstance_Archive_Description" xml:space="preserve">
     <value>Please import the downloaded zip file here. If you don't know where to download, click the button on the right to jump.</value>
   </data>
   <data name="Archive" xml:space="preserve">
@@ -184,19 +184,19 @@
   <data name="Browse" xml:space="preserve">
     <value>Browse</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftJavaCore_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaCore_Title" xml:space="preserve">
     <value>Minecraft Server Core</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftJavaCore_Description" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaCore_Description" xml:space="preserve">
     <value>Please select the core file that this server will use. If you don't know where to download it, click the button on the right to jump.</value>
   </data>
   <data name="MinecraftCoreFileName" xml:space="preserve">
     <value>Core file name</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftJavaJvm_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvm_Title" xml:space="preserve">
     <value>Java Runtime</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftJavaJvm_Description" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvm_Description" xml:space="preserve">
     <value>The Java runtime is required for the Minecraft Java server. Be sure to select the appropriate version to prevent startup failures.</value>
   </data>
   <data name="JavaPath" xml:space="preserve">
@@ -217,34 +217,34 @@
   <data name="FileName" xml:space="preserve">
     <value>File name</value>
   </data>
-  <data name="CreateInstance_SelectOtherExecutableInstanceDependency_Description" xml:space="preserve">
+  <data name="CreateInstance_OtherExecutableInstanceDependency_Description" xml:space="preserve">
     <value>Please select the file/folder/compressed package required for this new instance. The compressed package only supports ZIP format.</value>
   </data>
-  <data name="CreateInstance_SelectOtherExecutableInstanceDependency_Title" xml:space="preserve">
+  <data name="CreateInstance_OtherExecutableInstanceDependency_Title" xml:space="preserve">
     <value>Dependency</value>
   </data>
-  <data name="CreateInstance_SetCreateOtherExecutableInstanceRunCommand_Title" xml:space="preserve">
+  <data name="CreateInstance_OtherExecutableInstanceRunCommand_Title" xml:space="preserve">
     <value>Run Command</value>
   </data>
-  <data name="CreateInstance_SetCreateOtherExecutableInstanceRunCommand_Description" xml:space="preserve">
+  <data name="CreateInstance_OtherExecutableInstanceRunCommand_Description" xml:space="preserve">
     <value>Enter the run command here.</value>
   </data>
   <data name="RunCommandArgumentTip" xml:space="preserve">
     <value>If additional arguments are required, \nsimply append them to the end.</value>
   </data>
-  <data name="CreateInstance_SetInstanceName_Description" xml:space="preserve">
+  <data name="CreateInstance_InstanceName_Description" xml:space="preserve">
     <value>Do not include special symbols or use illegal names.</value>
   </data>
-  <data name="CreateInstance_SetInstanceName_Title" xml:space="preserve">
+  <data name="CreateInstance_InstanceName_Title" xml:space="preserve">
     <value>Instance Name</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJavaJvmArgument_Description" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvmArgument_Description" xml:space="preserve">
     <value>(Optional) You can add additional JVM arguments here, one per line.</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJavaJvmArgument_AddArgument" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvmArgument_AddArgument" xml:space="preserve">
     <value>Add</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJavaJvmArgument_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvmArgument_Title" xml:space="preserve">
     <value>JVM Arguments</value>
   </data>
   <data name="MaximumMemory" xml:space="preserve">
@@ -253,13 +253,13 @@
   <data name="MinimumMemory" xml:space="preserve">
     <value>Minimum Memory</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJvmRam_Description" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJvmRam_Description" xml:space="preserve">
     <value>This determines how much memory your Minecraft Java Edition server will be able to use.</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJvmRam_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJvmRam_Title" xml:space="preserve">
     <value>JVM Memory Heap</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJvmRam_Tip" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJvmRam_Tip" xml:space="preserve">
     <value>Minimum memory should always be smaller than maximum memory</value>
   </data>
   <data name="CopyUrl" xml:space="preserve">
@@ -304,7 +304,7 @@
   <data name="PreFinishCreateInstanceTip" xml:space="preserve">
     <value>After completing the following configuration, click "Continue".</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftVersionTip" xml:space="preserve">
+  <data name="CreateInstance_MinecraftVersionTip" xml:space="preserve">
     <value>Please select the version of Minecraft that this server will run.</value>
   </data>
   <data name="Refresh" xml:space="preserve">
@@ -325,16 +325,16 @@
   <data name="QuiltVersion" xml:space="preserve">
     <value>Quilt Version</value>
   </data>
-  <data name="CreateInstance_SelectForgeVersion_Description" xml:space="preserve">
+  <data name="CreateInstance_ForgeVersion_Description" xml:space="preserve">
     <value>Please select the Forge Loader version of the server.</value>
   </data>
-  <data name="CreateInstance_SelectNeoForgeVersion_Description" xml:space="preserve">
+  <data name="CreateInstance_NeoForgeVersion_Description" xml:space="preserve">
     <value>Please select the NeoForge Loader version of the server.</value>
   </data>
-  <data name="CreateInstance_SelectFabricVersion_Description" xml:space="preserve">
+  <data name="CreateInstance_FabricVersion_Description" xml:space="preserve">
     <value>Please select the Fabric Loader version of the server.</value>
   </data>
-  <data name="CreateInstance_SelectQuiltVersion_Description" xml:space="preserve">
+  <data name="CreateInstance_QuiltVersion_Description" xml:space="preserve">
     <value>Please select the Quilt Loader version of the server.</value>
   </data>
   <data name="OnlyShowReleaseVersion" xml:space="preserve">
@@ -820,7 +820,7 @@
   <data name="CreateFrpcInstanceCategory" xml:space="preserve">
     <value>Fast Reverse Proxy Client (Frpc)</value>
   </data>
-  <data name="CreateInstance_SelectTerrariaArchive_Title" xml:space="preserve">
+  <data name="CreateInstance_TerrariaArchive_Title" xml:space="preserve">
     <value>Terraria Server Archive</value>
   </data>
   <data name="Thread" xml:space="preserve">
@@ -900,5 +900,8 @@
   </data>
   <data name="DeadProcessTip" xml:space="preserve">
     <value>我们遇到了意料之外的异常，但已将关键的错误信息复制到剪贴板。程序已无法继续运行，即将关闭。</value>
+  </data>
+  <data name="GoBackLostTip" xml:space="preserve">
+    <value></value>
   </data>
 </root>

@@ -192,10 +192,10 @@
   <data name="DownloadModule_MSLAPIGetCoreDescriptionFailed" xml:space="preserve">
     <value>獲取核心介紹失敗！</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftBedrockArchive_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftBedrockArchive_Title" xml:space="preserve">
     <value>Minecraft 基岩版壓縮包</value>
   </data>
-  <data name="CreateInstance_SelectArchive_Description" xml:space="preserve">
+  <data name="CreateInstance_Archive_Description" xml:space="preserve">
     <value>請在此處導入下載的壓縮包。如果不知道在哪裏下載，可點擊右側按鈕跳轉。</value>
   </data>
   <data name="Archive" xml:space="preserve">
@@ -204,19 +204,19 @@
   <data name="Browse" xml:space="preserve">
     <value>瀏覽</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftJavaCore_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaCore_Title" xml:space="preserve">
     <value>Minecraft 伺服器核心</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftJavaCore_Description" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaCore_Description" xml:space="preserve">
     <value>請選擇該伺服器將使用的核心檔案。若不知道在何處下載，可點擊右側按鈕跳轉。</value>
   </data>
   <data name="MinecraftCoreFileName" xml:space="preserve">
     <value>核心檔案名稱</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftJavaJvm_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvm_Title" xml:space="preserve">
     <value>Java 運行時</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftJavaJvm_Description" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvm_Description" xml:space="preserve">
     <value>Java 運行時是 Minecraft Java 伺服器的必須環境。請務必選擇合適的版本，防止啓動失敗。</value>
   </data>
   <data name="JavaPath" xml:space="preserve">
@@ -237,34 +237,34 @@
   <data name="FileName" xml:space="preserve">
     <value>檔案名</value>
   </data>
-  <data name="CreateInstance_SelectOtherExecutableInstanceDependency_Description" xml:space="preserve">
+  <data name="CreateInstance_OtherExecutableInstanceDependency_Description" xml:space="preserve">
     <value>請選擇該實例所需的檔案/檔案夾/壓縮包/壓縮包僅支持 ZIP 格式。</value>
   </data>
-  <data name="CreateInstance_SelectOtherExecutableInstanceDependency_Title" xml:space="preserve">
+  <data name="CreateInstance_OtherExecutableInstanceDependency_Title" xml:space="preserve">
     <value>部署依賴</value>
   </data>
-  <data name="CreateInstance_SetCreateOtherExecutableInstanceRunCommand_Title" xml:space="preserve">
+  <data name="CreateInstance_OtherExecutableInstanceRunCommand_Title" xml:space="preserve">
     <value>運行命令</value>
   </data>
-  <data name="CreateInstance_SetCreateOtherExecutableInstanceRunCommand_Description" xml:space="preserve">
+  <data name="CreateInstance_OtherExecutableInstanceRunCommand_Description" xml:space="preserve">
     <value>在此處輸入運行命令。</value>
   </data>
   <data name="RunCommandArgumentTip" xml:space="preserve">
     <value>如果需要附帶參數，\n直接附在後面即可。</value>
   </data>
-  <data name="CreateInstance_SetInstanceName_Description" xml:space="preserve">
+  <data name="CreateInstance_InstanceName_Description" xml:space="preserve">
     <value>請勿包含特殊符號或使用非法名稱。</value>
   </data>
-  <data name="CreateInstance_SetInstanceName_Title" xml:space="preserve">
+  <data name="CreateInstance_InstanceName_Title" xml:space="preserve">
     <value>實例名稱</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJavaJvmArgument_Description" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvmArgument_Description" xml:space="preserve">
     <value>（可選項）在此處添加其他 JVM參數，一行一個。</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJavaJvmArgument_AddArgument" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvmArgument_AddArgument" xml:space="preserve">
     <value>添加參數</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJavaJvmArgument_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvmArgument_Title" xml:space="preserve">
     <value>JVM 參數</value>
   </data>
   <data name="MaximumMemory" xml:space="preserve">
@@ -273,13 +273,13 @@
   <data name="MinimumMemory" xml:space="preserve">
     <value>最小使用記憶體</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJvmRam_Description" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJvmRam_Description" xml:space="preserve">
     <value>這決定了您的 Minecraft Java 伺服器將能使用多少記憶體。</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJvmRam_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJvmRam_Title" xml:space="preserve">
     <value>JVM 堆記憶體</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJvmRam_Tip" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJvmRam_Tip" xml:space="preserve">
     <value>最小内存 ≤ 最大内存即可</value>
   </data>
   <data name="CopyUrl" xml:space="preserve">
@@ -324,7 +324,7 @@
   <data name="PreFinishCreateInstanceTip" xml:space="preserve">
     <value />
   </data>
-  <data name="CreateInstance_SelectMinecraftVersionTip" xml:space="preserve">
+  <data name="CreateInstance_MinecraftVersionTip" xml:space="preserve">
     <value />
   </data>
   <data name="Refresh" xml:space="preserve">
@@ -345,16 +345,16 @@
   <data name="QuiltVersion" xml:space="preserve">
     <value />
   </data>
-  <data name="CreateInstance_SelectForgeVersion_Description" xml:space="preserve">
+  <data name="CreateInstance_ForgeVersion_Description" xml:space="preserve">
     <value />
   </data>
-  <data name="CreateInstance_SelectNeoForgeVersion_Description" xml:space="preserve">
+  <data name="CreateInstance_NeoForgeVersion_Description" xml:space="preserve">
     <value />
   </data>
-  <data name="CreateInstance_SelectFabricVersion_Description" xml:space="preserve">
+  <data name="CreateInstance_FabricVersion_Description" xml:space="preserve">
     <value />
   </data>
-  <data name="CreateInstance_SelectQuiltVersion_Description" xml:space="preserve">
+  <data name="CreateInstance_QuiltVersion_Description" xml:space="preserve">
     <value />
   </data>
   <data name="OnlyShowReleaseVersion" xml:space="preserve">
@@ -840,7 +840,7 @@
   <data name="CreateFrpcInstanceCategory" xml:space="preserve">
     <value />
   </data>
-  <data name="CreateInstance_SelectTerrariaArchive_Title" xml:space="preserve">
+  <data name="CreateInstance_TerrariaArchive_Title" xml:space="preserve">
     <value />
   </data>
   <data name="Thread" xml:space="preserve">

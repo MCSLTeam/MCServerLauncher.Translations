@@ -172,10 +172,10 @@
   <data name="DownloadModule_MSLAPIGetCoreDescriptionFailed" xml:space="preserve">
     <value>获取核心介绍失败！</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftBedrockArchive_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftBedrockArchive_Title" xml:space="preserve">
     <value>Minecraft 基岩版压缩包</value>
   </data>
-  <data name="CreateInstance_SelectArchive_Description" xml:space="preserve">
+  <data name="CreateInstance_Archive_Description" xml:space="preserve">
     <value>请在此处导入下载的压缩包。如果不知道在哪里下载，可点击右侧按钮跳转。</value>
   </data>
   <data name="Archive" xml:space="preserve">
@@ -184,19 +184,19 @@
   <data name="Browse" xml:space="preserve">
     <value>浏览</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftJavaCore_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaCore_Title" xml:space="preserve">
     <value>Minecraft 服务器核心</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftJavaCore_Description" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaCore_Description" xml:space="preserve">
     <value>请选择该服务器将使用的核心文件。如果不知道在哪里下载，可点击右侧按钮跳转。</value>
   </data>
   <data name="MinecraftCoreFileName" xml:space="preserve">
     <value>核心文件名</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftJavaJvm_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvm_Title" xml:space="preserve">
     <value>Java 运行时</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftJavaJvm_Description" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvm_Description" xml:space="preserve">
     <value>Java 运行时是 Minecraft Java 服务器的必需环境。请务必选择合适的版本，防止启动失败。</value>
   </data>
   <data name="JavaPath" xml:space="preserve">
@@ -217,34 +217,34 @@
   <data name="FileName" xml:space="preserve">
     <value>文件名</value>
   </data>
-  <data name="CreateInstance_SelectOtherExecutableInstanceDependency_Description" xml:space="preserve">
+  <data name="CreateInstance_OtherExecutableInstanceDependency_Description" xml:space="preserve">
     <value>请选择该实例所需的文件/文件夹/压缩包。压缩包仅支持 ZIP 格式。</value>
   </data>
-  <data name="CreateInstance_SelectOtherExecutableInstanceDependency_Title" xml:space="preserve">
+  <data name="CreateInstance_OtherExecutableInstanceDependency_Title" xml:space="preserve">
     <value>部署依赖</value>
   </data>
-  <data name="CreateInstance_SetCreateOtherExecutableInstanceRunCommand_Title" xml:space="preserve">
+  <data name="CreateInstance_OtherExecutableInstanceRunCommand_Title" xml:space="preserve">
     <value>运行命令</value>
   </data>
-  <data name="CreateInstance_SetCreateOtherExecutableInstanceRunCommand_Description" xml:space="preserve">
+  <data name="CreateInstance_OtherExecutableInstanceRunCommand_Description" xml:space="preserve">
     <value>在此处输入运行命令。</value>
   </data>
   <data name="RunCommandArgumentTip" xml:space="preserve">
     <value>如果需要附带参数，\n直接附在后面即可。</value>
   </data>
-  <data name="CreateInstance_SetInstanceName_Description" xml:space="preserve">
+  <data name="CreateInstance_InstanceName_Description" xml:space="preserve">
     <value>请勿包含特殊符号或使用非法名称。</value>
   </data>
-  <data name="CreateInstance_SetInstanceName_Title" xml:space="preserve">
+  <data name="CreateInstance_InstanceName_Title" xml:space="preserve">
     <value>实例名称</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJavaJvmArgument_Description" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvmArgument_Description" xml:space="preserve">
     <value>(可选) 可在此处添加其他 JVM 参数，一行一个。</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJavaJvmArgument_AddArgument" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvmArgument_AddArgument" xml:space="preserve">
     <value>添加参数</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJavaJvmArgument_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJavaJvmArgument_Title" xml:space="preserve">
     <value>JVM 参数</value>
   </data>
   <data name="MaximumMemory" xml:space="preserve">
@@ -253,13 +253,13 @@
   <data name="MinimumMemory" xml:space="preserve">
     <value>最小内存</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJvmRam_Description" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJvmRam_Description" xml:space="preserve">
     <value>这决定了您的 Minecraft Java 服务器将能使用多少内存。</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJvmRam_Title" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJvmRam_Title" xml:space="preserve">
     <value>JVM 内存堆</value>
   </data>
-  <data name="CreateInstance_SetMinecraftJvmRam_Tip" xml:space="preserve">
+  <data name="CreateInstance_MinecraftJvmRam_Tip" xml:space="preserve">
     <value>最小内存 ≤ 最大内存即可</value>
   </data>
   <data name="CopyUrl" xml:space="preserve">
@@ -304,7 +304,7 @@
   <data name="PreFinishCreateInstanceTip" xml:space="preserve">
     <value>完成以下配置后，单击 “继续”。</value>
   </data>
-  <data name="CreateInstance_SelectMinecraftVersionTip" xml:space="preserve">
+  <data name="CreateInstance_MinecraftVersionTip" xml:space="preserve">
     <value>请选择该服务器将运行的 Minecraft 版本。</value>
   </data>
   <data name="Refresh" xml:space="preserve">
@@ -325,16 +325,16 @@
   <data name="QuiltVersion" xml:space="preserve">
     <value>Quilt 版本</value>
   </data>
-  <data name="CreateInstance_SelectForgeVersion_Description" xml:space="preserve">
+  <data name="CreateInstance_ForgeVersion_Description" xml:space="preserve">
     <value>请选择该服务器将运行的 Forge 加载器的版本。</value>
   </data>
-  <data name="CreateInstance_SelectNeoForgeVersion_Description" xml:space="preserve">
+  <data name="CreateInstance_NeoForgeVersion_Description" xml:space="preserve">
     <value>请选择该服务器将运行的 NeoForge 加载器的版本。</value>
   </data>
-  <data name="CreateInstance_SelectFabricVersion_Description" xml:space="preserve">
+  <data name="CreateInstance_FabricVersion_Description" xml:space="preserve">
     <value>请选择该服务器将运行的 Fabric 加载器的版本。</value>
   </data>
-  <data name="CreateInstance_SelectQuiltVersion_Description" xml:space="preserve">
+  <data name="CreateInstance_QuiltVersion_Description" xml:space="preserve">
     <value>请选择该服务器将运行的 Quilt 加载器的版本。</value>
   </data>
   <data name="OnlyShowReleaseVersion" xml:space="preserve">
@@ -820,7 +820,7 @@
   <data name="CreateFrpcInstanceCategory" xml:space="preserve">
     <value>快速反向代理客户端 Frpc</value>
   </data>
-  <data name="CreateInstance_SelectTerrariaArchive_Title" xml:space="preserve">
+  <data name="CreateInstance_TerrariaArchive_Title" xml:space="preserve">
     <value>Terraria 服务器压缩包</value>
   </data>
   <data name="Thread" xml:space="preserve">
@@ -900,5 +900,8 @@
   </data>
   <data name="DeadProcessTip" xml:space="preserve">
     <value>我们遇到了意料之外的异常，但已将关键的错误信息复制到剪贴板。程序已无法继续运行，即将关闭。</value>
+  </data>
+  <data name="GoBackLostTip" xml:space="preserve">
+    <value>如果现在返回，一切修改都将丢失。请慎重。</value>
   </data>
 </root>
