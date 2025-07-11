@@ -295,7 +295,7 @@
     <value>檔案大小</value>
   </data>
   <data name="MinecraftVersion" xml:space="preserve">
-    <value />
+    <value>Minecraft 版本</value>
   </data>
   <data name="BuildVersion" xml:space="preserve">
     <value>構建版本</value>
