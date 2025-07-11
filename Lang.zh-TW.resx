@@ -59,7 +59,7 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -118,181 +118,181 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ErrorDialogTitle" xml:space="preserve">
-    <value />
+    <value>MCServerLauncher WPF 遇到錯誤</value>
   </data>
   <data name="OnlyForWindows" xml:space="preserve">
-    <value />
+    <value>WPF 客戶端（僅 Windows）</value>
   </data>
   <data name="FirstSetup_TimeLanguageMenu" xml:space="preserve">
-    <value />
+    <value>語言 / Language</value>
   </data>
   <data name="FirstSetup_EulaMenu" xml:space="preserve">
-    <value />
+    <value>用戶協定</value>
   </data>
   <data name="FirstSetup_ConnectDaemonMenu" xml:space="preserve">
-    <value />
+    <value>連接守護進程</value>
   </data>
   <data name="FirstSetup_WelcomeMenu" xml:space="preserve">
-    <value />
+    <value>開始使用</value>
   </data>
   <data name="Continue" xml:space="preserve">
-    <value />
+    <value>繼續</value>
   </data>
   <data name="FirstSetup_SetLanguageHint" xml:space="preserve">
-    <value />
+    <value> ·設定語言</value>
   </data>
   <data name="FirstSetup_SetLanguageHintReverse" xml:space="preserve">
-    <value />
+    <value> Language</value>
   </data>
   <data name="Main_HomeNavMenu" xml:space="preserve">
-    <value />
+    <value>主頁</value>
   </data>
   <data name="Main_CreateInstanceNavMenu" xml:space="preserve">
-    <value />
+    <value>新建實例</value>
   </data>
   <data name="Main_InstanceManagerNavMenu" xml:space="preserve">
-    <value />
+    <value>實例管理</value>
   </data>
   <data name="Main_ResDownloadNavMenu" xml:space="preserve">
-    <value />
+    <value>資源下載</value>
   </data>
   <data name="Main_HelpCenterNavMenu" xml:space="preserve">
-    <value />
+    <value>幫助中心</value>
   </data>
   <data name="Main_NotificationCenterNavMenu" xml:space="preserve">
-    <value />
+    <value>通知中心</value>
   </data>
   <data name="Main_DebugNavMenu" xml:space="preserve">
-    <value />
+    <value>調試頁面</value>
   </data>
   <data name="Main_SettingsNavMenu" xml:space="preserve">
-    <value />
+    <value>程式設定</value>
   </data>
   <data name="Tip" xml:space="preserve">
-    <value />
+    <value>提示</value>
   </data>
   <data name="NotAllowedOverOpening" xml:space="preserve">
-    <value />
+    <value>MCServerLauncher WPF 不支援重複運行。</value>
   </data>
   <data name="DownloadModule_FastMirrorProxyType" xml:space="preserve">
-    <value />
+    <value>網路代理</value>
   </data>
   <data name="DownloadModule_FastMirrorVanillaType" xml:space="preserve">
-    <value />
+    <value>原版</value>
   </data>
   <data name="DownloadModule_FastMirrorPureType" xml:space="preserve">
-    <value />
+    <value>純净</value>
   </data>
   <data name="DownloadModule_FastMirrorModType" xml:space="preserve">
-    <value />
+    <value>模組</value>
   </data>
   <data name="DownloadModule_FastMirrorBedrockType" xml:space="preserve">
-    <value />
+    <value>基岩</value>
   </data>
   <data name="DownloadModule_MSLAPIGetCoreDescriptionFailed" xml:space="preserve">
-    <value />
+    <value>獲取核心介紹失敗！</value>
   </data>
   <data name="CreateInstance_SelectMinecraftBedrockArchive_Title" xml:space="preserve">
-    <value />
+    <value>Minecraft 基岩版壓縮包</value>
   </data>
   <data name="CreateInstance_SelectArchive_Description" xml:space="preserve">
-    <value />
+    <value>請在此處導入下載的壓縮包。如果不知道在哪裏下載，可點擊右側按鈕跳轉。</value>
   </data>
   <data name="Archive" xml:space="preserve">
-    <value />
+    <value>壓縮包</value>
   </data>
   <data name="Browse" xml:space="preserve">
-    <value />
+    <value>瀏覽</value>
   </data>
   <data name="CreateInstance_SelectMinecraftJavaCore_Title" xml:space="preserve">
-    <value />
+    <value>Minecraft 伺服器核心</value>
   </data>
   <data name="CreateInstance_SelectMinecraftJavaCore_Description" xml:space="preserve">
-    <value />
+    <value>請選擇該伺服器將使用的核心檔案。若不知道在何處下載，可點擊右側按鈕跳轉。</value>
   </data>
   <data name="MinecraftCoreFileName" xml:space="preserve">
-    <value />
+    <value>核心檔案名稱</value>
   </data>
   <data name="CreateInstance_SelectMinecraftJavaJvm_Title" xml:space="preserve">
-    <value />
+    <value>Java 運行時</value>
   </data>
   <data name="CreateInstance_SelectMinecraftJavaJvm_Description" xml:space="preserve">
-    <value />
+    <value>Java 運行時是 Minecraft Java 伺服器的必須環境。請務必選擇合適的版本，防止啓動失敗。</value>
   </data>
   <data name="JavaPath" xml:space="preserve">
-    <value />
+    <value>Java 路徑</value>
   </data>
   <data name="SelectManually" xml:space="preserve">
-    <value />
+    <value>手動選擇</value>
   </data>
   <data name="ScanJavaAtDaemon" xml:space="preserve">
-    <value />
+    <value>在 Daemon 宿主機中自動搜索</value>
   </data>
   <data name="SelectFromResult" xml:space="preserve">
-    <value />
+    <value>從現有結果中選取</value>
   </data>
   <data name="MinecraftJavaRequirementTip" xml:space="preserve">
-    <value />
+    <value>1.12+ 要求 Java 8\n1.17+ 要求 Java 16\n1.18+ 要求 Java 17\n1.20.5+ 要求 Java 21</value>
   </data>
   <data name="FileName" xml:space="preserve">
-    <value />
+    <value>檔案名</value>
   </data>
   <data name="CreateInstance_SelectOtherExecutableInstanceDependency_Description" xml:space="preserve">
-    <value />
+    <value>請選擇該實例所需的檔案/檔案夾/壓縮包/壓縮包僅支持 ZIP 格式。</value>
   </data>
   <data name="CreateInstance_SelectOtherExecutableInstanceDependency_Title" xml:space="preserve">
-    <value />
+    <value>部署依賴</value>
   </data>
   <data name="CreateInstance_SetCreateOtherExecutableInstanceRunCommand_Title" xml:space="preserve">
-    <value />
+    <value>運行命令</value>
   </data>
   <data name="CreateInstance_SetCreateOtherExecutableInstanceRunCommand_Description" xml:space="preserve">
-    <value />
+    <value>在此處輸入運行命令。</value>
   </data>
   <data name="RunCommandArgumentTip" xml:space="preserve">
-    <value />
+    <value>如果需要附帶參數，\n直接附在後面即可。</value>
   </data>
   <data name="CreateInstance_SetInstanceName_Description" xml:space="preserve">
-    <value />
+    <value>請勿包含特殊符號或使用非法名稱。</value>
   </data>
   <data name="CreateInstance_SetInstanceName_Title" xml:space="preserve">
-    <value />
+    <value>實例名稱</value>
   </data>
   <data name="CreateInstance_SetMinecraftJavaJvmArgument_Description" xml:space="preserve">
-    <value />
+    <value>（可選項）在此處添加其他 JVM參數，一行一個。</value>
   </data>
   <data name="CreateInstance_SetMinecraftJavaJvmArgument_AddArgument" xml:space="preserve">
-    <value />
+    <value>添加參數</value>
   </data>
   <data name="CreateInstance_SetMinecraftJavaJvmArgument_Title" xml:space="preserve">
-    <value />
+    <value>JVM 參數</value>
   </data>
   <data name="MaximumMemory" xml:space="preserve">
-    <value />
+    <value>最大使用記憶體</value>
   </data>
   <data name="MinimumMemory" xml:space="preserve">
-    <value />
+    <value>最小使用記憶體</value>
   </data>
   <data name="CreateInstance_SetMinecraftJvmRam_Description" xml:space="preserve">
-    <value />
+    <value>這決定了您的 Minecraft Java 伺服器將能使用多少記憶體。</value>
   </data>
   <data name="CreateInstance_SetMinecraftJvmRam_Title" xml:space="preserve">
-    <value />
+    <value>JVM 堆記憶體</value>
   </data>
   <data name="CreateInstance_SetMinecraftJvmRam_Tip" xml:space="preserve">
-    <value />
+    <value>最小内存 ≤ 最大内存即可</value>
   </data>
   <data name="CopyUrl" xml:space="preserve">
-    <value />
+    <value>複製鏈接</value>
   </data>
   <data name="Pause" xml:space="preserve">
-    <value />
+    <value>暫停</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value />
+    <value>取消</value>
   </data>
   <data name="FileSize" xml:space="preserve">
-    <value />
+    <value>檔案大小</value>
   </data>
   <data name="MinecraftVersion" xml:space="preserve">
     <value />
@@ -409,13 +409,13 @@
     <value />
   </data>
   <data name="Eula11" xml:space="preserve">
-    <value />
+    <value>用戶理解並同意，在法律許可範圍內，開發者對本軟體不提供任何保證。用戶使用本軟體所造成的風險均由用戶自行承擔。\n 用戶理解並同意，開發者不保證本軟體及服務一定能滿足用戶需求，也不保證服務不會被中斷，並對本軟體及服務的正確性、安全性等方面不提供任何擔保。\n 用戶理解並同意，開發者無法完全保證本軟體在線服務所下載的第三方檔案的正確性、安全性、合法性，也不對本軟體內存在的第三方服務（包括但不限於 資源下載 等服務）的正確性、安全性、合法性等負責。因此，前面提到的內容與開發者及本軟體無關，不代表開發者及本軟體的立場。相關爭議應由第三方服務提供方承擔。\n 用戶理解並同意，若以錯誤或非法的手段使用本軟體在線服務以及本軟體所下載的相关檔案 ，其造成的後果由用戶自行承擔，若導致財產損毀、版權或智慧財產權被侵犯等問題，開發者概不負責，不會也不能承擔任何法律責任。\n 用戶理解並同意，本軟體對第三方服務內容不提供任何擔保。 若用戶使用第三方服務導致財產損毀、版權或智慧財產權被侵犯等問題，開發者概不負責，不會也不能承擔任何法律責任。\n 用戶理解並同意，開發者對本軟體功能不提供任何保證和法律支持，若用戶使用本軟體功能從事違法犯罪或其他不當的行為，所造成的風險和法律後果均由用戶自行承擔。</value>
   </data>
   <data name="Eula12" xml:space="preserve">
     <value />
   </data>
   <data name="Eula13" xml:space="preserve">
-    <value />
+    <value>本软件著作權、專利權及其他智慧財產權，均为開發者或指定著作權方所有。 本软件所使用的第三方服務歸相關著作權方所有，包括但不限于： 本软件为 Minecraft（其最終解釋權歸 Microsoft 公司 和 Mojang AB 所有）的伺服器管理和遊戲聯機工具。用戶應當遵守其最終用戶許可協議（EULA）和 中国區代理公司 網易 在中國大陸實行的相关政策，不得將遊戲本體內容用于商業用途，或實施其他被最終用戶許可協議所禁止的行為。 本软件为 Terraria（其最終解釋權歸 Re-Logic 和其發行商所有）的伺服器管理和遊戲聯機工具。用戶應當遵守其最終用戶許可協議（EULA）及相关政策。用戶不得將遊戲本體內容用于未經許可的商業用途，或實施其他被最終用戶許可協議所禁止的行為。 本软件提供的部分在线檔案資源（伺服器核心、遊戲/伺服器模組和插件等内容）下载服务由相应官方/第三方等提供，著作權依照第三方平台規定處理。 本软件使用的其他第三方服務，版权归服務提供商所有。 本软件是开源软件，用戶或其他非本软件的软件开发者应当遵守本软件的开源协议。 用戶理解並同意，除用戶創建的資源外，本软件提供的所有在线服务数据均歸開發者所有。開發者有權決定保留或不保留伺服器上的全部或部分數據。</value>
   </data>
   <data name="Eula14" xml:space="preserve">
     <value />
@@ -583,7 +583,7 @@
     <value />
   </data>
   <data name="Settings_DownloadThreadCnt_Description" xml:space="preserve">
-    <value />
+    <value>在計算機性能豬狗的情況下，綫程數越高，檔案的理論下載速度越快。一般來説，設定爲16綫程即可滿足要求。</value>
   </data>
   <data name="Settings_ActionWhenDownloadError_Title" xml:space="preserve">
     <value />
