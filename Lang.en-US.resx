@@ -904,4 +904,10 @@
   <data name="GoBackLostTip" xml:space="preserve">
     <value></value>
   </data>
+  <data name="SelectMinecraftJavaCore" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SelectMinecraftJavaCoreGoResDownloadMessage" xml:space="preserve">
+    <value></value>
+  </data>
 </root>

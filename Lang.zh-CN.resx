@@ -904,4 +904,10 @@
   <data name="GoBackLostTip" xml:space="preserve">
     <value>如果现在返回，一切修改都将丢失。请慎重。</value>
   </data>
+  <data name="SelectMinecraftJavaCore" xml:space="preserve">
+    <value>选择 Minecraft Java 版核心</value>
+  </data>
+  <data name="SelectMinecraftJavaCoreGoResDownloadMessage" xml:space="preserve">
+    <value>下载完成后，点击下方按钮即可返回。</value>
+  </data>
 </root>
