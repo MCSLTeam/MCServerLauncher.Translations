@@ -325,7 +325,7 @@
     <value>完成以下配置后，單擊“繼續”</value>
   </data>
   <data name="CreateInstance_MinecraftVersionTip" xml:space="preserve">
-    <value />
+    <value>請選擇該伺服器將要運行的 Minecraft 版本。</value>
   </data>
   <data name="Refresh" xml:space="preserve">
     <value>刷新</value>
@@ -346,16 +346,16 @@
     <value>Quilt 版本</value>
   </data>
   <data name="CreateInstance_ForgeVersion_Description" xml:space="preserve">
-    <value />
+    <value>請選擇該伺服器將要運行的 Forge 加載器的版本。</value>
   </data>
   <data name="CreateInstance_NeoForgeVersion_Description" xml:space="preserve">
-    <value />
+    <value>請選擇該伺服器將運行的 NeoForge 加載器的版本。</value>
   </data>
   <data name="CreateInstance_FabricVersion_Description" xml:space="preserve">
-    <value />
+    <value>請選擇該伺服器將運行的 Fabric 加載器的版本。</value>
   </data>
   <data name="CreateInstance_QuiltVersion_Description" xml:space="preserve">
-    <value />
+    <value>請選擇該伺服器將運行的 Quilt 加載器的版本。</value>
   </data>
   <data name="OnlyShowReleaseVersion" xml:space="preserve">
     <value>僅顯示正式版本</value>
@@ -841,7 +841,7 @@
     <value>快速反向代理客戶端 Frpc</value>
   </data>
   <data name="CreateInstance_TerrariaArchive_Title" xml:space="preserve">
-    <value />
+    <value>Terraria 伺服器壓縮包</value>
   </data>
   <data name="Thread" xml:space="preserve">
     <value>綫程</value>
@@ -920,5 +920,14 @@
   </data>
   <data name="JvmOptimizationArgsTip" xml:space="preserve">
     <value>以下是為 Minecraft 服務端進行優化的預製參數，您可選擇其一應用。</value>
+  </data>
+  <data name="GoBackLostTip" xml:space="preserve">
+    <value>如果現在返回，一切更改將會遺失，請慎重。</value>
+  </data>
+  <data name="SelectMinecraftJavaCore" xml:space="preserve">
+    <value>選擇 Minecraft Java 版核心</value>
+  </data>
+  <data name="SelectMinecraftJavaCoreGoResDownloadMessage" xml:space="preserve">
+    <value>下載完成後，點擊下方按鈕即可返回。</value>
   </data>
 </root>
