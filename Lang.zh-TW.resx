@@ -244,7 +244,7 @@
     <value>部署依賴</value>
   </data>
   <data name="CreateInstance_OtherExecutableInstanceRunCommand_Title" xml:space="preserve">
-    <value>運行命令</value>
+    <value>執行命令</value>
   </data>
   <data name="CreateInstance_OtherExecutableInstanceRunCommand_Description" xml:space="preserve">
     <value>在此處輸入運行命令。</value>
@@ -259,7 +259,7 @@
     <value>實例名稱</value>
   </data>
   <data name="CreateInstance_MinecraftJavaJvmArgument_Description" xml:space="preserve">
-    <value>（可選項）在此處添加其他 JVM參數，一行一個。</value>
+    <value>(可選項) 在此處添加其他 JVM參數，一行一個。</value>
   </data>
   <data name="CreateInstance_MinecraftJavaJvmArgument_AddArgument" xml:space="preserve">
     <value>添加參數</value>
@@ -277,10 +277,10 @@
     <value>這決定了您的 Minecraft Java 伺服器將能使用多少記憶體。</value>
   </data>
   <data name="CreateInstance_MinecraftJvmRam_Title" xml:space="preserve">
-    <value>JVM 堆記憶體</value>
+    <value>JVM 堆記憶</value>
   </data>
   <data name="CreateInstance_MinecraftJvmRam_Tip" xml:space="preserve">
-    <value>最小内存 ≤ 最大内存即可</value>
+    <value>最小記憶體 ≤ 最大記憶體即可</value>
   </data>
   <data name="CopyUrl" xml:space="preserve">
     <value>複製鏈接</value>
