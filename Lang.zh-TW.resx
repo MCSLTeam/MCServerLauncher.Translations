@@ -909,7 +909,7 @@
   <data name="PreventGarbageTextTip" xml:space="preserve">
     <value>本選項可防止產生亂碼，請視具體情形而定。</value>
   </data>
-  <data name="EnDeCoding" xml:space="preserve">
+  <data name="Codecs" xml:space="preserve">
     <value>編解碼</value>
   </data>
   <data name="Optimization" xml:space="preserve">
