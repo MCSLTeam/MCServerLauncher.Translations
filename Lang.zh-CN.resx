@@ -869,7 +869,7 @@
     <value>访问密钥</value>
   </data>
   <data name="JvmArgHelper" xml:space="preserve">
-    <value>JVM 参数助手</value>
+    <value>参数助手</value>
   </data>
   <data name="Insert" xml:space="preserve">
     <value>插入</value>
@@ -889,7 +889,7 @@
   <data name="PreventGarbageTextTip" xml:space="preserve">
     <value>本选项可防止产生乱码，请视具体情况指定。</value>
   </data>
-  <data name="EnDeCoding" xml:space="preserve">
+  <data name="Codecs" xml:space="preserve">
     <value>编解码</value>
   </data>
   <data name="Optimization" xml:space="preserve">
@@ -909,5 +909,23 @@
   </data>
   <data name="SelectMinecraftJavaCoreGoResDownloadMessage" xml:space="preserve">
     <value>下载完成后，点击下方按钮即可返回。</value>
+  </data>
+  <data name="JvmArgTemplateSameMemTip" xml:space="preserve">
+    <value>选用下方模板时，请将上方的 JVM 内存堆数值设至相同，否则实例可能无法启动。</value>
+  </data>
+  <data name="JvmArgBasicTemplate" xml:space="preserve">
+    <value>基础（仅适用于 Java 11 及以下）</value>
+  </data>
+  <data name="JvmArgAdvancedTemplate" xml:space="preserve">
+    <value>Aikar Flag（请勿将内存堆设至高于 20 G）</value>
+  </data>
+  <data name="Unused" xml:space="preserve">
+    <value>不使用</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="Jump" xml:space="preserve">
+    <value>跳转</value>
   </data>
 </root>

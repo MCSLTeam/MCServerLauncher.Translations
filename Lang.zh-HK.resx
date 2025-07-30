@@ -909,7 +909,7 @@
   <data name="PreventGarbageTextTip" xml:space="preserve">
     <value />
   </data>
-  <data name="EnDeCoding" xml:space="preserve">
+  <data name="Codecs" xml:space="preserve">
     <value />
   </data>
   <data name="Optimization" xml:space="preserve">

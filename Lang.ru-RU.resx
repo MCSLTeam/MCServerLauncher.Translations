@@ -889,7 +889,7 @@
   <data name="PreventGarbageTextTip" xml:space="preserve">
     <value>本选项可防止产生乱码，请视具体情况指定。</value>
   </data>
-  <data name="EnDeCoding" xml:space="preserve">
+  <data name="Codecs" xml:space="preserve">
     <value>编解码</value>
   </data>
   <data name="Optimization" xml:space="preserve">

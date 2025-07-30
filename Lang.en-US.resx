@@ -889,7 +889,7 @@
   <data name="PreventGarbageTextTip" xml:space="preserve">
     <value>This option prevents garbled characters from being generated, so please specify them on a case-by-case basis.</value>
   </data>
-  <data name="EnDeCoding" xml:space="preserve">
+  <data name="Codecs" xml:space="preserve">
     <value>Codecs</value>
   </data>
   <data name="Optimization" xml:space="preserve">
@@ -908,6 +908,24 @@
     <value></value>
   </data>
   <data name="SelectMinecraftJavaCoreGoResDownloadMessage" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="JvmArgTemplateSameMemTip" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="JvmArgBasicTemplate" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="JvmArgAdvancedTemplate" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Unused" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Jump" xml:space="preserve">
     <value></value>
   </data>
 </root>
