@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ErrorDialogTitle" xml:space="preserve">
-    <value>MCServerLauncher WPF 遇到錯誤</value>
+    <value>MCServerLauncher WPF 遇到問題</value>
   </data>
   <data name="OnlyForWindows" xml:space="preserve">
     <value>WPF 客戶端（僅 Windows）</value>
@@ -127,7 +127,7 @@
     <value>語言 / Language</value>
   </data>
   <data name="FirstSetup_EulaMenu" xml:space="preserve">
-    <value>用戶協定</value>
+    <value>用戶協議</value>
   </data>
   <data name="FirstSetup_ConnectDaemonMenu" xml:space="preserve">
     <value>連接守護進程</value>
@@ -172,7 +172,7 @@
     <value>提示</value>
   </data>
   <data name="NotAllowedOverOpening" xml:space="preserve">
-    <value>MCServerLauncher WPF 不支援重複運行。</value>
+    <value>MCServerLauncher WPF 不支援重複執行。</value>
   </data>
   <data name="DownloadModule_FastMirrorProxyType" xml:space="preserve">
     <value>網路代理</value>
@@ -196,7 +196,7 @@
     <value>Minecraft 基岩版壓縮包</value>
   </data>
   <data name="CreateInstance_Archive_Description" xml:space="preserve">
-    <value>請在此處導入下載的壓縮包。如果不知道在哪裏下載，可點擊右側按鈕跳轉。</value>
+    <value>請在此處導入下載的壓縮包。如果不知道在哪裡下載，可點擊右側按鈕跳轉。</value>
   </data>
   <data name="Archive" xml:space="preserve">
     <value>壓縮包</value>
@@ -208,7 +208,7 @@
     <value>Minecraft 伺服器核心</value>
   </data>
   <data name="CreateInstance_MinecraftJavaCore_Description" xml:space="preserve">
-    <value>請選擇該伺服器將使用的核心檔案。若不知道在何處下載，可點擊右側按鈕跳轉。</value>
+    <value>請選擇該伺服器將要使用的核心檔案。若不知道在何處下載，可點擊右側按鈕跳轉。</value>
   </data>
   <data name="MinecraftCoreFileName" xml:space="preserve">
     <value>核心檔案名稱</value>
@@ -226,7 +226,7 @@
     <value>手動選擇</value>
   </data>
   <data name="ScanJavaAtDaemon" xml:space="preserve">
-    <value>在 Daemon 宿主機中自動搜索</value>
+    <value>在 Daemon 宿主機中自動搜尋</value>
   </data>
   <data name="SelectFromResult" xml:space="preserve">
     <value>從現有結果中選取</value>
@@ -238,7 +238,7 @@
     <value>檔案名</value>
   </data>
   <data name="CreateInstance_OtherExecutableInstanceDependency_Description" xml:space="preserve">
-    <value>請選擇該實例所需的檔案/檔案夾/壓縮包/壓縮包僅支持 ZIP 格式。</value>
+    <value>請選擇該實例所需的檔案/檔案夾/壓縮包/，壓縮包僅支持 ZIP 格式。</value>
   </data>
   <data name="CreateInstance_OtherExecutableInstanceDependency_Title" xml:space="preserve">
     <value>部署依賴</value>
@@ -316,13 +316,13 @@
     <value>更多</value>
   </data>
   <data name="Start" xml:space="preserve">
-    <value>啓動</value>
+    <value>啟動</value>
   </data>
   <data name="Back" xml:space="preserve">
     <value>返回</value>
   </data>
   <data name="PreFinishCreateInstanceTip" xml:space="preserve">
-    <value>完成以下配置后，單擊“繼續”</value>
+    <value>完成以下配置後，單擊“繼續”</value>
   </data>
   <data name="CreateInstance_MinecraftVersionTip" xml:space="preserve">
     <value>請選擇該伺服器將要運行的 Minecraft 版本。</value>
@@ -379,19 +379,19 @@
     <value>拒絕</value>
   </data>
   <data name="Eula1" xml:space="preserve">
-    <value>歡迎使用 MCSL 開發組 提供的 MCServerLauncher （以下簡稱“本軟體”）的軟體和服務。爲了保證用戶權益，在使用本軟體前，請先詳細閲讀本協定的所有内容。我們可能隨時更新本協定，一旦公佈即有效替代原用戶協定書。\n請您仔細閲讀以下内容，儅您使用本軟體時，即代表您已經詳細閲讀並同意本協定的全部内容，且同意遵守本協定的規定。</value>
+    <value>歡迎使用 MCSL 開發組 提供的 MCServerLauncher （以下簡稱“本軟體”）的軟體和服務。爲了保證用戶權益，在使用本軟體前，請先詳細閲讀本協議的所有内容。我們可能隨時更新本協議，一旦公佈即有效替代原用戶協議書。\n請您仔細閲讀以下内容，儅您使用本軟體時，即代表您已經詳細閲讀並同意本協議的全部内容，且同意遵守本協議的規定。</value>
   </data>
   <data name="Eula2" xml:space="preserve">
     <value>使用須知</value>
   </data>
   <data name="Eula3" xml:space="preserve">
-    <value>用戶應自行配備本軟體和本軟體功能（包括但不限於 新建實例 等）所需要的硬體和軟體配置。\n用戶應自行承擔連接互聯網后所需支付的相關電話、寬帶等費用。\n用戶應為其使用本軟體產生的行爲、事件、結果承擔法律責任。\n用戶與其他未授權的非官方個人之間產生的任何交易與糾紛，與開發者無關。\n用戶應遵守中華人民共和國相關法律法規（如果用戶是中華人民共和國境外的使用者，還應遵守所屬國家或地區的法律法規）。\n用戶不得使用本軟體（或本軟體的一些特性功能）從事非法行爲</value>
+    <value>用戶應自行配備本軟體和本軟體功能（包括但不限於 新建實例 等）所需要的硬體和軟體配置。\n用戶應自行承擔連接網際網路後所需支付的相關電話、寬頻等費用。\n用戶應為其使用本軟體產生的行爲、事件、結果承擔法律責任。\n用戶與其他未授權的非官方個人之間產生的任何交易與糾紛，與開發者無關。\n用戶應遵守中華人民共和國相關法律法規（如果用戶是中華人民共和國境外的使用者，還應遵守所屬國家或地區的法律法規）。\n用戶不得使用本軟體（或本軟體的一些特性功能）從事違法行爲</value>
   </data>
   <data name="Eula4" xml:space="preserve">
     <value>數據收集與使用</value>
   </data>
   <data name="Eula5" xml:space="preserve">
-    <value>若您同意本使用協定且使用本軟體的在綫服務，我們會收集以下信息：\n本軟體所運行設備的IP位址（可能并非正確地址）；\n本軟體所運行設備的部分系統信息；\n本軟體崩潰時，可能會在經用戶同意的情況下，上傳軟體在系統執行的日志（含有部分系統信息），以幫助解決問題和改善軟體；\n其他會在經用戶同意情況下上傳的部分信息（軟體中會有具體説明）。</value>
+    <value>若您同意本使用協議且使用本軟體的線上服務，我們會收集以下信息：\n本軟體所運行設備的IP位址（可能並非正確地址）；\n本軟體所運行設備的部分系統信息；\n本軟體崩潰時，可能會在經用戶同意的情況下，上傳軟體在系統執行的日志（含有部分系統資訊），以幫助解決問題和改善軟體；\n其他會在經用戶同意情況下上傳的部分信息（軟體中會有具體説明）。</value>
   </data>
   <data name="Eula6" xml:space="preserve">
     <value>用戶支持和反饋</value>
@@ -403,7 +403,7 @@
     <value>服務的變更或中止</value>
   </data>
   <data name="Eula9" xml:space="preserve">
-    <value>1.對用戶的中止與終止\n\n用戶有發佈違法信息、嚴重違背社會公德、以及其他違反法律禁止性規定的行爲，開發者應終止對用戶提供服務；\n用戶在接受本軟體服務時實施不正當行爲的，開發者有權終止對用戶提供服務（該不正當行爲的具體情形在本協定中有明確規定）；\n用戶使用本軟體的第三方更改版本的，用戶應自行承擔風險與法律責任。\n\n2.對本軟體及服務的中斷、中止與終止：\n\n發生下列情形之一時，開發者有權終止或中斷本軟體全部或部分服務，對因此造成的不便及損害，開發者對用戶或第三人均不承擔任何責任：\n\na.因本軟體及服務自身的需要；\nb.因伺服器遭受侵害、無法正常工作；\nc.因突發性的軟硬體設備與電子通信設備故障；\nd.因網路提供商綫路或其他故障；\ne.因政策因素；\nf.第三方原因或其他不可抗力的情形。\n\n開發者保留在其認爲有必要情況下終止或部分終止本軟體及服務的權利，開發者可以采取公告的形式通知用戶，但開發者不承擔對用戶造成的任何損失。</value>
+    <value>1.對用戶的中止與終止\n\n用戶有發佈違法信息、嚴重違背社會公德、以及其他違反法律禁止性規定的行爲，開發者應終止對用戶提供服務；\n用戶在接受本軟體服務時實施不正當行爲的，開發者有權終止對用戶提供服務（該不正當行爲的具體情形在本協議中有明確規定）；\n用戶使用本軟體的第三方更改版本的，用戶應自行承擔風險與法律責任。\n\n2.對本軟體及服務的中斷、中止與終止：\n\n發生下列情形之一時，開發者有權終止或中斷本軟體全部或部分服務，對因此造成的不便及損害，開發者對用戶或第三人均不承擔任何責任：\n\na.因本軟體及服務自身的需要；\nb.因伺服器遭受侵害、無法正常工作；\nc.因突發性的軟硬體設備與電子通信設備故障；\nd.因網路提供商綫路或其他故障；\ne.因政策因素；\nf.第三方原因或其他不可抗力的情形。\n\n開發者保留在其認爲有必要情況下終止或部分終止本軟體及服務的權利，開發者可以采取公告的形式通知用戶，但開發者不承擔對用戶造成的任何損失。</value>
   </data>
   <data name="Eula10" xml:space="preserve">
     <value>免責聲明</value>
@@ -421,19 +421,19 @@
     <value>條款變更</value>
   </data>
   <data name="Eula15" xml:space="preserve">
-    <value>開發者有權在必要時修改本協定。本協定一旦發生變動，開發者將在重要頁面展示修改内容。若用戶不同意本協定的修訂或更新，可以主動停止使用本軟體及服務。若用戶在本協定修訂後仍繼續使用本軟體及服務，即表示用戶同意本協定所做的所有修訂或更新。若用戶在本協定后因未熟悉變更而引起的損失，開發者不承擔任何責任。</value>
+    <value>開發者有權在必要時修改本協議。本協議一旦發生變動，開發者將在重要頁面展示修改内容。若用戶不同意本協議的修訂或更新，可以主動停止使用本軟體及服務。若用戶在本協議修訂後仍繼續使用本軟體及服務，即表示用戶同意本協議所做的所有修訂或更新。若用戶在本協議后因未熟悉變更而引起的損失，開發者不承擔任何責任。</value>
   </data>
   <data name="Eula16" xml:space="preserve">
     <value>其他規定</value>
   </data>
   <data name="Eula17" xml:space="preserve">
-    <value>本協定適用於中華人民共和國法律，并且排除一切衝突法規規定地適用；\n開發者不行使、未能及時行使或充分行使本協定或者依照法律規定所享有的權利，不應被視爲放棄行使該權利，也不得影響開發者在將來行使該等權利；\n在法律許可範圍内，開發者享有對本協定條款的解釋權；\n用戶可以透過電子郵箱投訴、舉報各類違法違規行爲，郵件請發送至 services@mcsl.com.cn。</value>
+    <value>本協議適用於中華人民共和國法律，并且排除一切衝突法規規定地適用；\n開發者不行使、未能及時行使或充分行使本協議或者依照法律規定所享有的權利，不應被視爲放棄行使該權利，也不得影響開發者在將來行使該等權利；\n在法律許可範圍内，開發者享有對本協議條款的解釋權；\n用戶可以透過電子郵箱投訴、舉報各類違法違規行爲，郵件請發送至 services@mcsl.com.cn。</value>
   </data>
   <data name="Eula18" xml:space="preserve">
     <value>條款可分性</value>
   </data>
   <data name="Eula19" xml:space="preserve">
-    <value>如果本協定的任何條款被認定爲無效，或不可執行，其餘條款仍應完全有效。</value>
+    <value>如果本協議的任何條款被認定爲無效，或不可執行，其餘條款仍應完全有效。</value>
   </data>
   <data name="PreCreateInstanceTip" xml:space="preserve">
     <value>請選擇欲操作的方式：</value>
@@ -529,7 +529,7 @@
     <value>自動同意 EULA（Minecraft Java 版伺服器實例）</value>
   </data>
   <data name="Settings_AutoAcceptMinecraftJavaEula_Description" xml:space="preserve">
-    <value>自動同意即代表您遵守 Minecraft 最終用戶許可協定，且認同 MCSL 不承擔任何連帶責任。</value>
+    <value>自動同意即代表您遵守 Minecraft 最終用戶許可協議，且認同 MCSL 不承擔任何連帶責任。</value>
   </data>
   <data name="Settings_AutoDisableMinecraftJavaOnlineMode_Title" xml:space="preserve">
     <value>自動禁用正版驗證（Minecraft Java 版伺服器實例）</value>
@@ -637,7 +637,7 @@
     <value>此項目受《中華人民共和國著作權法》和國際條約保護，如未經授權而擅自複製或傳播本程式或其中任何部分，將受到嚴厲的民事和刑事制裁，并將在法律許可的最大限度内收到起訴。</value>
   </data>
   <data name="Settings_About_OpenSourceLicenseProtected" xml:space="preserve">
-    <value>此項目受開源協定 GNU General Public License Version 3.0 保護，原始碼托管至</value>
+    <value>此項目受開源協議 GNU General Public License Version 3.0 保護，原始碼托管至</value>
   </data>
   <data name="PeriodSymbol" xml:space="preserve">
     <value>。</value>
@@ -661,10 +661,10 @@
     <value>你確定嗎？</value>
   </data>
   <data name="FirstSetup_EulaDisagreeTip" xml:space="preserve">
-    <value>若您拒絕用戶協定，本軟體將退出。</value>
+    <value>若您拒絕用戶協議，本軟體將退出。</value>
   </data>
   <data name="FirstSetup_FakeEulaAgreeTip" xml:space="preserve">
-    <value>請確保您已完整閲讀后再點擊同意。您至少要把協定滾動到底吧。</value>
+    <value>請確保您已完整閲讀后再點擊同意。您至少要把協議滾動到底吧。</value>
   </data>
   <data name="OK" xml:space="preserve">
     <value>好的</value>
@@ -673,7 +673,7 @@
     <value>不是現在</value>
   </data>
   <data name="FirstSetup_EulaAgreeTip" xml:space="preserve">
-    <value>這代表您同意本協定的所有内容。</value>
+    <value>這代表您同意本協議的所有内容。</value>
   </data>
   <data name="ResDownloadTipSuffix" xml:space="preserve">
     <value>下載源）</value>
