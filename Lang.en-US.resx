@@ -899,33 +899,33 @@
     <value>Preset parameters optimized for Minecraft Servers. You can choose one to apply.</value>
   </data>
   <data name="DeadProcessTip" xml:space="preserve">
-    <value>我们遇到了意料之外的异常，但已将关键的错误信息复制到剪贴板。程序已无法继续运行，即将关闭。</value>
+    <value>We encountered an unexpected exception, but the key error information has been copied to the clipboard. The program can no longer continue running and will close shortly.</value>
   </data>
   <data name="GoBackLostTip" xml:space="preserve">
-    <value />
+    <value>If you return now, all modifications will be lost. Please proceed with caution.</value>
   </data>
   <data name="SelectMinecraftJavaCore" xml:space="preserve">
-    <value />
+    <value>Select the Minecraft Java Edition core</value>
   </data>
   <data name="SelectMinecraftJavaCoreGoResDownloadMessage" xml:space="preserve">
-    <value />
+    <value>After the download is complete, click the button below to return.</value>
   </data>
   <data name="JvmArgTemplateSameMemTip" xml:space="preserve">
-    <value />
+    <value>When using the template below, please set the JVM memory heap value above to the same value; otherwise, the instance may fail to start..</value>
   </data>
   <data name="JvmArgBasicTemplate" xml:space="preserve">
-    <value />
+    <value>Basic (only applicable to Java 11 and below)</value>
   </data>
   <data name="JvmArgAdvancedTemplate" xml:space="preserve">
-    <value />
+    <value>Aikar Flag (Do not set the memory heap higher than 20 G)</value>
   </data>
   <data name="Unused" xml:space="preserve">
-    <value />
+    <value>Not use</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value />
+    <value>Delete</value>
   </data>
   <data name="Jump" xml:space="preserve">
-    <value />
+    <value>Jump</value>
   </data>
 </root>
