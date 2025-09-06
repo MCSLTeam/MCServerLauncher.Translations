@@ -433,7 +433,7 @@
     <value>條款可分性</value>
   </data>
   <data name="Eula19" xml:space="preserve">
-    <value>如果本協議的任何條款被認定爲無效，或不可執行，其餘條款仍應完全有效。</value>
+    <value>如果本協議的任何條款被認定為無效，或不可執行，其餘條款仍應完全有效。</value>
   </data>
   <data name="PreCreateInstanceTip" xml:space="preserve">
     <value>請選擇欲操作的方式：</value>
@@ -637,7 +637,7 @@
     <value>此項目受《中華人民共和國著作權法》和國際條約保護，如未經授權而擅自複製或傳播本程式或其中任何部分，將受到嚴厲的民事和刑事制裁，并將在法律許可的最大限度内收到起訴。</value>
   </data>
   <data name="Settings_About_OpenSourceLicenseProtected" xml:space="preserve">
-    <value>此項目受開源協議 GNU General Public License Version 3.0 保護，原始碼托管至</value>
+    <value>此項目受開源協議 GNU General Public License Version 3.0 保護，源代碼託管至</value>
   </data>
   <data name="PeriodSymbol" xml:space="preserve">
     <value>。</value>
@@ -661,7 +661,7 @@
     <value>你確定嗎？</value>
   </data>
   <data name="FirstSetup_EulaDisagreeTip" xml:space="preserve">
-    <value>若您拒絕用戶協議，本軟體將退出。</value>
+    <value>若您拒絕使用協定，本軟體將退出。</value>
   </data>
   <data name="FirstSetup_FakeEulaAgreeTip" xml:space="preserve">
     <value>請確保您已完整閲讀后再點擊同意。您至少要把協議滾動到底吧。</value>
