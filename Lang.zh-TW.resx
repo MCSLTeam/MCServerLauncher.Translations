@@ -889,7 +889,7 @@
     <value>訪問密鑰</value>
   </data>
   <data name="JvmArgHelper" xml:space="preserve">
-    <value>JVM 參數助手</value>
+    <value>參數助手</value>
   </data>
   <data name="Insert" xml:space="preserve">
     <value>插入</value>
@@ -929,5 +929,23 @@
   </data>
   <data name="SelectMinecraftJavaCoreGoResDownloadMessage" xml:space="preserve">
     <value>下載完成後，點擊下方按鈕即可返回。</value>
+  </data>
+  <data name="JvmArgTemplateSameMemTip" xml:space="preserve">
+    <value>選用下方範本時，請將上方的 JVM 記憶體堆數值設為相同，否則執行個體可能無法啟動。</value>
+  </data>
+  <data name="JvmArgBasicTemplate" xml:space="preserve">
+    <value>基礎 (僅適用於 Java 11 或以下)</value>
+  </data>
+  <data name="Unused" xml:space="preserve">
+    <value>停用</value>
+  </data>
+  <data name="Jump" xml:space="preserve">
+    <value>跳轉</value>
+  </data>
+  <data name="JvmArgAdvancedTemplate" xml:space="preserve">
+    <value>Aikar Flag（請勿將記憶體堆設為高於 20 G）</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>刪除</value>
   </data>
 </root>
