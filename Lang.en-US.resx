@@ -550,8 +550,8 @@
   <data name="Settings_PolarsMirrorName" xml:space="preserve">
     <value>PolarsMirror (Provided by 极星网络)</value>
   </data>
-  <data name="Settings_ZCloudFileName" xml:space="preserve">
-    <value>ZCloud File (Provided by Z__Tsin)</value>
+  <data name="Settings_RainYunName" xml:space="preserve">
+    <value>RainYun Mirror</value>
   </data>
   <data name="Settings_MSLAPIName" xml:space="preserve">
     <value>MSLAPI (Provided by Minecraft-Server-Launcher)</value>

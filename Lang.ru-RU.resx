@@ -550,8 +550,8 @@
   <data name="Settings_PolarsMirrorName" xml:space="preserve">
     <value>Изображение облака Polestar (любезно предоставлено Polestar Network)</value>
   </data>
-  <data name="Settings_ZCloudFileName" xml:space="preserve">
-    <value>Файл ZCloud (предоставлен Z__Tsin членом команды разработчиков)</value>
+  <data name="Settings_RainYunName" xml:space="preserve">
+    <value>RainYun Mirror</value>
   </data>
   <data name="Settings_MSLAPIName" xml:space="preserve">
     <value>Исходный код загрузки MSL (предоставлен MSL Server Builder)</value>

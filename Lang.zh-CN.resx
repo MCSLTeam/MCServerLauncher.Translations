@@ -550,8 +550,8 @@
   <data name="Settings_PolarsMirrorName" xml:space="preserve">
     <value>极星云镜像 (由极星网络提供)</value>
   </data>
-  <data name="Settings_ZCloudFileName" xml:space="preserve">
-    <value>ZCloud File (由开发组成员 Z__Tsin 提供)</value>
+  <data name="Settings_RainYunName" xml:space="preserve">
+    <value>雨云镜像站</value>
   </data>
   <data name="Settings_MSLAPIName" xml:space="preserve">
     <value>MSL下载源 (由 MSL 开服器提供)</value>

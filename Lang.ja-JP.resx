@@ -550,8 +550,8 @@
   <data name="Settings_PolarsMirrorName" xml:space="preserve">
     <value>Polestar Cloud Image(提供:Polestar Network)</value>
   </data>
-  <data name="Settings_ZCloudFileName" xml:space="preserve">
-    <value>ZCloudファイル(開発チームZ__Tsinメンバーが提供)</value>
+  <data name="Settings_RainYunName" xml:space="preserve">
+    <value>RainYun Mirror</value>
   </data>
   <data name="Settings_MSLAPIName" xml:space="preserve">
     <value>MSL ダウンロード ソース (MSL Server Builder によって提供)</value>
