@@ -941,9 +941,18 @@
     <value>运行中</value>
   </data>
   <data name="AllRunningStatus" xml:space="preserve">
-    <value>所有运行状态</value>
+    <value>所有状态</value>
   </data>
   <data name="Stopped" xml:space="preserve">
     <value>已停止</value>
+  </data>
+  <data name="Crashed" xml:space="preserve">
+    <value>已崩溃</value>
+  </data>
+  <data name="Stopping" xml:space="preserve">
+    <value>关闭中</value>
+  </data>
+  <data name="Starting" xml:space="preserve">
+    <value>启动中</value>
   </data>
 </root>

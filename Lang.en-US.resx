@@ -946,4 +946,13 @@
   <data name="Stopped" xml:space="preserve">
     <value></value>
   </data>
+  <data name="Crashed" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Stopping" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="Starting" xml:space="preserve">
+    <value></value>
+  </data>
 </root>
