@@ -928,4 +928,22 @@
   <data name="Jump" xml:space="preserve">
     <value>跳转</value>
   </data>
+  <data name="ShowRealtimeLog" xml:space="preserve">
+    <value>显示实时日志</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="AllDaemon" xml:space="preserve">
+    <value>所有守护进程</value>
+  </data>
+  <data name="Running" xml:space="preserve">
+    <value>运行中</value>
+  </data>
+  <data name="AllRunningStatus" xml:space="preserve">
+    <value>所有运行状态</value>
+  </data>
+  <data name="Stopped" xml:space="preserve">
+    <value>已停止</value>
+  </data>
 </root>
