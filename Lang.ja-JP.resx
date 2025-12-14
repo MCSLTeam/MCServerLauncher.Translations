@@ -151,7 +151,7 @@
   <data name="Tip" xml:space="preserve">
     <value>プロンプト</value>
   </data>
-  <data name="NotAllowedOverOpening" xml:space="preserve">
+  <data name="NotAllowedMultipleProcess" xml:space="preserve">
     <value>MCServerLauncher WPF では、重複する実行はサポートされていません。</value>
   </data>
   <data name="DownloadModule_FastMirrorProxyType" xml:space="preserve">

@@ -151,7 +151,7 @@
   <data name="Tip" xml:space="preserve">
     <value>подсказывать</value>
   </data>
-  <data name="NotAllowedOverOpening" xml:space="preserve">
+  <data name="NotAllowedMultipleProcess" xml:space="preserve">
     <value>MCServerLauncher WPF не поддерживает дубликаты запусков.</value>
   </data>
   <data name="DownloadModule_FastMirrorProxyType" xml:space="preserve">

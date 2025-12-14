@@ -151,7 +151,7 @@
   <data name="Tip" xml:space="preserve">
     <value>Tip</value>
   </data>
-  <data name="NotAllowedOverOpening" xml:space="preserve">
+  <data name="NotAllowedMultipleProcess" xml:space="preserve">
     <value>Please do not run MCServerLauncher WPF repeatedly.</value>
   </data>
   <data name="DownloadModule_FastMirrorProxyType" xml:space="preserve">
@@ -954,5 +954,8 @@
   </data>
   <data name="Starting" xml:space="preserve">
     <value></value>
+  </data>
+  <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve">
+    <value>RainYun Mirror</value>
   </data>
 </root>
