@@ -122,7 +122,7 @@
     <value> Language</value>
   </data>
   <data name="FirstSetup_SetLanguageHintReverse" xml:space="preserve">
-    <value>设置语言</value>
+    <value> 设置语言</value>
   </data>
   <data name="Main_HomeNavMenu" xml:space="preserve">
     <value>Home</value>
@@ -338,7 +338,7 @@
     <value>Please select the Quilt Loader version of the server.</value>
   </data>
   <data name="OnlyShowReleaseVersion" xml:space="preserve">
-    <value>Only show release versions</value>
+    <value>Releases Only</value>
   </data>
   <data name="ResDownload_InstanceCore" xml:space="preserve">
     <value>Server Core</value>
@@ -869,7 +869,7 @@
     <value>Token</value>
   </data>
   <data name="JvmArgHelper" xml:space="preserve">
-    <value>JVM Parameter Helper</value>
+    <value>Parameter Helper</value>
   </data>
   <data name="Insert" xml:space="preserve">
     <value>Insert</value>
