@@ -870,9 +870,6 @@
   <data name="DaemonFriendlyName" xml:space="preserve">
     <value>備注名</value>
   </data>
-  <data name="Main_DaemonManagerNavMenu" xml:space="preserve">
-    <value>守護進程</value>
-  </data>
   <data name="DaemonManagerTip" xml:space="preserve">
     <value>安全護航，只在執掌。</value>
   </data>

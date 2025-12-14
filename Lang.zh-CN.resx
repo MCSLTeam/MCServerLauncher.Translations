@@ -851,7 +851,7 @@
     <value>备注名</value>
   </data>
   <data name="Main_DaemonManagerNavMenu" xml:space="preserve">
-    <value>守护进程</value>
+    <value>宿主主机</value>
   </data>
   <data name="DaemonManagerTip" xml:space="preserve">
     <value>安全护航，只在指掌。</value>
@@ -935,7 +935,7 @@
     <value>搜索</value>
   </data>
   <data name="AllDaemon" xml:space="preserve">
-    <value>所有守护进程</value>
+    <value>所有宿主主机</value>
   </data>
   <data name="Running" xml:space="preserve">
     <value>运行中</value>
@@ -957,5 +957,8 @@
   </data>
   <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve">
     <value>雨云镜像站</value>
+  </data>
+  <data name="PleaseSelectDaemon" xml:space="preserve">
+    <value>请选择将要运行此实例的宿主主机。</value>
   </data>
 </root>

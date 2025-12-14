@@ -851,7 +851,7 @@
     <value>Comment Name</value>
   </data>
   <data name="Main_DaemonManagerNavMenu" xml:space="preserve">
-    <value>Daemon</value>
+    <value>Host</value>
   </data>
   <data name="DaemonManagerTip" xml:space="preserve">
     <value>Secure escort, in the palm of your hand.</value>
@@ -935,7 +935,7 @@
     <value></value>
   </data>
   <data name="AllDaemon" xml:space="preserve">
-    <value></value>
+    <value>All Hosts</value>
   </data>
   <data name="Running" xml:space="preserve">
     <value></value>
@@ -957,5 +957,8 @@
   </data>
   <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve">
     <value>RainYun Mirror</value>
+  </data>
+  <data name="PleaseSelectDaemon" xml:space="preserve">
+    <value>Please select the host that you will serve the instance.</value>
   </data>
 </root>
