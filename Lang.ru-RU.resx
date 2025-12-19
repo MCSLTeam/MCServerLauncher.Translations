@@ -202,12 +202,6 @@
   <data name="JavaPath" xml:space="preserve">
     <value>Java-путь</value>
   </data>
-  <data name="SelectManually" xml:space="preserve">
-    <value>Ручной выбор</value>
-  </data>
-  <data name="ScanJavaAtDaemon" xml:space="preserve">
-    <value>Автоматический поиск на хостах демона</value>
-  </data>
   <data name="SelectFromResult" xml:space="preserve">
     <value>Выбор из существующих результатов</value>
   </data>

@@ -202,17 +202,17 @@
   <data name="JavaPath" xml:space="preserve">
     <value>Java 路径</value>
   </data>
-  <data name="SelectManually" xml:space="preserve">
-    <value>手动选择</value>
+  <data name="Install" xml:space="preserve">
+    <value>安装</value>
   </data>
   <data name="ScanJavaAtDaemon" xml:space="preserve">
-    <value>在 Daemon 宿主机自动搜索</value>
+    <value>自动搜索</value>
   </data>
   <data name="SelectFromResult" xml:space="preserve">
     <value>从现有结果中选取</value>
   </data>
   <data name="MinecraftJavaRequirementTip" xml:space="preserve">
-    <value>1.12+ 要求 Java 8\n1.17+ 要求 Java 16\n1.18+ 要求 Java 17\n1.20.5+ 要求 Java 21</value>
+    <value>1.12+ 要求 Java 8\n1.17+ 要求 Java 16\n1.18+ 要求 Java 17\n1.20.5+ 要求 Java 21\n26.1+ 要求 Java 25</value>
   </data>
   <data name="FileName" xml:space="preserve">
     <value>文件名</value>
@@ -960,5 +960,8 @@
   </data>
   <data name="PleaseSelectDaemon" xml:space="preserve">
     <value>请选择将要运行此实例的宿主主机。</value>
+  </data>
+  <data name="PleaseSelectJvm" xml:space="preserve">
+    <value>请选择将要使用的 Java 运行时。</value>
   </data>
 </root>

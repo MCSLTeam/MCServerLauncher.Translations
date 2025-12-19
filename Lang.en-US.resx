@@ -202,11 +202,11 @@
   <data name="JavaPath" xml:space="preserve">
     <value>Java Path</value>
   </data>
-  <data name="SelectManually" xml:space="preserve">
-    <value>Select Manually</value>
+  <data name="Install" xml:space="preserve">
+    <value>Install</value>
   </data>
   <data name="ScanJavaAtDaemon" xml:space="preserve">
-    <value>Automatically scan on the Daemon host</value>
+    <value></value>
   </data>
   <data name="SelectFromResult" xml:space="preserve">
     <value>Select from existing results</value>
@@ -960,5 +960,8 @@
   </data>
   <data name="PleaseSelectDaemon" xml:space="preserve">
     <value>Please select the host that you will serve the instance.</value>
+  </data>
+  <data name="PleaseSelectJvm" xml:space="preserve">
+    <value></value>
   </data>
 </root>

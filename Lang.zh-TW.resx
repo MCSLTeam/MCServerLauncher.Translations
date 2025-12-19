@@ -222,12 +222,6 @@
   <data name="JavaPath" xml:space="preserve">
     <value>Java 路徑</value>
   </data>
-  <data name="SelectManually" xml:space="preserve">
-    <value>手動選擇</value>
-  </data>
-  <data name="ScanJavaAtDaemon" xml:space="preserve">
-    <value>在 Daemon 宿主機中自動搜尋</value>
-  </data>
   <data name="SelectFromResult" xml:space="preserve">
     <value>從現有結果中選取</value>
   </data>

@@ -222,7 +222,7 @@
   <data name="JavaPath" xml:space="preserve">
     <value />
   </data>
-  <data name="SelectManually" xml:space="preserve">
+  <data name="Install" xml:space="preserve">
     <value />
   </data>
   <data name="ScanJavaAtDaemon" xml:space="preserve">

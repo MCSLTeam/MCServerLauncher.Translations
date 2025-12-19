@@ -202,12 +202,6 @@
   <data name="JavaPath" xml:space="preserve">
     <value>Java パス</value>
   </data>
-  <data name="SelectManually" xml:space="preserve">
-    <value>手動選択</value>
-  </data>
-  <data name="ScanJavaAtDaemon" xml:space="preserve">
-    <value>デーモンホストで自動的に検索</value>
-  </data>
   <data name="SelectFromResult" xml:space="preserve">
     <value>既存の結果から選択</value>
   </data>
