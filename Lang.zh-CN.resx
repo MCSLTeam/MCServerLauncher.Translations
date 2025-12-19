@@ -964,4 +964,10 @@
   <data name="PleaseSelectJvm" xml:space="preserve">
     <value>请选择将要使用的 Java 运行时。</value>
   </data>
+  <data name="PleaseWait" xml:space="preserve">
+    <value>请稍等</value>
+  </data>
+  <data name="SearchingJvmTip" xml:space="preserve">
+    <value>正在搜索 Java 运行时…</value>
+  </data>
 </root>

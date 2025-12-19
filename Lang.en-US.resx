@@ -964,4 +964,10 @@
   <data name="PleaseSelectJvm" xml:space="preserve">
     <value></value>
   </data>
+  <data name="PleaseWait" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SearchingJvmTip" xml:space="preserve">
+    <value></value>
+  </data>
 </root>
