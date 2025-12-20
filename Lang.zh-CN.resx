@@ -970,4 +970,10 @@
   <data name="SearchingJvmTip" xml:space="preserve">
     <value>正在搜索 Java 运行时…</value>
   </data>
+  <data name="ConnectDaemonFailedSubTip" xml:space="preserve">
+    <value>请检查网络并重试。若您的计算机网络正常，则您的守护进程极大可能出现了异常，或远端防火墙未放行。</value>
+  </data>
+  <data name="SelectOtherDaemon" xml:space="preserve">
+    <value>选择其他……</value>
+  </data>
 </root>

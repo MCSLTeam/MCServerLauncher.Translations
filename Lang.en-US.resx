@@ -970,4 +970,10 @@
   <data name="SearchingJvmTip" xml:space="preserve">
     <value></value>
   </data>
+  <data name="ConnectDaemonFailedSubTip" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SelectOtherDaemon" xml:space="preserve">
+    <value></value>
+  </data>
 </root>
