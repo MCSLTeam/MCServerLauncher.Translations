@@ -752,7 +752,7 @@
     <value>Please bring a detailed error log when asking questions, otherwise everything is tantamount to driving with your eyes closed.</value>
   </data>
   <data name="ConsoleCommand_EnterFullScreenConsole" xml:space="preserve">
-    <value>Enter Fullscreen Terminal</value>
+    <value>Enter Fullscreen</value>
   </data>
   <data name="Stop" xml:space="preserve">
     <value>Stop</value>
@@ -975,5 +975,14 @@
   </data>
   <data name="SelectOtherDaemon" xml:space="preserve">
     <value></value>
+  </data>
+  <data name="NothingHere" xml:space="preserve">
+    <value>Nothing here yet</value>
+  </data>
+  <data name="TryAddSomething" xml:space="preserve">
+    <value>Try to add something interesting here.</value>
+  </data>
+  <data name="ConsoleCommand_ExitFullScreenConsole" xml:space="preserve">
+    <value>Exit Fullscreen</value>
   </data>
 </root>
