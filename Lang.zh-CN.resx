@@ -988,4 +988,13 @@
   <data name="SelectAll" xml:space="preserve">
     <value>选择全部</value>
   </data>
+  <data name="Players" xml:space="preserve">
+    <value>玩家</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>查看</value>
+  </data>
+  <data name="ConsoleCommand_EnterCommandTip" xml:space="preserve">
+    <value>在此输入命令...</value>
+  </data>
 </root>
