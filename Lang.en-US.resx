@@ -985,4 +985,7 @@
   <data name="ConsoleCommand_ExitFullScreenConsole" xml:space="preserve">
     <value>Exit Fullscreen</value>
   </data>
+  <data name="SelectAll" xml:space="preserve">
+    <value>Select All</value>
+  </data>
 </root>

@@ -985,4 +985,7 @@
   <data name="ConsoleCommand_ExitFullScreenConsole" xml:space="preserve">
     <value>退出全屏终端</value>
   </data>
+  <data name="SelectAll" xml:space="preserve">
+    <value>选择全部</value>
+  </data>
 </root>
