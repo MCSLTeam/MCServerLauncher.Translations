@@ -997,4 +997,10 @@
   <data name="ConsoleCommand_EnterCommandTip" xml:space="preserve">
     <value>Type command here...</value>
   </data>
+  <data name="FuncDisabled" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="FuncDisabledReason_NoDaemon" xml:space="preserve">
+    <value></value>
+  </data>
 </root>
