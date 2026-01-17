@@ -206,7 +206,7 @@
     <value>Install</value>
   </data>
   <data name="ScanJavaAtDaemon" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="SelectFromResult" xml:space="preserve">
     <value>Select from existing results</value>
@@ -929,31 +929,31 @@
     <value>Jump</value>
   </data>
   <data name="ShowRealtimeLog" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Search" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="AllDaemon" xml:space="preserve">
     <value>All Hosts</value>
   </data>
   <data name="Running" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="AllRunningStatus" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Stopped" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Crashed" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Stopping" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Starting" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve">
     <value>RainYun Mirror</value>
@@ -962,19 +962,19 @@
     <value>Please select the host that you will serve the instance.</value>
   </data>
   <data name="PleaseSelectJvm" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="PleaseWait" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="SearchingJvmTip" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="ConnectDaemonFailedSubTip" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="SelectOtherDaemon" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="NothingHere" xml:space="preserve">
     <value>Nothing here yet</value>
@@ -998,9 +998,9 @@
     <value>Type command here...</value>
   </data>
   <data name="FuncDisabled" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="FuncDisabledReason_NoDaemon" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
 </root>
