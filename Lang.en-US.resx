@@ -1142,4 +1142,4 @@ This action cannot be undone.</value>
   <data name="TDSM" xml:space="preserve">
     <value>Terraria TDSM</value>
   </data>
-</root>
+<data name="ConfirmDelete" xml:space="preserve"><value>Confirm Delete</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>Are you sure you want to delete daemon '{0}'?</value></data></root>

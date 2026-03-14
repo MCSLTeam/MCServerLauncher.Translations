@@ -943,4 +943,4 @@
   <data name="Terraria" xml:space="preserve"><value>Terraria</value></data>
   <data name="TShock" xml:space="preserve"><value>Terraria TShock</value></data>
   <data name="TDSM" xml:space="preserve"><value>Terraria TDSM</value></data>
-</root>
+<data name="ConfirmDelete" xml:space="preserve"><value>Подтверждение удаления</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>Вы уверены, что хотите удалить демон «{0}»?</value></data></root>
