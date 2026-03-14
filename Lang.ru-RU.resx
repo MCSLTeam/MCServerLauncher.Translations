@@ -1,90 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root>
-  <!-- 
-		Microsoft ResX Schema
+<?xml version='1.0' encoding='utf-8'?>
+<root xmlns:ns1="urn:schemas-microsoft-com:xml-msdata" xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
-		Version 1.3
-
-		The primary goals of this format is to allow a simple XML format 
-		that is mostly human readable. The generation and parsing of the 
-		various data types are done through the TypeConverter classes 
-		associated with the data types.
-
-		Example:
-
-		... ado.net/XML headers & schema ...
-		<resheader name="resmimetype">text/microsoft-resx</resheader>
-		<resheader name="version">1.3</resheader>
-		<resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-		<resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-		<data name="Name1">this is my long string</data>
-		<data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-		<data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-			[base64 mime encoded serialized .NET Framework object]
-		</data>
-		<data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-			[base64 mime encoded string representing a byte array form of the .NET Framework object]
-		</data>
-
-		There are any number of "resheader" rows that contain simple 
-		name/value pairs.
-
-		Each data row contains a name, and value. The row also contains a 
-		type or mimetype. Type corresponds to a .NET class that support 
-		text/value conversion through the TypeConverter architecture. 
-		Classes that don't support this are serialized and stored with the 
-		mimetype set.
-
-		The mimetype is used for serialized objects, and tells the 
-		ResXResourceReader how to depersist the object. This is currently not 
-		extensible. For a given mimetype the value must be set accordingly:
-
-		Note - application/x-microsoft.net.object.binary.base64 is the format 
-		that the ResXResourceWriter will generate, however the reader can 
-		read any of the formats listed below.
-
-		mimetype: application/x-microsoft.net.object.binary.base64
-		value   : The object must be serialized with 
-			: System.Serialization.Formatters.Binary.BinaryFormatter
-			: and then encoded with base64 encoding.
-
-		mimetype: application/x-microsoft.net.object.soap.base64
-		value   : The object must be serialized with 
-			: System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-			: and then encoded with base64 encoding.
-
-		mimetype: application/x-microsoft.net.object.bytearray.base64
-		value   : The object must be serialized into a byte array 
-			: using a System.ComponentModel.TypeConverter
-			: and then encoded with base64 encoding.
-	-->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
+  <xs:schema id="root">
+    <xs:element name="root" ns1:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="data">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" ns1:Ordinal="1" />
+                <xs:element name="comment" type="xsd:string" minOccurs="0" ns1:Ordinal="2" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xsd:string" ns1:Ordinal="1" />
+              <xs:attribute name="type" type="xsd:string" ns1:Ordinal="3" />
+              <xs:attribute name="mimetype" type="xsd:string" ns1:Ordinal="4" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="resheader">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" ns1:Ordinal="1" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xsd:string" use="required" />
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -92,10 +35,12 @@
     <value>1.3</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0,
+      Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0,
+      Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ErrorDialogTitle" xml:space="preserve">
     <value>Произошла ошибка с MCServerLauncher WPF</value>
@@ -539,10 +484,10 @@
     <value>Выберите поставщика загрузки для использования на странице Загрузка ресурсов.</value>
   </data>
   <data name="Settings_FastMirrorName" xml:space="preserve">
-    <value>FastMirror (предоставляется Monogatari Cloud Computing)</value>
+    <value>FastMirror (предоставляется 物语云计算)</value>
   </data>
   <data name="Settings_PolarsMirrorName" xml:space="preserve">
-    <value>Изображение облака Polestar (любезно предоставлено Polestar Network)</value>
+    <value>PolarsMirror (любезно предоставлено 极星网络)</value>
   </data>
   <data name="Settings_RainYunName" xml:space="preserve">
     <value>RainYun Mirror</value>
@@ -620,10 +565,10 @@
     <value>Сертификат с цифровой подписью, используемый MCServerLauncher Future, гарантирует, что программа не может быть подделана. Порядковый номер：59cbf9b5207eeabb45417d148120ac9a。 Если он другой, не используйте его и дайте обратную связь services@mcsl.com.cn.</value>
   </data>
   <data name="ResDownloadPage_ProviderName_FastMirror" xml:space="preserve">
-    <value>Бесконечное зеркальное отображение</value>
+    <value>FastMirror</value>
   </data>
   <data name="ResDownloadPage_ProviderName_PolarsMirror" xml:space="preserve">
-    <value>Изображение полярной туманности</value>
+    <value>PolarsMirror</value>
   </data>
   <data name="ResDownloadPage_ProviderName_MCSLSync" xml:space="preserve">
     <value>Синхронное зеркалирование MCSL-Sync</value>
@@ -734,19 +679,19 @@
     <value>Связь.</value>
   </data>
   <data name="ConsoleBoard_Universal_RAM" xml:space="preserve">
-    <value>通用：实例 RAM 占用</value>
+    <value>Общее: Использование ОЗУ экземпляра</value>
   </data>
   <data name="ConsoleBoard_Universal_CPU" xml:space="preserve">
-    <value>通用：实例 CPU 占用</value>
+    <value>Общее: Использование ЦП экземпляра</value>
   </data>
   <data name="ConsoleBoard_Universal_WebSocketLatency" xml:space="preserve">
-    <value>通用：当前 WebSocket 延迟</value>
+    <value>Общее: Текущая задержка WebSocket</value>
   </data>
   <data name="ConsoleCommand_FeedbackTip" xml:space="preserve">
-    <value>反馈错误请带上详细错误日志，否则一切行为无异于闭眼开车。</value>
+    <value>При отправке отзыва об ошибке прикрепите подробный журнал ошибок, иначе это все равно что вести машину с закрытыми глазами.</value>
   </data>
   <data name="ConsoleCommand_EnterFullScreenConsole" xml:space="preserve">
-    <value>进入全屏终端</value>
+    <value>Войти в полноэкранный терминал</value>
   </data>
   <data name="Stop" xml:space="preserve">
     <value>终止</value>
@@ -895,4 +840,107 @@
   <data name="DeadProcessTip" xml:space="preserve">
     <value>我们遇到了意料之外的异常，但已将关键的错误信息复制到剪贴板。程序已无法继续运行，即将关闭。</value>
   </data>
+  <data name="Install" xml:space="preserve"><value>Установить</value></data>
+  <data name="ScanJavaAtDaemon" xml:space="preserve"><value>Автоматический поиск</value></data>
+  <data name="GoBackLostTip" xml:space="preserve"><value>Если вы вернетесь сейчас, все изменения будут потеряны. Будьте осторожны.</value></data>
+  <data name="SelectMinecraftJavaCore" xml:space="preserve"><value>Выберите ядро Minecraft Java Edition</value></data>
+  <data name="SelectMinecraftJavaCoreGoResDownloadMessage" xml:space="preserve"><value>После завершения загрузки нажмите кнопку ниже, чтобы вернуться.</value></data>
+  <data name="JvmArgTemplateSameMemTip" xml:space="preserve"><value>При выборе шаблона ниже установите такое же значение кучи памяти JVM выше, иначе экземпляр может не запуститься.</value></data>
+  <data name="JvmArgBasicTemplate" xml:space="preserve"><value>Базовый (только для Java 11 и ниже)</value></data>
+  <data name="JvmArgAdvancedTemplate" xml:space="preserve"><value>Aikar Flag (не устанавливайте кучу памяти выше 20 ГБ)</value></data>
+  <data name="Unused" xml:space="preserve"><value>Не используется</value></data>
+  <data name="Delete" xml:space="preserve"><value>Удалить</value></data>
+  <data name="Jump" xml:space="preserve"><value>Перейти</value></data>
+  <data name="ShowRealtimeLog" xml:space="preserve"><value>Показать журнал в реальном времени</value></data>
+  <data name="Search" xml:space="preserve"><value>Поиск</value></data>
+  <data name="AllDaemon" xml:space="preserve"><value>Все хост-машины</value></data>
+  <data name="Running" xml:space="preserve"><value>Выполняется</value></data>
+  <data name="AllRunningStatus" xml:space="preserve"><value>Все статусы</value></data>
+  <data name="Stopped" xml:space="preserve"><value>Остановлено</value></data>
+  <data name="Crashed" xml:space="preserve"><value>Сбой</value></data>
+  <data name="Stopping" xml:space="preserve"><value>Останавливается</value></data>
+  <data name="Starting" xml:space="preserve"><value>Запускается</value></data>
+  <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve"><value>Зеркало RainYun</value></data>
+  <data name="PleaseSelectDaemon" xml:space="preserve"><value>Пожалуйста, выберите хост-машину для запуска этого экземпляра.</value></data>
+  <data name="PleaseSelectJvm" xml:space="preserve"><value>Пожалуйста, выберите среду выполнения Java для использования.</value></data>
+  <data name="PleaseWait" xml:space="preserve"><value>Пожалуйста, подождите</value></data>
+  <data name="SearchingJvmTip" xml:space="preserve"><value>Поиск среды выполнения Java...</value></data>
+  <data name="ConnectDaemonFailedSubTip" xml:space="preserve"><value>Проверьте сеть и повторите попытку. Если сеть вашего компьютера в порядке, скорее всего, ваш демон работает неправильно или удаленный брандмауэр не разрешает подключение.</value></data>
+  <data name="SelectOtherDaemon" xml:space="preserve"><value>Выбрать другое...</value></data>
+  <data name="NothingHere" xml:space="preserve"><value>Здесь ничего нет</value></data>
+  <data name="TryAddSomething" xml:space="preserve"><value>Попробуйте добавить что-нибудь сюда</value></data>
+  <data name="ConsoleCommand_ExitFullScreenConsole" xml:space="preserve"><value>Выйти из полноэкранного терминала</value></data>
+  <data name="SelectAll" xml:space="preserve"><value>Выбрать все</value></data>
+  <data name="Players" xml:space="preserve"><value>Игроки</value></data>
+  <data name="View" xml:space="preserve"><value>Просмотр</value></data>
+  <data name="ConsoleCommand_EnterCommandTip" xml:space="preserve"><value>Введите команду здесь...</value></data>
+  <data name="FuncDisabled" xml:space="preserve"><value>Функция отключена</value></data>
+  <data name="FuncDisabledReason_NoDaemon" xml:space="preserve"><value>Эта функция отключена, так как не подключен ни один демон</value></data>
+  <data name="SelectedCount" xml:space="preserve"><value>Выбрано {0} экземпляров</value></data>
+  <data name="BatchStartConfirmTitle" xml:space="preserve"><value>Подтверждение пакетного запуска</value></data>
+  <data name="BatchStartConfirmContent" xml:space="preserve"><value>Вы уверены, что хотите запустить эти {0} экземпляров?</value></data>
+  <data name="BatchStopConfirmTitle" xml:space="preserve"><value>Подтверждение пакетной остановки</value></data>
+  <data name="BatchStopConfirmContent" xml:space="preserve"><value>Вы уверены, что хотите остановить эти {0} экземпляров?</value></data>
+  <data name="BatchDeleteConfirmTitle" xml:space="preserve"><value>Подтверждение пакетного удаления</value></data>
+  <data name="BatchDeleteConfirmContent" xml:space="preserve"><value>Вы уверены, что хотите удалить эти {0} экземпляров?
+Это действие нельзя отменить!</value></data>
+  <data name="BatchStartComplete" xml:space="preserve"><value>Пакетный запуск завершен</value></data>
+  <data name="BatchStopComplete" xml:space="preserve"><value>Пакетная остановка завершена</value></data>
+  <data name="BatchDeleteComplete" xml:space="preserve"><value>Пакетное удаление завершено</value></data>
+  <data name="BatchOperationResult" xml:space="preserve"><value>Успешно: {0}, Ошибка: {1}</value></data>
+  <data name="InstanceCard_NoDaemonConfig" xml:space="preserve"><value>Конфигурация демона для этого экземпляра не установлена</value></data>
+  <data name="InstanceCard_StartingInstance" xml:space="preserve"><value>Запуск экземпляра: {0}</value></data>
+  <data name="InstanceCard_StoppingInstance" xml:space="preserve"><value>Остановка экземпляра: {0}</value></data>
+  <data name="InstanceCard_RestartingInstance" xml:space="preserve"><value>Перезапуск экземпляра: {0}</value></data>
+  <data name="InstanceCard_KillingInstance" xml:space="preserve"><value>Экземпляр принудительно завершен: {0}</value></data>
+  <data name="InstanceCard_DeletedInstance" xml:space="preserve"><value>Экземпляр удален: {0}</value></data>
+  <data name="InstanceCard_DeleteConfirmTitle" xml:space="preserve"><value>Подтверждение удаления</value></data>
+  <data name="InstanceCard_DeleteConfirmContent" xml:space="preserve"><value>Вы уверены, что хотите удалить экземпляр «{0}»?
+Это действие нельзя отменить.</value></data>
+  <data name="InstanceCard_StartFailed" xml:space="preserve"><value>Не удалось запустить экземпляр: {0}</value></data>
+  <data name="InstanceCard_StopFailed" xml:space="preserve"><value>Не удалось остановить экземпляр: {0}</value></data>
+  <data name="InstanceCard_RestartFailed" xml:space="preserve"><value>Не удалось перезапустить экземпляр: {0}</value></data>
+  <data name="InstanceCard_KillFailed" xml:space="preserve"><value>Не удалось принудительно завершить экземпляр: {0}</value></data>
+  <data name="InstanceCard_DeleteFailed" xml:space="preserve"><value>Не удалось удалить экземпляр: {0}</value></data>
+  <data name="Universal" xml:space="preserve"><value>Универсальный</value></data>
+  <data name="SteamServer" xml:space="preserve"><value>Игровой сервер Steam</value></data>
+  <data name="MCJava" xml:space="preserve"><value>Minecraft Java Edition</value></data>
+  <data name="MCFabric" xml:space="preserve"><value>Minecraft Fabric</value></data>
+  <data name="MCForge" xml:space="preserve"><value>Minecraft Forge</value></data>
+  <data name="MCNeoForge" xml:space="preserve"><value>Minecraft NeoForge</value></data>
+  <data name="MCQuilt" xml:space="preserve"><value>Minecraft Quilt</value></data>
+  <data name="MCCleanroom" xml:space="preserve"><value>Minecraft Cleanroom</value></data>
+  <data name="MCSponge" xml:space="preserve"><value>Minecraft Sponge</value></data>
+  <data name="MCVanilla" xml:space="preserve"><value>Minecraft Vanilla</value></data>
+  <data name="MCCraftBukkit" xml:space="preserve"><value>Minecraft CraftBukkit</value></data>
+  <data name="MCSpigot" xml:space="preserve"><value>Minecraft Spigot</value></data>
+  <data name="MCPaper" xml:space="preserve"><value>Minecraft Paper</value></data>
+  <data name="MCLeaf" xml:space="preserve"><value>Minecraft Leaf</value></data>
+  <data name="MCLeaves" xml:space="preserve"><value>Minecraft Leaves</value></data>
+  <data name="MCFolia" xml:space="preserve"><value>Minecraft Folia</value></data>
+  <data name="MCPufferfish" xml:space="preserve"><value>Minecraft Pufferfish</value></data>
+  <data name="MCPurpur" xml:space="preserve"><value>Minecraft Purpur</value></data>
+  <data name="MCMohist" xml:space="preserve"><value>Minecraft Mohist</value></data>
+  <data name="MCBanner" xml:space="preserve"><value>Minecraft Banner</value></data>
+  <data name="MCYouer" xml:space="preserve"><value>Minecraft Youer</value></data>
+  <data name="MCThermos" xml:space="preserve"><value>Minecraft Thermos</value></data>
+  <data name="MCCrucible" xml:space="preserve"><value>Minecraft Crucible</value></data>
+  <data name="MCTaiyitist" xml:space="preserve"><value>Minecraft Taiyitist</value></data>
+  <data name="MCCatServer" xml:space="preserve"><value>Minecraft CatServer</value></data>
+  <data name="MCArclight" xml:space="preserve"><value>Minecraft Arclight</value></data>
+  <data name="MCBungeeCord" xml:space="preserve"><value>Minecraft BungeeCord</value></data>
+  <data name="MCVelocity" xml:space="preserve"><value>Minecraft Velocity</value></data>
+  <data name="MCWaterfall" xml:space="preserve"><value>Minecraft Waterfall</value></data>
+  <data name="MCTravertine" xml:space="preserve"><value>Minecraft Travertine</value></data>
+  <data name="MCViaVersion" xml:space="preserve"><value>Minecraft ViaVersion</value></data>
+  <data name="MCGeyser" xml:space="preserve"><value>Minecraft Geyser</value></data>
+  <data name="MCDReforged" xml:space="preserve"><value>Minecraft MCDReforged</value></data>
+  <data name="MCBedrock" xml:space="preserve"><value>Minecraft Bedrock Edition</value></data>
+  <data name="MCNukkit" xml:space="preserve"><value>Minecraft Nukkit</value></data>
+  <data name="MCBDS" xml:space="preserve"><value>Minecraft BDS</value></data>
+  <data name="MCCloudburst" xml:space="preserve"><value>Minecraft Cloudburst</value></data>
+  <data name="MCPocketMine" xml:space="preserve"><value>Minecraft PocketMine</value></data>
+  <data name="Terraria" xml:space="preserve"><value>Terraria</value></data>
+  <data name="TShock" xml:space="preserve"><value>Terraria TShock</value></data>
+  <data name="TDSM" xml:space="preserve"><value>Terraria TDSM</value></data>
 </root>
