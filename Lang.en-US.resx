@@ -929,31 +929,31 @@
     <value>Jump</value>
   </data>
   <data name="ShowRealtimeLog" xml:space="preserve">
-    <value />
+    <value>Show Real-time Log</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value />
+    <value>Search</value>
   </data>
   <data name="AllDaemon" xml:space="preserve">
     <value>All Hosts</value>
   </data>
   <data name="Running" xml:space="preserve">
-    <value />
+    <value>Running</value>
   </data>
   <data name="AllRunningStatus" xml:space="preserve">
-    <value />
+    <value>All Statuses</value>
   </data>
   <data name="Stopped" xml:space="preserve">
-    <value />
+    <value>Stopped</value>
   </data>
   <data name="Crashed" xml:space="preserve">
-    <value />
+    <value>Crashed</value>
   </data>
   <data name="Stopping" xml:space="preserve">
-    <value />
+    <value>Stopping</value>
   </data>
   <data name="Starting" xml:space="preserve">
-    <value />
+    <value>Starting</value>
   </data>
   <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve">
     <value>RainYun Mirror</value>
@@ -962,19 +962,19 @@
     <value>Please select the host that you will serve the instance.</value>
   </data>
   <data name="PleaseSelectJvm" xml:space="preserve">
-    <value />
+    <value>Please select the Java runtime to use.</value>
   </data>
   <data name="PleaseWait" xml:space="preserve">
-    <value />
+    <value>Please wait</value>
   </data>
   <data name="SearchingJvmTip" xml:space="preserve">
-    <value />
+    <value>Searching for Java runtime...</value>
   </data>
   <data name="ConnectDaemonFailedSubTip" xml:space="preserve">
-    <value />
+    <value>Please check your network and try again. If your network is fine, the daemon might be down or the firewall is blocking the connection.</value>
   </data>
   <data name="SelectOtherDaemon" xml:space="preserve">
-    <value />
+    <value>Select other...</value>
   </data>
   <data name="NothingHere" xml:space="preserve">
     <value>Nothing here yet</value>
@@ -998,9 +998,205 @@
     <value>Type command here...</value>
   </data>
   <data name="FuncDisabled" xml:space="preserve">
-    <value />
+    <value>Function disabled</value>
   </data>
   <data name="FuncDisabledReason_NoDaemon" xml:space="preserve">
-    <value />
+    <value>This function is disabled because no daemon is connected.</value>
+  </data>
+  <data name="SelectedCount" xml:space="preserve">
+    <value>{0} instances selected</value>
+  </data>
+  <data name="BatchStartConfirmTitle" xml:space="preserve">
+    <value>Confirm Batch Start</value>
+  </data>
+  <data name="BatchStartConfirmContent" xml:space="preserve">
+    <value>Are you sure you want to start these {0} instances?</value>
+  </data>
+  <data name="BatchStopConfirmTitle" xml:space="preserve">
+    <value>Confirm Batch Stop</value>
+  </data>
+  <data name="BatchStopConfirmContent" xml:space="preserve">
+    <value>Are you sure you want to stop these {0} instances?</value>
+  </data>
+  <data name="BatchDeleteConfirmTitle" xml:space="preserve">
+    <value>Confirm Batch Delete</value>
+  </data>
+  <data name="BatchDeleteConfirmContent" xml:space="preserve">
+    <value>Are you sure you want to delete these {0} instances?\nThis action CANNOT be undone!</value>
+  </data>
+  <data name="BatchStartComplete" xml:space="preserve">
+    <value>Batch Start Complete</value>
+  </data>
+  <data name="BatchStopComplete" xml:space="preserve">
+    <value>Batch Stop Complete</value>
+  </data>
+  <data name="BatchDeleteComplete" xml:space="preserve">
+    <value>Batch Delete Complete</value>
+  </data>
+  <data name="BatchOperationResult" xml:space="preserve">
+    <value>Success: {0}, Failed: {1}</value>
+  </data>
+  <data name="InstanceCard_NoDaemonConfig" xml:space="preserve">
+    <value>Daemon configuration not set for this instance</value>
+  </data>
+  <data name="InstanceCard_StartingInstance" xml:space="preserve">
+    <value>Starting instance: {0}</value>
+  </data>
+  <data name="InstanceCard_StoppingInstance" xml:space="preserve">
+    <value>Stopping instance: {0}</value>
+  </data>
+  <data name="InstanceCard_RestartingInstance" xml:space="preserve">
+    <value>Restarting instance: {0}</value>
+  </data>
+  <data name="InstanceCard_KillingInstance" xml:space="preserve">
+    <value>Killed instance: {0}</value>
+  </data>
+  <data name="InstanceCard_DeletedInstance" xml:space="preserve">
+    <value>Deleted instance: {0}</value>
+  </data>
+  <data name="InstanceCard_DeleteConfirmTitle" xml:space="preserve">
+    <value>Confirm Delete</value>
+  </data>
+  <data name="InstanceCard_DeleteConfirmContent" xml:space="preserve">
+    <value>Are you sure you want to delete instance "{0}"?
+This action cannot be undone.</value>
+  </data>
+  <data name="InstanceCard_StartFailed" xml:space="preserve">
+    <value>Failed to start instance: {0}</value>
+  </data>
+  <data name="InstanceCard_StopFailed" xml:space="preserve">
+    <value>Failed to stop instance: {0}</value>
+  </data>
+  <data name="InstanceCard_RestartFailed" xml:space="preserve">
+    <value>Failed to restart instance: {0}</value>
+  </data>
+  <data name="InstanceCard_KillFailed" xml:space="preserve">
+    <value>Failed to kill instance: {0}</value>
+  </data>
+  <data name="InstanceCard_DeleteFailed" xml:space="preserve">
+    <value>Failed to delete instance: {0}</value>
+  </data>
+  <data name="Universal" xml:space="preserve">
+    <value>Universal</value>
+  </data>
+  <data name="SteamServer" xml:space="preserve">
+    <value>Steam Game Server</value>
+  </data>
+  <data name="MCJava" xml:space="preserve">
+    <value>Minecraft Java Edition</value>
+  </data>
+  <data name="MCFabric" xml:space="preserve">
+    <value>Minecraft Fabric</value>
+  </data>
+  <data name="MCForge" xml:space="preserve">
+    <value>Minecraft Forge</value>
+  </data>
+  <data name="MCNeoForge" xml:space="preserve">
+    <value>Minecraft NeoForge</value>
+  </data>
+  <data name="MCQuilt" xml:space="preserve">
+    <value>Minecraft Quilt</value>
+  </data>
+  <data name="MCCleanroom" xml:space="preserve">
+    <value>Minecraft Cleanroom</value>
+  </data>
+  <data name="MCSponge" xml:space="preserve">
+    <value>Minecraft Sponge</value>
+  </data>
+  <data name="MCVanilla" xml:space="preserve">
+    <value>Minecraft Vanilla</value>
+  </data>
+  <data name="MCCraftBukkit" xml:space="preserve">
+    <value>Minecraft CraftBukkit</value>
+  </data>
+  <data name="MCSpigot" xml:space="preserve">
+    <value>Minecraft Spigot</value>
+  </data>
+  <data name="MCPaper" xml:space="preserve">
+    <value>Minecraft Paper</value>
+  </data>
+  <data name="MCLeaf" xml:space="preserve">
+    <value>Minecraft Leaf</value>
+  </data>
+  <data name="MCLeaves" xml:space="preserve">
+    <value>Minecraft Leaves</value>
+  </data>
+  <data name="MCFolia" xml:space="preserve">
+    <value>Minecraft Folia</value>
+  </data>
+  <data name="MCPufferfish" xml:space="preserve">
+    <value>Minecraft Pufferfish</value>
+  </data>
+  <data name="MCPurpur" xml:space="preserve">
+    <value>Minecraft Purpur</value>
+  </data>
+  <data name="MCMohist" xml:space="preserve">
+    <value>Minecraft Mohist</value>
+  </data>
+  <data name="MCBanner" xml:space="preserve">
+    <value>Minecraft Banner</value>
+  </data>
+  <data name="MCYouer" xml:space="preserve">
+    <value>Minecraft Youer</value>
+  </data>
+  <data name="MCThermos" xml:space="preserve">
+    <value>Minecraft Thermos</value>
+  </data>
+  <data name="MCCrucible" xml:space="preserve">
+    <value>Minecraft Crucible</value>
+  </data>
+  <data name="MCTaiyitist" xml:space="preserve">
+    <value>Minecraft Taiyitist</value>
+  </data>
+  <data name="MCCatServer" xml:space="preserve">
+    <value>Minecraft CatServer</value>
+  </data>
+  <data name="MCArclight" xml:space="preserve">
+    <value>Minecraft Arclight</value>
+  </data>
+  <data name="MCBungeeCord" xml:space="preserve">
+    <value>Minecraft BungeeCord</value>
+  </data>
+  <data name="MCVelocity" xml:space="preserve">
+    <value>Minecraft Velocity</value>
+  </data>
+  <data name="MCWaterfall" xml:space="preserve">
+    <value>Minecraft Waterfall</value>
+  </data>
+  <data name="MCTravertine" xml:space="preserve">
+    <value>Minecraft Travertine</value>
+  </data>
+  <data name="MCViaVersion" xml:space="preserve">
+    <value>Minecraft ViaVersion</value>
+  </data>
+  <data name="MCGeyser" xml:space="preserve">
+    <value>Minecraft Geyser</value>
+  </data>
+  <data name="MCDReforged" xml:space="preserve">
+    <value>Minecraft MCDReforged</value>
+  </data>
+  <data name="MCBedrock" xml:space="preserve">
+    <value>Minecraft Bedrock Edition</value>
+  </data>
+  <data name="MCNukkit" xml:space="preserve">
+    <value>Minecraft Nukkit</value>
+  </data>
+  <data name="MCBDS" xml:space="preserve">
+    <value>Minecraft BDS</value>
+  </data>
+  <data name="MCCloudburst" xml:space="preserve">
+    <value>Minecraft Cloudburst</value>
+  </data>
+  <data name="MCPocketMine" xml:space="preserve">
+    <value>Minecraft PocketMine</value>
+  </data>
+  <data name="Terraria" xml:space="preserve">
+    <value>Terraria</value>
+  </data>
+  <data name="TShock" xml:space="preserve">
+    <value>Terraria TShock</value>
+  </data>
+  <data name="TDSM" xml:space="preserve">
+    <value>Terraria TDSM</value>
   </data>
 </root>
