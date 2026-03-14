@@ -1031,7 +1031,25 @@
     <value>已删除实例：{0}</value>
   </data>
   <data name="InstanceCard_DeleteConfirmTitle" xml:space="preserve">
-    <value>确认删除</value>
+    <value>删除实例</value>
+  </data>
+  <data name="InstanceCard_StopConfirmTitle" xml:space="preserve">
+    <value>停止实例</value>
+  </data>
+  <data name="InstanceCard_StopConfirmContent" xml:space="preserve">
+    <value>您确定要停止实例 "{0}" 吗？</value>
+  </data>
+  <data name="InstanceCard_RestartConfirmTitle" xml:space="preserve">
+    <value>重启实例</value>
+  </data>
+  <data name="InstanceCard_RestartConfirmContent" xml:space="preserve">
+    <value>您确定要重启实例 "{0}" 吗？</value>
+  </data>
+  <data name="InstanceCard_KillConfirmTitle" xml:space="preserve">
+    <value>杀死实例</value>
+  </data>
+  <data name="InstanceCard_KillConfirmContent" xml:space="preserve">
+    <value>您确定要强制杀死实例 "{0}" 吗？这可能会导致数据丢失。</value>
   </data>
   <data name="InstanceCard_DeleteConfirmContent" xml:space="preserve">
     <value>确定要删除实例“{0}”吗？

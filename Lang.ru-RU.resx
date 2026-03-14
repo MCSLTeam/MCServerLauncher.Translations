@@ -943,4 +943,23 @@
   <data name="Terraria" xml:space="preserve"><value>Terraria</value></data>
   <data name="TShock" xml:space="preserve"><value>Terraria TShock</value></data>
   <data name="TDSM" xml:space="preserve"><value>Terraria TDSM</value></data>
-<data name="ConfirmDelete" xml:space="preserve"><value>Подтверждение удаления</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>Вы уверены, что хотите удалить демон «{0}»?</value></data></root>
+<data name="ConfirmDelete" xml:space="preserve"><value>Подтверждение удаления</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>Вы уверены, что хотите удалить демон «{0}»?</value></data>
+  <data name="InstanceCard_StopConfirmTitle" xml:space="preserve">
+    <value>Подтверждение остановки</value>
+  </data>
+  <data name="InstanceCard_StopConfirmContent" xml:space="preserve">
+    <value>Вы уверены, что хотите остановить экземпляр «{0}»?</value>
+  </data>
+  <data name="InstanceCard_RestartConfirmTitle" xml:space="preserve">
+    <value>Подтверждение перезапуска</value>
+  </data>
+  <data name="InstanceCard_RestartConfirmContent" xml:space="preserve">
+    <value>Вы уверены, что хотите перезапустить экземпляр «{0}»?</value>
+  </data>
+  <data name="InstanceCard_KillConfirmTitle" xml:space="preserve">
+    <value>Подтверждение принудительного завершения</value>
+  </data>
+  <data name="InstanceCard_KillConfirmContent" xml:space="preserve">
+    <value>Вы уверены, что хотите принудительно завершить экземпляр «{0}»?</value>
+  </data>
+</root>

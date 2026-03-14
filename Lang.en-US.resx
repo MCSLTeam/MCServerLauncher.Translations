@@ -1031,7 +1031,25 @@
     <value>Deleted instance: {0}</value>
   </data>
   <data name="InstanceCard_DeleteConfirmTitle" xml:space="preserve">
-    <value>Confirm Delete</value>
+    <value>Delete Instance</value>
+  </data>
+  <data name="InstanceCard_StopConfirmTitle" xml:space="preserve">
+    <value>Stop Instance</value>
+  </data>
+  <data name="InstanceCard_StopConfirmContent" xml:space="preserve">
+    <value>Are you sure you want to stop the instance "{0}"?</value>
+  </data>
+  <data name="InstanceCard_RestartConfirmTitle" xml:space="preserve">
+    <value>Restart Instance</value>
+  </data>
+  <data name="InstanceCard_RestartConfirmContent" xml:space="preserve">
+    <value>Are you sure you want to restart the instance "{0}"?</value>
+  </data>
+  <data name="InstanceCard_KillConfirmTitle" xml:space="preserve">
+    <value>Kill Instance</value>
+  </data>
+  <data name="InstanceCard_KillConfirmContent" xml:space="preserve">
+    <value>Are you sure you want to forcibly kill the instance "{0}"? This may cause data loss.</value>
   </data>
   <data name="InstanceCard_DeleteConfirmContent" xml:space="preserve">
     <value>Are you sure you want to delete instance "{0}"?

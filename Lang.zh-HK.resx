@@ -962,4 +962,23 @@
   <data name="Terraria" xml:space="preserve"><value>Terraria</value></data>
   <data name="TShock" xml:space="preserve"><value>Terraria TShock</value></data>
   <data name="TDSM" xml:space="preserve"><value>Terraria TDSM</value></data>
-<data name="ConfirmDelete" xml:space="preserve"><value>確認刪除</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>確定要刪除守護進程「{0}」嗎？</value></data></root>
+<data name="ConfirmDelete" xml:space="preserve"><value>確認刪除</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>確定要刪除守護進程「{0}」嗎？</value></data>
+  <data name="InstanceCard_StopConfirmTitle" xml:space="preserve">
+    <value>確認停止</value>
+  </data>
+  <data name="InstanceCard_StopConfirmContent" xml:space="preserve">
+    <value>確定要停止實例「{0}」嗎？</value>
+  </data>
+  <data name="InstanceCard_RestartConfirmTitle" xml:space="preserve">
+    <value>確認重啟</value>
+  </data>
+  <data name="InstanceCard_RestartConfirmContent" xml:space="preserve">
+    <value>確定要重啟實例「{0}」嗎？</value>
+  </data>
+  <data name="InstanceCard_KillConfirmTitle" xml:space="preserve">
+    <value>確認強制結束</value>
+  </data>
+  <data name="InstanceCard_KillConfirmContent" xml:space="preserve">
+    <value>確定要強制結束實例「{0}」嗎？</value>
+  </data>
+</root>
