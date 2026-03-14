@@ -439,6 +439,39 @@
   <data name="Settings_ActionWhenDeleteConfirm_TypeKey" xml:space="preserve">
     <value>Daemon Secret</value>
   </data>
+  <data name="Settings_Instance_AutoRefreshInterval" xml:space="preserve">
+    <value>Instance Status Auto-Refresh Interval</value>
+  </data>
+  <data name="Settings_Instance_AutoRefreshInterval_Description" xml:space="preserve">
+    <value>The interval in seconds to automatically refresh the instance status. Set to 0 to disable.</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick" xml:space="preserve">
+    <value>Action on Double-Clicking Instance Card</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Description" xml:space="preserve">
+    <value>The action to perform when double-clicking an instance card.</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Console" xml:space="preserve">
+    <value>Open Console</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Start" xml:space="preserve">
+    <value>Start Instance</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Stop" xml:space="preserve">
+    <value>Stop Instance</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Restart" xml:space="preserve">
+    <value>Restart Instance</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Kill" xml:space="preserve">
+    <value>Kill Instance</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Settings" xml:space="preserve">
+    <value>Open Settings</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_None" xml:space="preserve">
+    <value>None</value>
+  </data>
   <data name="Settings_AppTheme_Auto" xml:space="preserve">
     <value>System</value>
   </data>
