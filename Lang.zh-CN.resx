@@ -53,7 +53,7 @@
     <value>用户协议</value>
   </data>
   <data name="FirstSetup_ConnectDaemonMenu" xml:space="preserve">
-    <value>连接守护进程</value>
+    <value>连接远程主机</value>
   </data>
   <data name="FirstSetup_WelcomeMenu" xml:space="preserve">
     <value>开始使用</value>
@@ -584,7 +584,7 @@
     <value>检查更新 (MCServerLauncher.Daemon)</value>
   </data>
   <data name="Settings_CheckUpdateForDaemon_Description" xml:space="preserve">
-    <value>检查守护进程的更新。</value>
+    <value>检查远程主机的更新。</value>
   </data>
   <data name="Settings_About_Title" xml:space="preserve">
     <value>关于 MCServerLauncher Future (WPF)</value>
@@ -638,13 +638,13 @@
     <value>选择本程序使用的语言。</value>
   </data>
   <data name="FirstSetup_SkipConnectDaemonTip" xml:space="preserve">
-    <value>若不链接任何守护进程，本软件大部分功能都将受限。\n您稍后仍可链接守护进程。</value>
+    <value>若不链接任何远程主机，本软件大部分功能都将受限。\n您稍后仍可链接远程主机。</value>
   </data>
   <data name="ConnectDaemon" xml:space="preserve">
     <value>新建连接</value>
   </data>
   <data name="FirstSetup_ConnectDaemonTip" xml:space="preserve">
-    <value>MCServerLauncher 的所有实例均移交给守护进程管理。请在此处链接已部署好的守护进程。</value>
+    <value>MCServerLauncher 的所有实例均移交给远程主机管理。请在此处链接已部署好的远程主机。</value>
   </data>
   <data name="Edit" xml:space="preserve">
     <value>编辑</value>
@@ -707,7 +707,7 @@
     <value>加入群聊</value>
   </data>
   <data name="DaemonWsAddress" xml:space="preserve">
-    <value>守护进程 WebSocket 地址</value>
+    <value>远程主机 WebSocket 地址</value>
   </data>
   <data name="Password" xml:space="preserve">
     <value>密码</value>
@@ -827,7 +827,7 @@
     <value>备注名</value>
   </data>
   <data name="Main_DaemonManagerNavMenu" xml:space="preserve">
-    <value>宿主主机</value>
+    <value>远程主机</value>
   </data>
   <data name="DaemonManagerTip" xml:space="preserve">
     <value>安全护航，只在指掌。</value>
@@ -839,7 +839,7 @@
     <value>用户名</value>
   </data>
   <data name="ConnectDaemonFailedTip" xml:space="preserve">
-    <value>无法连接守护进程，请检查配置</value>
+    <value>无法连接远程主机，请检查配置</value>
   </data>
   <data name="Token" xml:space="preserve">
     <value>访问密钥</value>
@@ -911,7 +911,7 @@
     <value>搜索</value>
   </data>
   <data name="AllDaemon" xml:space="preserve">
-    <value>所有宿主主机</value>
+    <value>所有远程主机</value>
   </data>
   <data name="Running" xml:space="preserve">
     <value>运行中</value>
@@ -935,7 +935,7 @@
     <value>雨云镜像站</value>
   </data>
   <data name="PleaseSelectDaemon" xml:space="preserve">
-    <value>请选择将要运行此实例的宿主主机。</value>
+    <value>请选择将要运行此实例的远程主机。</value>
   </data>
   <data name="PleaseSelectJvm" xml:space="preserve">
     <value>请选择将要使用的 Java 运行时。</value>
@@ -947,7 +947,7 @@
     <value>正在搜索 Java 运行时…</value>
   </data>
   <data name="ConnectDaemonFailedSubTip" xml:space="preserve">
-    <value>请检查网络并重试。若您的计算机网络正常，则您的守护进程极大可能出现了异常，或远端防火墙未放行。</value>
+    <value>请检查网络并重试。若您的计算机网络正常，则您的远程主机极大可能出现了异常，或远端防火墙未放行。</value>
   </data>
   <data name="SelectOtherDaemon" xml:space="preserve">
     <value>选择其他……</value>
@@ -977,7 +977,7 @@
     <value>功能已禁用</value>
   </data>
   <data name="FuncDisabledReason_NoDaemon" xml:space="preserve">
-    <value>由于没有链接任何守护进程，此功能已被禁用</value>
+    <value>由于没有链接任何远程主机，此功能已被禁用</value>
   </data>
   <data name="SelectedCount" xml:space="preserve">
     <value>已选择 {0} 个实例</value>
@@ -1013,7 +1013,7 @@
     <value>成功：{0}，失败：{1}</value>
   </data>
   <data name="InstanceCard_NoDaemonConfig" xml:space="preserve">
-    <value>未设置此实例的守护进程配置</value>
+    <value>未设置此实例的远程主机配置</value>
   </data>
   <data name="InstanceCard_StartingInstance" xml:space="preserve">
     <value>正在启动实例：{0}</value>
@@ -1193,4 +1193,4 @@
   <data name="TDSM" xml:space="preserve">
     <value>Terraria TDSM</value>
   </data>
-<data name="ConfirmDelete" xml:space="preserve"><value>确认删除</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>确定要删除守护进程“{0}”吗？</value></data></root>
+<data name="ConfirmDelete" xml:space="preserve"><value>确认删除</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>确定要删除远程主机“{0}”吗？</value></data></root>

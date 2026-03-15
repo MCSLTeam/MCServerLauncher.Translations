@@ -55,7 +55,7 @@
     <value>Пользовательское соглашение</value>
   </data>
   <data name="FirstSetup_ConnectDaemonMenu" xml:space="preserve">
-    <value>Подключение демона</value>
+    <value>Подключение удаленного хоста</value>
   </data>
   <data name="FirstSetup_WelcomeMenu" xml:space="preserve">
     <value>Начать</value>
@@ -433,7 +433,7 @@
     <value>Введите имя экземпляра для проверки</value>
   </data>
   <data name="Settings_ActionWhenDeleteConfirm_TypeKey" xml:space="preserve">
-    <value>Проверка ключа демона</value>
+    <value>Проверка ключа удаленного хоста</value>
   </data>
   <data name="Settings_AppTheme_Auto" xml:space="preserve">
     <value>Следите за системой</value>
@@ -547,7 +547,7 @@
     <value>Проверка обновлений (MCServerLauncher.Daemon)</value>
   </data>
   <data name="Settings_CheckUpdateForDaemon_Description" xml:space="preserve">
-    <value>Проверьте наличие обновлений для демона.</value>
+    <value>Проверьте наличие обновлений для удаленного хоста.</value>
   </data>
   <data name="Settings_About_Title" xml:space="preserve">
     <value>О MCServerLauncher Future (WPF)</value>
@@ -601,13 +601,13 @@
     <value>Выберите язык, на котором используется программа.</value>
   </data>
   <data name="FirstSetup_SkipConnectDaemonTip" xml:space="preserve">
-    <value>Если вы не свяжете никаких демонов, большинство функций программного обеспечения будут ограничены. \nВы все еще можете связать демон позже.</value>
+    <value>Если вы не свяжете никаких удаленных хостов, большинство функций программного обеспечения будут ограничены. \nВы все еще можете связать удаленный хост позже.</value>
   </data>
   <data name="ConnectDaemon" xml:space="preserve">
     <value>Создание нового подключения</value>
   </data>
   <data name="FirstSetup_ConnectDaemonTip" xml:space="preserve">
-    <value>Все экземпляры MCServerLauncher передаются в управление демонами. Пожалуйста, дайте ссылку на развернутый демон здесь.</value>
+    <value>Все экземпляры MCServerLauncher передаются в управление удаленными хостами. Пожалуйста, дайте ссылку на развернутый удаленный хост здесь.</value>
   </data>
   <data name="Edit" xml:space="preserve">
     <value>редактировать</value>
@@ -670,7 +670,7 @@
     <value>Присоединяйтесь к группе</value>
   </data>
   <data name="DaemonWsAddress" xml:space="preserve">
-    <value>Адрес WebSocket демона</value>
+    <value>Адрес WebSocket удаленного хоста</value>
   </data>
   <data name="Password" xml:space="preserve">
     <value>код</value>
@@ -853,7 +853,7 @@
   <data name="Jump" xml:space="preserve"><value>Перейти</value></data>
   <data name="ShowRealtimeLog" xml:space="preserve"><value>Показать журнал в реальном времени</value></data>
   <data name="Search" xml:space="preserve"><value>Поиск</value></data>
-  <data name="AllDaemon" xml:space="preserve"><value>Все хост-машины</value></data>
+  <data name="AllDaemon" xml:space="preserve"><value>Все удаленные хосты</value></data>
   <data name="Running" xml:space="preserve"><value>Выполняется</value></data>
   <data name="AllRunningStatus" xml:space="preserve"><value>Все статусы</value></data>
   <data name="Stopped" xml:space="preserve"><value>Остановлено</value></data>
@@ -861,11 +861,11 @@
   <data name="Stopping" xml:space="preserve"><value>Останавливается</value></data>
   <data name="Starting" xml:space="preserve"><value>Запускается</value></data>
   <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve"><value>Зеркало RainYun</value></data>
-  <data name="PleaseSelectDaemon" xml:space="preserve"><value>Пожалуйста, выберите хост-машину для запуска этого экземпляра.</value></data>
+  <data name="PleaseSelectDaemon" xml:space="preserve"><value>Пожалуйста, выберите удаленный хост для запуска этого экземпляра.</value></data>
   <data name="PleaseSelectJvm" xml:space="preserve"><value>Пожалуйста, выберите среду выполнения Java для использования.</value></data>
   <data name="PleaseWait" xml:space="preserve"><value>Пожалуйста, подождите</value></data>
   <data name="SearchingJvmTip" xml:space="preserve"><value>Поиск среды выполнения Java...</value></data>
-  <data name="ConnectDaemonFailedSubTip" xml:space="preserve"><value>Проверьте сеть и повторите попытку. Если сеть вашего компьютера в порядке, скорее всего, ваш демон работает неправильно или удаленный брандмауэр не разрешает подключение.</value></data>
+  <data name="ConnectDaemonFailedSubTip" xml:space="preserve"><value>Проверьте сеть и повторите попытку. Если сеть вашего компьютера в порядке, скорее всего, ваш удаленный хост работает неправильно или удаленный брандмауэр не разрешает подключение.</value></data>
   <data name="SelectOtherDaemon" xml:space="preserve"><value>Выбрать другое...</value></data>
   <data name="NothingHere" xml:space="preserve"><value>Здесь ничего нет</value></data>
   <data name="TryAddSomething" xml:space="preserve"><value>Попробуйте добавить что-нибудь сюда</value></data>
@@ -875,7 +875,7 @@
   <data name="View" xml:space="preserve"><value>Просмотр</value></data>
   <data name="ConsoleCommand_EnterCommandTip" xml:space="preserve"><value>Введите команду здесь...</value></data>
   <data name="FuncDisabled" xml:space="preserve"><value>Функция отключена</value></data>
-  <data name="FuncDisabledReason_NoDaemon" xml:space="preserve"><value>Эта функция отключена, так как не подключен ни один демон</value></data>
+  <data name="FuncDisabledReason_NoDaemon" xml:space="preserve"><value>Эта функция отключена, так как не подключен ни один удаленный хост</value></data>
   <data name="SelectedCount" xml:space="preserve"><value>Выбрано {0} экземпляров</value></data>
   <data name="BatchStartConfirmTitle" xml:space="preserve"><value>Подтверждение пакетного запуска</value></data>
   <data name="BatchStartConfirmContent" xml:space="preserve"><value>Вы уверены, что хотите запустить эти {0} экземпляров?</value></data>
@@ -888,7 +888,7 @@
   <data name="BatchStopComplete" xml:space="preserve"><value>Пакетная остановка завершена</value></data>
   <data name="BatchDeleteComplete" xml:space="preserve"><value>Пакетное удаление завершено</value></data>
   <data name="BatchOperationResult" xml:space="preserve"><value>Успешно: {0}, Ошибка: {1}</value></data>
-  <data name="InstanceCard_NoDaemonConfig" xml:space="preserve"><value>Конфигурация демона для этого экземпляра не установлена</value></data>
+  <data name="InstanceCard_NoDaemonConfig" xml:space="preserve"><value>Конфигурация удаленного хоста для этого экземпляра не установлена</value></data>
   <data name="InstanceCard_StartingInstance" xml:space="preserve"><value>Запуск экземпляра: {0}</value></data>
   <data name="InstanceCard_StoppingInstance" xml:space="preserve"><value>Остановка экземпляра: {0}</value></data>
   <data name="InstanceCard_RestartingInstance" xml:space="preserve"><value>Перезапуск экземпляра: {0}</value></data>
@@ -943,7 +943,7 @@
   <data name="Terraria" xml:space="preserve"><value>Terraria</value></data>
   <data name="TShock" xml:space="preserve"><value>Terraria TShock</value></data>
   <data name="TDSM" xml:space="preserve"><value>Terraria TDSM</value></data>
-<data name="ConfirmDelete" xml:space="preserve"><value>Подтверждение удаления</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>Вы уверены, что хотите удалить демон «{0}»?</value></data>
+<data name="ConfirmDelete" xml:space="preserve"><value>Подтверждение удаления</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>Вы уверены, что хотите удалить удаленный хост «{0}»?</value></data>
   <data name="InstanceCard_StopConfirmTitle" xml:space="preserve">
     <value>Подтверждение остановки</value>
   </data>

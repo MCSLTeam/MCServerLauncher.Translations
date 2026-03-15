@@ -872,7 +872,7 @@
   <data name="Jump" xml:space="preserve"><value>跳轉</value></data>
   <data name="ShowRealtimeLog" xml:space="preserve"><value>顯示即時日誌</value></data>
   <data name="Search" xml:space="preserve"><value>搜尋</value></data>
-  <data name="AllDaemon" xml:space="preserve"><value>所有宿主主機</value></data>
+  <data name="AllDaemon" xml:space="preserve"><value>所有遠端主機</value></data>
   <data name="Running" xml:space="preserve"><value>執行中</value></data>
   <data name="AllRunningStatus" xml:space="preserve"><value>所有狀態</value></data>
   <data name="Stopped" xml:space="preserve"><value>已停止</value></data>
@@ -880,11 +880,11 @@
   <data name="Stopping" xml:space="preserve"><value>關閉中</value></data>
   <data name="Starting" xml:space="preserve"><value>啟動中</value></data>
   <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve"><value>雨雲鏡像站</value></data>
-  <data name="PleaseSelectDaemon" xml:space="preserve"><value>請選擇將要執行此實例的宿主主機。</value></data>
+  <data name="PleaseSelectDaemon" xml:space="preserve"><value>請選擇將要執行此實例的遠端主機。</value></data>
   <data name="PleaseSelectJvm" xml:space="preserve"><value>請選擇將要使用的 Java 執行環境。</value></data>
   <data name="PleaseWait" xml:space="preserve"><value>請稍候</value></data>
   <data name="SearchingJvmTip" xml:space="preserve"><value>正在搜尋 Java 執行環境…</value></data>
-  <data name="ConnectDaemonFailedSubTip" xml:space="preserve"><value>請檢查網路並重試。若您的電腦網路正常，則您的守護行程極大可能出現了異常，或遠端防火牆未放行。</value></data>
+  <data name="ConnectDaemonFailedSubTip" xml:space="preserve"><value>請檢查網路並重試。若您的電腦網路正常，則您的遠端主機極大可能出現了異常，或遠端防火牆未放行。</value></data>
   <data name="SelectOtherDaemon" xml:space="preserve"><value>選擇其他……</value></data>
   <data name="NothingHere" xml:space="preserve"><value>這裡空空如也</value></data>
   <data name="TryAddSomething" xml:space="preserve"><value>試著往這裡面放點東西</value></data>
@@ -894,7 +894,7 @@
   <data name="View" xml:space="preserve"><value>查看</value></data>
   <data name="ConsoleCommand_EnterCommandTip" xml:space="preserve"><value>在此輸入命令...</value></data>
   <data name="FuncDisabled" xml:space="preserve"><value>功能已停用</value></data>
-  <data name="FuncDisabledReason_NoDaemon" xml:space="preserve"><value>由於沒有連結任何守護行程，此功能已被停用</value></data>
+  <data name="FuncDisabledReason_NoDaemon" xml:space="preserve"><value>由於沒有連結任何遠端主機，此功能已被停用</value></data>
   <data name="SelectedCount" xml:space="preserve"><value>已選擇 {0} 個實例</value></data>
   <data name="BatchStartConfirmTitle" xml:space="preserve"><value>確認批次啟動</value></data>
   <data name="BatchStartConfirmContent" xml:space="preserve"><value>確定要啟動這 {0} 個實例嗎？</value></data>
@@ -907,7 +907,7 @@
   <data name="BatchStopComplete" xml:space="preserve"><value>批次停止完成</value></data>
   <data name="BatchDeleteComplete" xml:space="preserve"><value>批次刪除完成</value></data>
   <data name="BatchOperationResult" xml:space="preserve"><value>成功：{0}，失敗：{1}</value></data>
-  <data name="InstanceCard_NoDaemonConfig" xml:space="preserve"><value>未設定此實例的守護行程配置</value></data>
+  <data name="InstanceCard_NoDaemonConfig" xml:space="preserve"><value>未設定此實例的遠端主機配置</value></data>
   <data name="InstanceCard_StartingInstance" xml:space="preserve"><value>正在啟動實例：{0}</value></data>
   <data name="InstanceCard_StoppingInstance" xml:space="preserve"><value>正在停止實例：{0}</value></data>
   <data name="InstanceCard_RestartingInstance" xml:space="preserve"><value>正在重啟實例：{0}</value></data>
@@ -962,7 +962,7 @@
   <data name="Terraria" xml:space="preserve"><value>Terraria</value></data>
   <data name="TShock" xml:space="preserve"><value>Terraria TShock</value></data>
   <data name="TDSM" xml:space="preserve"><value>Terraria TDSM</value></data>
-<data name="ConfirmDelete" xml:space="preserve"><value>確認刪除</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>確定要刪除守護進程「{0}」嗎？</value></data>
+<data name="ConfirmDelete" xml:space="preserve"><value>確認刪除</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>確定要刪除遠端主機「{0}」嗎？</value></data>
   <data name="InstanceCard_StopConfirmTitle" xml:space="preserve">
     <value>確認停止</value>
   </data>

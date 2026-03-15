@@ -53,7 +53,7 @@
     <value>Eula</value>
   </data>
   <data name="FirstSetup_ConnectDaemonMenu" xml:space="preserve">
-    <value>Connect to Daemon</value>
+    <value>Connect to Remote Host</value>
   </data>
   <data name="FirstSetup_WelcomeMenu" xml:space="preserve">
     <value>Welcome</value>
@@ -437,7 +437,7 @@
     <value>Instance Name Input</value>
   </data>
   <data name="Settings_ActionWhenDeleteConfirm_TypeKey" xml:space="preserve">
-    <value>Daemon Secret</value>
+    <value>Remote Host Secret</value>
   </data>
   <data name="Settings_Instance_AutoRefreshInterval" xml:space="preserve">
     <value>Instance Status Auto-Refresh Interval</value>
@@ -584,7 +584,7 @@
     <value>Check Update (MCServerLauncher.Daemon)</value>
   </data>
   <data name="Settings_CheckUpdateForDaemon_Description" xml:space="preserve">
-    <value>Check update for MCSL Daemon.</value>
+    <value>Check update for MCSL Remote Host.</value>
   </data>
   <data name="Settings_About_Title" xml:space="preserve">
     <value>About MCServerLauncher Future (WPF)</value>
@@ -638,13 +638,13 @@
     <value>Select the language used in this program.</value>
   </data>
   <data name="FirstSetup_SkipConnectDaemonTip" xml:space="preserve">
-    <value>If you do not add any MCSL Daemons, most of the functions of the software will be limited.\nYou can still connect to MCSL Daemons later in the settings.</value>
+    <value>If you do not add any MCSL Remote Hosts, most of the functions of the software will be limited.\nYou can still connect to MCSL Remote Hosts later in the settings.</value>
   </data>
   <data name="ConnectDaemon" xml:space="preserve">
     <value>New Connection</value>
   </data>
   <data name="FirstSetup_ConnectDaemonTip" xml:space="preserve">
-    <value>All MCServerLauncher instances are handed over to daemon management. Please link daemons here.</value>
+    <value>All MCServerLauncher instances are handed over to remote host management. Please link remote hosts here.</value>
   </data>
   <data name="Edit" xml:space="preserve">
     <value>Edit</value>
@@ -707,7 +707,7 @@
     <value>Join Group Chat</value>
   </data>
   <data name="DaemonWsAddress" xml:space="preserve">
-    <value>Daemon WebSocket Address</value>
+    <value>Remote Host WebSocket Address</value>
   </data>
   <data name="Password" xml:space="preserve">
     <value>Password</value>
@@ -827,7 +827,7 @@
     <value>Comment Name</value>
   </data>
   <data name="Main_DaemonManagerNavMenu" xml:space="preserve">
-    <value>Host</value>
+    <value>Remote Host</value>
   </data>
   <data name="DaemonManagerTip" xml:space="preserve">
     <value>Secure escort, in the palm of your hand.</value>
@@ -839,7 +839,7 @@
     <value>Username</value>
   </data>
   <data name="ConnectDaemonFailedTip" xml:space="preserve">
-    <value>Could not connect to daemon, please re-check your configurations.</value>
+    <value>Could not connect to remote host, please re-check your configurations.</value>
   </data>
   <data name="Token" xml:space="preserve">
     <value>Token</value>
@@ -911,7 +911,7 @@
     <value>Search</value>
   </data>
   <data name="AllDaemon" xml:space="preserve">
-    <value>All Hosts</value>
+    <value>All Remote Hosts</value>
   </data>
   <data name="Running" xml:space="preserve">
     <value>Running</value>
@@ -935,7 +935,7 @@
     <value>RainYun Mirror</value>
   </data>
   <data name="PleaseSelectDaemon" xml:space="preserve">
-    <value>Please select the host that you will serve the instance.</value>
+    <value>Please select the remote host that you will serve the instance.</value>
   </data>
   <data name="PleaseSelectJvm" xml:space="preserve">
     <value>Please select the Java runtime to use.</value>
@@ -947,7 +947,7 @@
     <value>Searching for Java runtime...</value>
   </data>
   <data name="ConnectDaemonFailedSubTip" xml:space="preserve">
-    <value>Please check your network and try again. If your network is fine, the daemon might be down or the firewall is blocking the connection.</value>
+    <value>Please check your network and try again. If your network is fine, the remote host might be down or the firewall is blocking the connection.</value>
   </data>
   <data name="SelectOtherDaemon" xml:space="preserve">
     <value>Select other...</value>
@@ -977,7 +977,7 @@
     <value>Function disabled</value>
   </data>
   <data name="FuncDisabledReason_NoDaemon" xml:space="preserve">
-    <value>This function is disabled because no daemon is connected.</value>
+    <value>This function is disabled because no remote host is connected.</value>
   </data>
   <data name="SelectedCount" xml:space="preserve">
     <value>{0} instances selected</value>
@@ -1013,7 +1013,7 @@
     <value>Success: {0}, Failed: {1}</value>
   </data>
   <data name="InstanceCard_NoDaemonConfig" xml:space="preserve">
-    <value>Daemon configuration not set for this instance</value>
+    <value>Remote host configuration not set for this instance</value>
   </data>
   <data name="InstanceCard_StartingInstance" xml:space="preserve">
     <value>Starting instance: {0}</value>
@@ -1193,4 +1193,4 @@ This action cannot be undone.</value>
   <data name="TDSM" xml:space="preserve">
     <value>Terraria TDSM</value>
   </data>
-<data name="ConfirmDelete" xml:space="preserve"><value>Confirm Delete</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>Are you sure you want to delete daemon '{0}'?</value></data></root>
+<data name="ConfirmDelete" xml:space="preserve"><value>Confirm Delete</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>Are you sure you want to delete remote host '{0}'?</value></data></root>

@@ -74,7 +74,7 @@
     <value>用戶協議</value>
   </data>
   <data name="FirstSetup_ConnectDaemonMenu" xml:space="preserve">
-    <value>連接守護進程</value>
+    <value>連接遠端主機</value>
   </data>
   <data name="FirstSetup_WelcomeMenu" xml:space="preserve">
     <value>開始使用</value>
@@ -452,7 +452,7 @@
     <value>實例名稱輸入驗證</value>
   </data>
   <data name="Settings_ActionWhenDeleteConfirm_TypeKey" xml:space="preserve">
-    <value>守護進程密鑰驗證</value>
+    <value>遠端主機密鑰驗證</value>
   </data>
   <data name="Settings_AppTheme_Auto" xml:space="preserve">
     <value>跟隨系統</value>
@@ -566,7 +566,7 @@
     <value>檢查更新（MCServerLauncher.Daemon）</value>
   </data>
   <data name="Settings_CheckUpdateForDaemon_Description" xml:space="preserve">
-    <value>檢查守護進程的更新。</value>
+    <value>檢查遠端主機的更新。</value>
   </data>
   <data name="Settings_About_Title" xml:space="preserve">
     <value>關於MCServerlauncher Future（WPF）</value>
@@ -620,13 +620,13 @@
     <value>選擇本程式使用的語言。</value>
   </data>
   <data name="FirstSetup_SkipConnectDaemonTip" xml:space="preserve">
-    <value>若不鏈接任何守護進程，本軟體大部分功能都將受限。\n您稍後仍可鏈接守護進程。</value>
+    <value>若不鏈接任何遠端主機，本軟體大部分功能都將受限。\n您稍後仍可鏈接遠端主機。</value>
   </data>
   <data name="ConnectDaemon" xml:space="preserve">
     <value>新建連接</value>
   </data>
   <data name="FirstSetup_ConnectDaemonTip" xml:space="preserve">
-    <value>MCSeverLauncher 的所有實例均移交給守護進程管理。請在此處鏈接已部署好的守護進程。</value>
+    <value>MCSeverLauncher 的所有實例均移交給遠端主機管理。請在此處鏈接已部署好的遠端主機。</value>
   </data>
   <data name="Edit" xml:space="preserve">
     <value>編輯</value>
@@ -689,7 +689,7 @@
     <value>加入群聊</value>
   </data>
   <data name="DaemonWsAddress" xml:space="preserve">
-    <value>守護進程 WebSocket 位址</value>
+    <value>遠端主機 WebSocket 位址</value>
   </data>
   <data name="Password" xml:space="preserve">
     <value>密碼</value>
@@ -818,7 +818,7 @@
     <value>用戶名</value>
   </data>
   <data name="ConnectDaemonFailedTip" xml:space="preserve">
-    <value>無法連接至守護進程，請檢查配置。</value>
+    <value>無法連接至遠端主機，請檢查配置。</value>
   </data>
   <data name="Token" xml:space="preserve">
     <value>訪問密鑰</value>
@@ -888,21 +888,21 @@
   </data>
   <data name="Install" xml:space="preserve"><value>安裝</value></data>
   <data name="ScanJavaAtDaemon" xml:space="preserve"><value>自動搜尋</value></data>
-  <data name="Main_DaemonManagerNavMenu" xml:space="preserve"><value>宿主主機</value></data>
+  <data name="Main_DaemonManagerNavMenu" xml:space="preserve"><value>遠端主機</value></data>
   <data name="ShowRealtimeLog" xml:space="preserve"><value>顯示即時日誌</value></data>
   <data name="Search" xml:space="preserve"><value>搜尋</value></data>
-  <data name="AllDaemon" xml:space="preserve"><value>所有宿主主機</value></data>
+  <data name="AllDaemon" xml:space="preserve"><value>所有遠端主機</value></data>
   <data name="Running" xml:space="preserve"><value>執行中</value></data>
   <data name="AllRunningStatus" xml:space="preserve"><value>所有狀態</value></data>
   <data name="Stopped" xml:space="preserve"><value>已停止</value></data>
   <data name="Crashed" xml:space="preserve"><value>已崩潰</value></data>
   <data name="Stopping" xml:space="preserve"><value>關閉中</value></data>
   <data name="Starting" xml:space="preserve"><value>啟動中</value></data>
-  <data name="PleaseSelectDaemon" xml:space="preserve"><value>請選擇將要執行此實例的宿主主機。</value></data>
+  <data name="PleaseSelectDaemon" xml:space="preserve"><value>請選擇將要執行此實例的遠端主機。</value></data>
   <data name="PleaseSelectJvm" xml:space="preserve"><value>請選擇將要使用的 Java 執行環境。</value></data>
   <data name="PleaseWait" xml:space="preserve"><value>請稍候</value></data>
   <data name="SearchingJvmTip" xml:space="preserve"><value>正在搜尋 Java 執行環境…</value></data>
-  <data name="ConnectDaemonFailedSubTip" xml:space="preserve"><value>請檢查網路並重試。若您的電腦網路正常，則您的守護行程極大可能出現了異常，或遠端防火牆未放行。</value></data>
+  <data name="ConnectDaemonFailedSubTip" xml:space="preserve"><value>請檢查網路並重試。若您的電腦網路正常，則您的遠端主機極大可能出現了異常，或遠端防火牆未放行。</value></data>
   <data name="SelectOtherDaemon" xml:space="preserve"><value>選擇其他……</value></data>
   <data name="NothingHere" xml:space="preserve"><value>這裡空空如也</value></data>
   <data name="TryAddSomething" xml:space="preserve"><value>試著往這裡面放點東西</value></data>
@@ -912,7 +912,7 @@
   <data name="View" xml:space="preserve"><value>查看</value></data>
   <data name="ConsoleCommand_EnterCommandTip" xml:space="preserve"><value>在此輸入命令...</value></data>
   <data name="FuncDisabled" xml:space="preserve"><value>功能已停用</value></data>
-  <data name="FuncDisabledReason_NoDaemon" xml:space="preserve"><value>由於沒有連結任何守護行程，此功能已被停用</value></data>
+  <data name="FuncDisabledReason_NoDaemon" xml:space="preserve"><value>由於沒有連結任何遠端主機，此功能已被停用</value></data>
   <data name="SelectedCount" xml:space="preserve"><value>已選擇 {0} 個實例</value></data>
   <data name="BatchStartConfirmTitle" xml:space="preserve"><value>確認批次啟動</value></data>
   <data name="BatchStartConfirmContent" xml:space="preserve"><value>確定要啟動這 {0} 個實例嗎？</value></data>
@@ -925,7 +925,7 @@
   <data name="BatchStopComplete" xml:space="preserve"><value>批次停止完成</value></data>
   <data name="BatchDeleteComplete" xml:space="preserve"><value>批次刪除完成</value></data>
   <data name="BatchOperationResult" xml:space="preserve"><value>成功：{0}，失敗：{1}</value></data>
-  <data name="InstanceCard_NoDaemonConfig" xml:space="preserve"><value>未設定此實例的守護行程配置</value></data>
+  <data name="InstanceCard_NoDaemonConfig" xml:space="preserve"><value>未設定此實例的遠端主機配置</value></data>
   <data name="InstanceCard_StartingInstance" xml:space="preserve"><value>正在啟動實例：{0}</value></data>
   <data name="InstanceCard_StoppingInstance" xml:space="preserve"><value>正在停止實例：{0}</value></data>
   <data name="InstanceCard_RestartingInstance" xml:space="preserve"><value>正在重啟實例：{0}</value></data>
@@ -980,7 +980,7 @@
   <data name="Terraria" xml:space="preserve"><value>Terraria</value></data>
   <data name="TShock" xml:space="preserve"><value>Terraria TShock</value></data>
   <data name="TDSM" xml:space="preserve"><value>Terraria TDSM</value></data>
-<data name="ConfirmDelete" xml:space="preserve"><value>確認刪除</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>確定要刪除守護進程「{0}」嗎？</value></data>
+<data name="ConfirmDelete" xml:space="preserve"><value>確認刪除</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>確定要刪除遠端主機「{0}」嗎？</value></data>
   <data name="InstanceCard_StopConfirmTitle" xml:space="preserve">
     <value>確認停止</value>
   </data>
