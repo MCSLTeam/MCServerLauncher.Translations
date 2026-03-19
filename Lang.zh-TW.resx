@@ -1376,4 +1376,25 @@
   <data name="MultiSelectTip" xml:space="preserve">
     <value>按住 Ctrl 鍵點擊可多選，按住 Shift 鍵點擊可連選。</value>
   </data>
+  <data name="Yes" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="StartCommandSentSuccess" xml:space="preserve">
+    <value>啟動命令發送成功</value>
+  </data>
+  <data name="StopCommandSentSuccess" xml:space="preserve">
+    <value>停止命令發送成功</value>
+  </data>
+  <data name="KillCommandSentSuccess" xml:space="preserve">
+    <value>強制結束命令發送成功</value>
+  </data>
+  <data name="RestartCommandSentSuccess" xml:space="preserve">
+    <value>重啟命令發送成功</value>
+  </data>
+  <data name="SendCommandFailed" xml:space="preserve">
+    <value>發送命令失敗：{0}</value>
+  </data>
 </root>

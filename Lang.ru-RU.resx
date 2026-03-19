@@ -1357,5 +1357,25 @@
   <data name="MultiSelectTip" xml:space="preserve">
     <value>Удерживайте Ctrl для выбора нескольких элементов, удерживайте Shift для выбора диапазона.</value>
   </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="StartCommandSentSuccess" xml:space="preserve">
+    <value>Команда запуска успешно отправлена</value>
+  </data>
+  <data name="StopCommandSentSuccess" xml:space="preserve">
+    <value>Команда остановки успешно отправлена</value>
+  </data>
+  <data name="KillCommandSentSuccess" xml:space="preserve">
+    <value>Команда принудительного завершения успешно отправлена</value>
+  </data>
+  <data name="RestartCommandSentSuccess" xml:space="preserve">
+    <value>Команда перезапуска успешно отправлена</value>
+  </data>
+  <data name="SendCommandFailed" xml:space="preserve">
+    <value>Не удалось отправить команду: {0}</value>
+  </data>
 </root>
-

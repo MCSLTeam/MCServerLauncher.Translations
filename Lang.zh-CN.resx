@@ -1354,4 +1354,133 @@
   <data name="Copy" xml:space="preserve">
     <value>复制</value>
   </data>
+  <data name="FileEditor" xml:space="preserve">
+    <value>文件编辑器</value>
+  </data>
+  <data name="SaveWithShortcut" xml:space="preserve">
+    <value>保存 (Ctrl+S)</value>
+  </data>
+  <data name="SyntaxHighlighting" xml:space="preserve">
+    <value>语法高亮:</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>加载中...</value>
+  </data>
+  <data name="Ready" xml:space="preserve">
+    <value>就绪</value>
+  </data>
+  <data name="Modified" xml:space="preserve">
+    <value>已修改</value>
+  </data>
+  <data name="FileModifiedSavePrompt" xml:space="preserve">
+    <value>文件已修改，是否保存？</value>
+  </data>
+  <data name="Prompt" xml:space="preserve">
+    <value>提示</value>
+  </data>
+  <data name="LargeFileWarningPrompt" xml:space="preserve">
+    <value>文件较大 ({0} MB)，加载可能需要较长时间并占用大量内存。是否继续？</value>
+  </data>
+  <data name="LargeFileWarning" xml:space="preserve">
+    <value>大文件警告</value>
+  </data>
+  <data name="DownloadingFile" xml:space="preserve">
+    <value>正在下载文件...</value>
+  </data>
+  <data name="ReadingFile" xml:space="preserve">
+    <value>正在读取文件...</value>
+  </data>
+  <data name="LoadFileFailed" xml:space="preserve">
+    <value>加载文件失败</value>
+  </data>
+  <data name="LoadFailed" xml:space="preserve">
+    <value>加载失败</value>
+  </data>
+  <data name="SavingFile" xml:space="preserve">
+    <value>正在保存文件...</value>
+  </data>
+  <data name="Saving" xml:space="preserve">
+    <value>保存中...</value>
+  </data>
+  <data name="Saved" xml:space="preserve">
+    <value>已保存</value>
+  </data>
+  <data name="SaveFileFailed" xml:space="preserve">
+    <value>保存文件失败</value>
+  </data>
+  <data name="SaveFailed" xml:space="preserve">
+    <value>保存失败</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="StartCommandSentSuccess" xml:space="preserve">
+    <value>启动命令发送成功</value>
+  </data>
+  <data name="StopCommandSentSuccess" xml:space="preserve">
+    <value>停止命令发送成功</value>
+  </data>
+  <data name="KillCommandSentSuccess" xml:space="preserve">
+    <value>强制终止命令发送成功</value>
+  </data>
+  <data name="RestartCommandSentSuccess" xml:space="preserve">
+    <value>重启命令发送成功</value>
+  </data>
+  <data name="SendCommandFailed" xml:space="preserve">
+    <value>发送命令失败：{0}</value>
+  </data>
+  <data name="File" xml:space="preserve">
+    <value>文件</value>
+  </data>
+  <data name="Format" xml:space="preserve">
+    <value>格式</value>
+  </data>
+  <data name="Help" xml:space="preserve">
+    <value>帮助</value>
+  </data>
+  <data name="Undo" xml:space="preserve">
+    <value>撤销</value>
+  </data>
+  <data name="Redo" xml:space="preserve">
+    <value>重做</value>
+  </data>
+  <data name="Cut" xml:space="preserve">
+    <value>剪切</value>
+  </data>
+  <data name="Paste" xml:space="preserve">
+    <value>粘贴</value>
+  </data>
+  <data name="TimeDate" xml:space="preserve">
+    <value>时间/日期</value>
+  </data>
+  <data name="WordWrap" xml:space="preserve">
+    <value>自动换行</value>
+  </data>
+  <data name="Font" xml:space="preserve">
+    <value>字体</value>
+  </data>
+  <data name="Zoom" xml:space="preserve">
+    <value>缩放</value>
+  </data>
+  <data name="ZoomIn" xml:space="preserve">
+    <value>放大</value>
+  </data>
+  <data name="ZoomOut" xml:space="preserve">
+    <value>缩小</value>
+  </data>
+  <data name="RestoreDefaultZoom" xml:space="preserve">
+    <value>恢复默认缩放</value>
+  </data>
+  <data name="StatusBar" xml:space="preserve">
+    <value>状态栏</value>
+  </data>
+  <data name="ShowLineNumbers" xml:space="preserve">
+    <value>显示行号</value>
+  </data>
+  <data name="Reload" xml:space="preserve">
+    <value>重新加载</value>
+  </data>
 </root>
