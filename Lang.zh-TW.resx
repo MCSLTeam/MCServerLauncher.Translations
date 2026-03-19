@@ -1397,4 +1397,112 @@
   <data name="SendCommandFailed" xml:space="preserve">
     <value>發送命令失敗：{0}</value>
   </data>
+  <data name="FileEditor" xml:space="preserve">
+    <value>檔案編輯器</value>
+  </data>
+  <data name="SaveWithShortcut" xml:space="preserve">
+    <value>儲存 (Ctrl+S)</value>
+  </data>
+  <data name="SyntaxHighlighting" xml:space="preserve">
+    <value>語法高亮:</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>載入中...</value>
+  </data>
+  <data name="Ready" xml:space="preserve">
+    <value>就緒</value>
+  </data>
+  <data name="Modified" xml:space="preserve">
+    <value>已修改</value>
+  </data>
+  <data name="FileModifiedSavePrompt" xml:space="preserve">
+    <value>檔案已修改，是否儲存？</value>
+  </data>
+  <data name="Prompt" xml:space="preserve">
+    <value>提示</value>
+  </data>
+  <data name="LargeFileWarningPrompt" xml:space="preserve">
+    <value>檔案較大 ({0} MB)，載入可能需要較長時間並佔用大量記憶體。是否繼續？</value>
+  </data>
+  <data name="LargeFileWarning" xml:space="preserve">
+    <value>大檔案警告</value>
+  </data>
+  <data name="DownloadingFile" xml:space="preserve">
+    <value>正在下載檔案...</value>
+  </data>
+  <data name="ReadingFile" xml:space="preserve">
+    <value>正在讀取檔案...</value>
+  </data>
+  <data name="LoadFileFailed" xml:space="preserve">
+    <value>載入檔案失敗</value>
+  </data>
+  <data name="LoadFailed" xml:space="preserve">
+    <value>載入失敗</value>
+  </data>
+  <data name="SavingFile" xml:space="preserve">
+    <value>正在儲存檔案...</value>
+  </data>
+  <data name="Saving" xml:space="preserve">
+    <value>儲存中...</value>
+  </data>
+  <data name="Saved" xml:space="preserve">
+    <value>已儲存</value>
+  </data>
+  <data name="SaveFileFailed" xml:space="preserve">
+    <value>儲存檔案失敗</value>
+  </data>
+  <data name="SaveFailed" xml:space="preserve">
+    <value>儲存失敗</value>
+  </data>
+  <data name="File" xml:space="preserve">
+    <value>檔案</value>
+  </data>
+  <data name="Format" xml:space="preserve">
+    <value>格式</value>
+  </data>
+  <data name="Help" xml:space="preserve">
+    <value>幫助</value>
+  </data>
+  <data name="Undo" xml:space="preserve">
+    <value>復原</value>
+  </data>
+  <data name="Redo" xml:space="preserve">
+    <value>重做</value>
+  </data>
+  <data name="Cut" xml:space="preserve">
+    <value>剪下</value>
+  </data>
+  <data name="Paste" xml:space="preserve">
+    <value>貼上</value>
+  </data>
+  <data name="TimeDate" xml:space="preserve">
+    <value>時間/日期</value>
+  </data>
+  <data name="WordWrap" xml:space="preserve">
+    <value>自動換行</value>
+  </data>
+  <data name="Font" xml:space="preserve">
+    <value>字型</value>
+  </data>
+  <data name="Zoom" xml:space="preserve">
+    <value>縮放</value>
+  </data>
+  <data name="ZoomIn" xml:space="preserve">
+    <value>放大</value>
+  </data>
+  <data name="ZoomOut" xml:space="preserve">
+    <value>縮小</value>
+  </data>
+  <data name="RestoreDefaultZoom" xml:space="preserve">
+    <value>恢復預設縮放</value>
+  </data>
+  <data name="StatusBar" xml:space="preserve">
+    <value>狀態列</value>
+  </data>
+  <data name="ShowLineNumbers" xml:space="preserve">
+    <value>顯示行號</value>
+  </data>
+  <data name="Reload" xml:space="preserve">
+    <value>重新載入</value>
+  </data>
 </root>
