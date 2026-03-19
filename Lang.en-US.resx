@@ -1,6 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root xmlns:ns1="urn:schemas-microsoft-com:xml-msdata" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  
   <xs:schema id="root">
     <xs:element name="root" ns1:IsDataSet="true">
       <xs:complexType>
@@ -964,6 +963,9 @@
   <data name="SelectAll" xml:space="preserve">
     <value>Select All</value>
   </data>
+  <data name="Select" xml:space="preserve">
+    <value>Select</value>
+  </data>
   <data name="Players" xml:space="preserve">
     <value>Players</value>
   </data>
@@ -1193,4 +1195,163 @@ This action cannot be undone.</value>
   <data name="TDSM" xml:space="preserve">
     <value>Terraria TDSM</value>
   </data>
-<data name="ConfirmDelete" xml:space="preserve"><value>Confirm Delete</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>Are you sure you want to delete remote host '{0}'?</value></data></root>
+  <data name="ConfirmDelete" xml:space="preserve">
+    <value>Confirm Delete</value>
+  </data>
+  <data name="ConfirmDeleteDaemonMessage" xml:space="preserve">
+    <value>Are you sure you want to delete remote host '{0}'?</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ConsoleOutputTrigger" xml:space="preserve">
+    <value>Console Output Trigger</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_SendNotification" xml:space="preserve">
+    <value>Send Notification</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_IsRegex" xml:space="preserve">
+    <value>Is Regex</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ChangeInstanceStatus" xml:space="preserve">
+    <value>Change Instance Status</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Title" xml:space="preserve">
+    <value>Title</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_SendCommandAction" xml:space="preserve">
+    <value>Send Command Action</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_InstanceStatus" xml:space="preserve">
+    <value>Instance Status</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ConsoleOutput" xml:space="preserve">
+    <value>Console Output</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_SendCommand" xml:space="preserve">
+    <value>Send Command</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Condition" xml:space="preserve">
+    <value>Condition:</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Info" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_SendNotificationAction" xml:space="preserve">
+    <value>Send Notification Action</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Schedule" xml:space="preserve">
+    <value>Schedule</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Success" xml:space="preserve">
+    <value>Success</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Any" xml:space="preserve">
+    <value>Any</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_CronExpression" xml:space="preserve">
+    <value>Cron Expression</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_TargetStatus" xml:space="preserve">
+    <value>Target Status</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Pattern" xml:space="preserve">
+    <value>Pattern</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Action" xml:space="preserve">
+    <value>Action</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Severity" xml:space="preserve">
+    <value>Severity</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Command" xml:space="preserve">
+    <value>Command</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ChangeInstanceStatusAction" xml:space="preserve">
+    <value>Change Instance Status Action</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_All" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_InstanceStatusTrigger" xml:space="preserve">
+    <value>Instance Status Trigger</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ScheduleTrigger" xml:space="preserve">
+    <value>Schedule Trigger</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Message" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="Status_Running" xml:space="preserve">
+    <value>运行中</value>
+  </data>
+  <data name="Status_Stopped" xml:space="preserve">
+    <value>已停止</value>
+  </data>
+  <data name="Status_Crashed" xml:space="preserve">
+    <value>已崩溃</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>Success</value>
+  </data>
+  <data name="EventTrigger_LoadRulesFailed" xml:space="preserve">
+    <value>Failed to load event rules: {0}</value>
+  </data>
+  <data name="EventTrigger_SaveRulesSuccess" xml:space="preserve">
+    <value>Event rules saved successfully</value>
+  </data>
+  <data name="EventTrigger_SaveRulesFailed" xml:space="preserve">
+    <value>Failed to save event rules: {0}</value>
+  </data>
+  <data name="EventTrigger_NewRuleName" xml:space="preserve">
+    <value>New Rule</value>
+  </data>
+  <data name="EventTrigger_NewRuleDescription" xml:space="preserve">
+    <value>Description for the new rule</value>
+  </data>
+  <data name="Import" xml:space="preserve">
+    <value>Import</value>
+  </data>
+  <data name="Export" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="ModifiedDate" xml:space="preserve">
+    <value>Date Modified</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="Size" xml:space="preserve">
+    <value>Size</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="UploadFile" xml:space="preserve">
+    <value>Upload File</value>
+  </data>
+  <data name="Rename" xml:space="preserve">
+    <value>Rename</value>
+  </data>
+  <data name="CreateDirectory" xml:space="preserve">
+    <value>New Folder</value>
+  </data>
+  <data name="MultiSelectTip" xml:space="preserve">
+    <value>Hold Ctrl to select multiple items, hold Shift to select a range.</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>Copy</value>
+  </data>
+</root>

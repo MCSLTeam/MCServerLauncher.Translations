@@ -1,6 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <root xmlns:ns1="urn:schemas-microsoft-com:xml-msdata" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-
   <xs:schema id="root">
     <xs:element name="root" ns1:IsDataSet="true">
       <xs:complexType>
@@ -840,110 +839,317 @@
   <data name="DeadProcessTip" xml:space="preserve">
     <value>我们遇到了意料之外的异常，但已将关键的错误信息复制到剪贴板。程序已无法继续运行，即将关闭。</value>
   </data>
-  <data name="Install" xml:space="preserve"><value>Установить</value></data>
-  <data name="ScanJavaAtDaemon" xml:space="preserve"><value>Автоматический поиск</value></data>
-  <data name="GoBackLostTip" xml:space="preserve"><value>Если вы вернетесь сейчас, все изменения будут потеряны. Будьте осторожны.</value></data>
-  <data name="SelectMinecraftJavaCore" xml:space="preserve"><value>Выберите ядро Minecraft Java Edition</value></data>
-  <data name="SelectMinecraftJavaCoreGoResDownloadMessage" xml:space="preserve"><value>После завершения загрузки нажмите кнопку ниже, чтобы вернуться.</value></data>
-  <data name="JvmArgTemplateSameMemTip" xml:space="preserve"><value>При выборе шаблона ниже установите такое же значение кучи памяти JVM выше, иначе экземпляр может не запуститься.</value></data>
-  <data name="JvmArgBasicTemplate" xml:space="preserve"><value>Базовый (только для Java 11 и ниже)</value></data>
-  <data name="JvmArgAdvancedTemplate" xml:space="preserve"><value>Aikar Flag (не устанавливайте кучу памяти выше 20 ГБ)</value></data>
-  <data name="Unused" xml:space="preserve"><value>Не используется</value></data>
-  <data name="Delete" xml:space="preserve"><value>Удалить</value></data>
-  <data name="Jump" xml:space="preserve"><value>Перейти</value></data>
-  <data name="ShowRealtimeLog" xml:space="preserve"><value>Показать журнал в реальном времени</value></data>
-  <data name="Search" xml:space="preserve"><value>Поиск</value></data>
-  <data name="AllDaemon" xml:space="preserve"><value>Все удаленные хосты</value></data>
-  <data name="Running" xml:space="preserve"><value>Выполняется</value></data>
-  <data name="AllRunningStatus" xml:space="preserve"><value>Все статусы</value></data>
-  <data name="Stopped" xml:space="preserve"><value>Остановлено</value></data>
-  <data name="Crashed" xml:space="preserve"><value>Сбой</value></data>
-  <data name="Stopping" xml:space="preserve"><value>Останавливается</value></data>
-  <data name="Starting" xml:space="preserve"><value>Запускается</value></data>
-  <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve"><value>Зеркало RainYun</value></data>
-  <data name="PleaseSelectDaemon" xml:space="preserve"><value>Пожалуйста, выберите удаленный хост для запуска этого экземпляра.</value></data>
-  <data name="PleaseSelectJvm" xml:space="preserve"><value>Пожалуйста, выберите среду выполнения Java для использования.</value></data>
-  <data name="PleaseWait" xml:space="preserve"><value>Пожалуйста, подождите</value></data>
-  <data name="SearchingJvmTip" xml:space="preserve"><value>Поиск среды выполнения Java...</value></data>
-  <data name="ConnectDaemonFailedSubTip" xml:space="preserve"><value>Проверьте сеть и повторите попытку. Если сеть вашего компьютера в порядке, скорее всего, ваш удаленный хост работает неправильно или удаленный брандмауэр не разрешает подключение.</value></data>
-  <data name="SelectOtherDaemon" xml:space="preserve"><value>Выбрать другое...</value></data>
-  <data name="NothingHere" xml:space="preserve"><value>Здесь ничего нет</value></data>
-  <data name="TryAddSomething" xml:space="preserve"><value>Попробуйте добавить что-нибудь сюда</value></data>
-  <data name="ConsoleCommand_ExitFullScreenConsole" xml:space="preserve"><value>Выйти из полноэкранного терминала</value></data>
-  <data name="SelectAll" xml:space="preserve"><value>Выбрать все</value></data>
-  <data name="Players" xml:space="preserve"><value>Игроки</value></data>
-  <data name="View" xml:space="preserve"><value>Просмотр</value></data>
-  <data name="ConsoleCommand_EnterCommandTip" xml:space="preserve"><value>Введите команду здесь...</value></data>
-  <data name="FuncDisabled" xml:space="preserve"><value>Функция отключена</value></data>
-  <data name="FuncDisabledReason_NoDaemon" xml:space="preserve"><value>Эта функция отключена, так как не подключен ни один удаленный хост</value></data>
-  <data name="SelectedCount" xml:space="preserve"><value>Выбрано {0} экземпляров</value></data>
-  <data name="BatchStartConfirmTitle" xml:space="preserve"><value>Подтверждение пакетного запуска</value></data>
-  <data name="BatchStartConfirmContent" xml:space="preserve"><value>Вы уверены, что хотите запустить эти {0} экземпляров?</value></data>
-  <data name="BatchStopConfirmTitle" xml:space="preserve"><value>Подтверждение пакетной остановки</value></data>
-  <data name="BatchStopConfirmContent" xml:space="preserve"><value>Вы уверены, что хотите остановить эти {0} экземпляров?</value></data>
-  <data name="BatchDeleteConfirmTitle" xml:space="preserve"><value>Подтверждение пакетного удаления</value></data>
-  <data name="BatchDeleteConfirmContent" xml:space="preserve"><value>Вы уверены, что хотите удалить эти {0} экземпляров?
-Это действие нельзя отменить!</value></data>
-  <data name="BatchStartComplete" xml:space="preserve"><value>Пакетный запуск завершен</value></data>
-  <data name="BatchStopComplete" xml:space="preserve"><value>Пакетная остановка завершена</value></data>
-  <data name="BatchDeleteComplete" xml:space="preserve"><value>Пакетное удаление завершено</value></data>
-  <data name="BatchOperationResult" xml:space="preserve"><value>Успешно: {0}, Ошибка: {1}</value></data>
-  <data name="InstanceCard_NoDaemonConfig" xml:space="preserve"><value>Конфигурация удаленного хоста для этого экземпляра не установлена</value></data>
-  <data name="InstanceCard_StartingInstance" xml:space="preserve"><value>Запуск экземпляра: {0}</value></data>
-  <data name="InstanceCard_StoppingInstance" xml:space="preserve"><value>Остановка экземпляра: {0}</value></data>
-  <data name="InstanceCard_RestartingInstance" xml:space="preserve"><value>Перезапуск экземпляра: {0}</value></data>
-  <data name="InstanceCard_KillingInstance" xml:space="preserve"><value>Экземпляр принудительно завершен: {0}</value></data>
-  <data name="InstanceCard_DeletedInstance" xml:space="preserve"><value>Экземпляр удален: {0}</value></data>
-  <data name="InstanceCard_DeleteConfirmTitle" xml:space="preserve"><value>Подтверждение удаления</value></data>
-  <data name="InstanceCard_DeleteConfirmContent" xml:space="preserve"><value>Вы уверены, что хотите удалить экземпляр «{0}»?
-Это действие нельзя отменить.</value></data>
-  <data name="InstanceCard_StartFailed" xml:space="preserve"><value>Не удалось запустить экземпляр: {0}</value></data>
-  <data name="InstanceCard_StopFailed" xml:space="preserve"><value>Не удалось остановить экземпляр: {0}</value></data>
-  <data name="InstanceCard_RestartFailed" xml:space="preserve"><value>Не удалось перезапустить экземпляр: {0}</value></data>
-  <data name="InstanceCard_KillFailed" xml:space="preserve"><value>Не удалось принудительно завершить экземпляр: {0}</value></data>
-  <data name="InstanceCard_DeleteFailed" xml:space="preserve"><value>Не удалось удалить экземпляр: {0}</value></data>
-  <data name="Universal" xml:space="preserve"><value>Универсальный</value></data>
-  <data name="SteamServer" xml:space="preserve"><value>Игровой сервер Steam</value></data>
-  <data name="MCJava" xml:space="preserve"><value>Minecraft Java Edition</value></data>
-  <data name="MCFabric" xml:space="preserve"><value>Minecraft Fabric</value></data>
-  <data name="MCForge" xml:space="preserve"><value>Minecraft Forge</value></data>
-  <data name="MCNeoForge" xml:space="preserve"><value>Minecraft NeoForge</value></data>
-  <data name="MCQuilt" xml:space="preserve"><value>Minecraft Quilt</value></data>
-  <data name="MCCleanroom" xml:space="preserve"><value>Minecraft Cleanroom</value></data>
-  <data name="MCSponge" xml:space="preserve"><value>Minecraft Sponge</value></data>
-  <data name="MCVanilla" xml:space="preserve"><value>Minecraft Vanilla</value></data>
-  <data name="MCCraftBukkit" xml:space="preserve"><value>Minecraft CraftBukkit</value></data>
-  <data name="MCSpigot" xml:space="preserve"><value>Minecraft Spigot</value></data>
-  <data name="MCPaper" xml:space="preserve"><value>Minecraft Paper</value></data>
-  <data name="MCLeaf" xml:space="preserve"><value>Minecraft Leaf</value></data>
-  <data name="MCLeaves" xml:space="preserve"><value>Minecraft Leaves</value></data>
-  <data name="MCFolia" xml:space="preserve"><value>Minecraft Folia</value></data>
-  <data name="MCPufferfish" xml:space="preserve"><value>Minecraft Pufferfish</value></data>
-  <data name="MCPurpur" xml:space="preserve"><value>Minecraft Purpur</value></data>
-  <data name="MCMohist" xml:space="preserve"><value>Minecraft Mohist</value></data>
-  <data name="MCBanner" xml:space="preserve"><value>Minecraft Banner</value></data>
-  <data name="MCYouer" xml:space="preserve"><value>Minecraft Youer</value></data>
-  <data name="MCThermos" xml:space="preserve"><value>Minecraft Thermos</value></data>
-  <data name="MCCrucible" xml:space="preserve"><value>Minecraft Crucible</value></data>
-  <data name="MCTaiyitist" xml:space="preserve"><value>Minecraft Taiyitist</value></data>
-  <data name="MCCatServer" xml:space="preserve"><value>Minecraft CatServer</value></data>
-  <data name="MCArclight" xml:space="preserve"><value>Minecraft Arclight</value></data>
-  <data name="MCBungeeCord" xml:space="preserve"><value>Minecraft BungeeCord</value></data>
-  <data name="MCVelocity" xml:space="preserve"><value>Minecraft Velocity</value></data>
-  <data name="MCWaterfall" xml:space="preserve"><value>Minecraft Waterfall</value></data>
-  <data name="MCTravertine" xml:space="preserve"><value>Minecraft Travertine</value></data>
-  <data name="MCViaVersion" xml:space="preserve"><value>Minecraft ViaVersion</value></data>
-  <data name="MCGeyser" xml:space="preserve"><value>Minecraft Geyser</value></data>
-  <data name="MCDReforged" xml:space="preserve"><value>Minecraft MCDReforged</value></data>
-  <data name="MCBedrock" xml:space="preserve"><value>Minecraft Bedrock Edition</value></data>
-  <data name="MCNukkit" xml:space="preserve"><value>Minecraft Nukkit</value></data>
-  <data name="MCBDS" xml:space="preserve"><value>Minecraft BDS</value></data>
-  <data name="MCCloudburst" xml:space="preserve"><value>Minecraft Cloudburst</value></data>
-  <data name="MCPocketMine" xml:space="preserve"><value>Minecraft PocketMine</value></data>
-  <data name="Terraria" xml:space="preserve"><value>Terraria</value></data>
-  <data name="TShock" xml:space="preserve"><value>Terraria TShock</value></data>
-  <data name="TDSM" xml:space="preserve"><value>Terraria TDSM</value></data>
-<data name="ConfirmDelete" xml:space="preserve"><value>Подтверждение удаления</value></data><data name="ConfirmDeleteDaemonMessage" xml:space="preserve"><value>Вы уверены, что хотите удалить удаленный хост «{0}»?</value></data>
+  <data name="Install" xml:space="preserve">
+    <value>Установить</value>
+  </data>
+  <data name="ScanJavaAtDaemon" xml:space="preserve">
+    <value>Автоматический поиск</value>
+  </data>
+  <data name="GoBackLostTip" xml:space="preserve">
+    <value>Если вы вернетесь сейчас, все изменения будут потеряны. Будьте осторожны.</value>
+  </data>
+  <data name="SelectMinecraftJavaCore" xml:space="preserve">
+    <value>Выберите ядро Minecraft Java Edition</value>
+  </data>
+  <data name="SelectMinecraftJavaCoreGoResDownloadMessage" xml:space="preserve">
+    <value>После завершения загрузки нажмите кнопку ниже, чтобы вернуться.</value>
+  </data>
+  <data name="JvmArgTemplateSameMemTip" xml:space="preserve">
+    <value>При выборе шаблона ниже установите такое же значение кучи памяти JVM выше, иначе экземпляр может не запуститься.</value>
+  </data>
+  <data name="JvmArgBasicTemplate" xml:space="preserve">
+    <value>Базовый (только для Java 11 и ниже)</value>
+  </data>
+  <data name="JvmArgAdvancedTemplate" xml:space="preserve">
+    <value>Aikar Flag (не устанавливайте кучу памяти выше 20 ГБ)</value>
+  </data>
+  <data name="Unused" xml:space="preserve">
+    <value>Не используется</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="Jump" xml:space="preserve">
+    <value>Перейти</value>
+  </data>
+  <data name="ShowRealtimeLog" xml:space="preserve">
+    <value>Показать журнал в реальном времени</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Поиск</value>
+  </data>
+  <data name="AllDaemon" xml:space="preserve">
+    <value>Все удаленные хосты</value>
+  </data>
+  <data name="Running" xml:space="preserve">
+    <value>Выполняется</value>
+  </data>
+  <data name="AllRunningStatus" xml:space="preserve">
+    <value>Все статусы</value>
+  </data>
+  <data name="Stopped" xml:space="preserve">
+    <value>Остановлено</value>
+  </data>
+  <data name="Crashed" xml:space="preserve">
+    <value>Сбой</value>
+  </data>
+  <data name="Stopping" xml:space="preserve">
+    <value>Останавливается</value>
+  </data>
+  <data name="Starting" xml:space="preserve">
+    <value>Запускается</value>
+  </data>
+  <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve">
+    <value>Зеркало RainYun</value>
+  </data>
+  <data name="PleaseSelectDaemon" xml:space="preserve">
+    <value>Пожалуйста, выберите удаленный хост для запуска этого экземпляра.</value>
+  </data>
+  <data name="PleaseSelectJvm" xml:space="preserve">
+    <value>Пожалуйста, выберите среду выполнения Java для использования.</value>
+  </data>
+  <data name="PleaseWait" xml:space="preserve">
+    <value>Пожалуйста, подождите</value>
+  </data>
+  <data name="SearchingJvmTip" xml:space="preserve">
+    <value>Поиск среды выполнения Java...</value>
+  </data>
+  <data name="ConnectDaemonFailedSubTip" xml:space="preserve">
+    <value>Проверьте сеть и повторите попытку. Если сеть вашего компьютера в порядке, скорее всего, ваш удаленный хост работает неправильно или удаленный брандмауэр не разрешает подключение.</value>
+  </data>
+  <data name="SelectOtherDaemon" xml:space="preserve">
+    <value>Выбрать другое...</value>
+  </data>
+  <data name="NothingHere" xml:space="preserve">
+    <value>Здесь ничего нет</value>
+  </data>
+  <data name="TryAddSomething" xml:space="preserve">
+    <value>Попробуйте добавить что-нибудь сюда</value>
+  </data>
+  <data name="ConsoleCommand_ExitFullScreenConsole" xml:space="preserve">
+    <value>Выйти из полноэкранного терминала</value>
+  </data>
+  <data name="SelectAll" xml:space="preserve">
+    <value>Выбрать все</value>
+  </data>
+  <data name="Players" xml:space="preserve">
+    <value>Игроки</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>Просмотр</value>
+  </data>
+  <data name="ConsoleCommand_EnterCommandTip" xml:space="preserve">
+    <value>Введите команду здесь...</value>
+  </data>
+  <data name="FuncDisabled" xml:space="preserve">
+    <value>Функция отключена</value>
+  </data>
+  <data name="FuncDisabledReason_NoDaemon" xml:space="preserve">
+    <value>Эта функция отключена, так как не подключен ни один удаленный хост</value>
+  </data>
+  <data name="SelectedCount" xml:space="preserve">
+    <value>Выбрано {0} экземпляров</value>
+  </data>
+  <data name="BatchStartConfirmTitle" xml:space="preserve">
+    <value>Подтверждение пакетного запуска</value>
+  </data>
+  <data name="BatchStartConfirmContent" xml:space="preserve">
+    <value>Вы уверены, что хотите запустить эти {0} экземпляров?</value>
+  </data>
+  <data name="BatchStopConfirmTitle" xml:space="preserve">
+    <value>Подтверждение пакетной остановки</value>
+  </data>
+  <data name="BatchStopConfirmContent" xml:space="preserve">
+    <value>Вы уверены, что хотите остановить эти {0} экземпляров?</value>
+  </data>
+  <data name="BatchDeleteConfirmTitle" xml:space="preserve">
+    <value>Подтверждение пакетного удаления</value>
+  </data>
+  <data name="BatchDeleteConfirmContent" xml:space="preserve">
+    <value>Вы уверены, что хотите удалить эти {0} экземпляров?
+Это действие нельзя отменить!</value>
+  </data>
+  <data name="BatchStartComplete" xml:space="preserve">
+    <value>Пакетный запуск завершен</value>
+  </data>
+  <data name="BatchStopComplete" xml:space="preserve">
+    <value>Пакетная остановка завершена</value>
+  </data>
+  <data name="BatchDeleteComplete" xml:space="preserve">
+    <value>Пакетное удаление завершено</value>
+  </data>
+  <data name="BatchOperationResult" xml:space="preserve">
+    <value>Успешно: {0}, Ошибка: {1}</value>
+  </data>
+  <data name="InstanceCard_NoDaemonConfig" xml:space="preserve">
+    <value>Конфигурация удаленного хоста для этого экземпляра не установлена</value>
+  </data>
+  <data name="InstanceCard_StartingInstance" xml:space="preserve">
+    <value>Запуск экземпляра: {0}</value>
+  </data>
+  <data name="InstanceCard_StoppingInstance" xml:space="preserve">
+    <value>Остановка экземпляра: {0}</value>
+  </data>
+  <data name="InstanceCard_RestartingInstance" xml:space="preserve">
+    <value>Перезапуск экземпляра: {0}</value>
+  </data>
+  <data name="InstanceCard_KillingInstance" xml:space="preserve">
+    <value>Экземпляр принудительно завершен: {0}</value>
+  </data>
+  <data name="InstanceCard_DeletedInstance" xml:space="preserve">
+    <value>Экземпляр удален: {0}</value>
+  </data>
+  <data name="InstanceCard_DeleteConfirmTitle" xml:space="preserve">
+    <value>Подтверждение удаления</value>
+  </data>
+  <data name="InstanceCard_DeleteConfirmContent" xml:space="preserve">
+    <value>Вы уверены, что хотите удалить экземпляр «{0}»?
+Это действие нельзя отменить.</value>
+  </data>
+  <data name="InstanceCard_StartFailed" xml:space="preserve">
+    <value>Не удалось запустить экземпляр: {0}</value>
+  </data>
+  <data name="InstanceCard_StopFailed" xml:space="preserve">
+    <value>Не удалось остановить экземпляр: {0}</value>
+  </data>
+  <data name="InstanceCard_RestartFailed" xml:space="preserve">
+    <value>Не удалось перезапустить экземпляр: {0}</value>
+  </data>
+  <data name="InstanceCard_KillFailed" xml:space="preserve">
+    <value>Не удалось принудительно завершить экземпляр: {0}</value>
+  </data>
+  <data name="InstanceCard_DeleteFailed" xml:space="preserve">
+    <value>Не удалось удалить экземпляр: {0}</value>
+  </data>
+  <data name="Universal" xml:space="preserve">
+    <value>Универсальный</value>
+  </data>
+  <data name="SteamServer" xml:space="preserve">
+    <value>Игровой сервер Steam</value>
+  </data>
+  <data name="MCJava" xml:space="preserve">
+    <value>Minecraft Java Edition</value>
+  </data>
+  <data name="MCFabric" xml:space="preserve">
+    <value>Minecraft Fabric</value>
+  </data>
+  <data name="MCForge" xml:space="preserve">
+    <value>Minecraft Forge</value>
+  </data>
+  <data name="MCNeoForge" xml:space="preserve">
+    <value>Minecraft NeoForge</value>
+  </data>
+  <data name="MCQuilt" xml:space="preserve">
+    <value>Minecraft Quilt</value>
+  </data>
+  <data name="MCCleanroom" xml:space="preserve">
+    <value>Minecraft Cleanroom</value>
+  </data>
+  <data name="MCSponge" xml:space="preserve">
+    <value>Minecraft Sponge</value>
+  </data>
+  <data name="MCVanilla" xml:space="preserve">
+    <value>Minecraft Vanilla</value>
+  </data>
+  <data name="MCCraftBukkit" xml:space="preserve">
+    <value>Minecraft CraftBukkit</value>
+  </data>
+  <data name="MCSpigot" xml:space="preserve">
+    <value>Minecraft Spigot</value>
+  </data>
+  <data name="MCPaper" xml:space="preserve">
+    <value>Minecraft Paper</value>
+  </data>
+  <data name="MCLeaf" xml:space="preserve">
+    <value>Minecraft Leaf</value>
+  </data>
+  <data name="MCLeaves" xml:space="preserve">
+    <value>Minecraft Leaves</value>
+  </data>
+  <data name="MCFolia" xml:space="preserve">
+    <value>Minecraft Folia</value>
+  </data>
+  <data name="MCPufferfish" xml:space="preserve">
+    <value>Minecraft Pufferfish</value>
+  </data>
+  <data name="MCPurpur" xml:space="preserve">
+    <value>Minecraft Purpur</value>
+  </data>
+  <data name="MCMohist" xml:space="preserve">
+    <value>Minecraft Mohist</value>
+  </data>
+  <data name="MCBanner" xml:space="preserve">
+    <value>Minecraft Banner</value>
+  </data>
+  <data name="MCYouer" xml:space="preserve">
+    <value>Minecraft Youer</value>
+  </data>
+  <data name="MCThermos" xml:space="preserve">
+    <value>Minecraft Thermos</value>
+  </data>
+  <data name="MCCrucible" xml:space="preserve">
+    <value>Minecraft Crucible</value>
+  </data>
+  <data name="MCTaiyitist" xml:space="preserve">
+    <value>Minecraft Taiyitist</value>
+  </data>
+  <data name="MCCatServer" xml:space="preserve">
+    <value>Minecraft CatServer</value>
+  </data>
+  <data name="MCArclight" xml:space="preserve">
+    <value>Minecraft Arclight</value>
+  </data>
+  <data name="MCBungeeCord" xml:space="preserve">
+    <value>Minecraft BungeeCord</value>
+  </data>
+  <data name="MCVelocity" xml:space="preserve">
+    <value>Minecraft Velocity</value>
+  </data>
+  <data name="MCWaterfall" xml:space="preserve">
+    <value>Minecraft Waterfall</value>
+  </data>
+  <data name="MCTravertine" xml:space="preserve">
+    <value>Minecraft Travertine</value>
+  </data>
+  <data name="MCViaVersion" xml:space="preserve">
+    <value>Minecraft ViaVersion</value>
+  </data>
+  <data name="MCGeyser" xml:space="preserve">
+    <value>Minecraft Geyser</value>
+  </data>
+  <data name="MCDReforged" xml:space="preserve">
+    <value>Minecraft MCDReforged</value>
+  </data>
+  <data name="MCBedrock" xml:space="preserve">
+    <value>Minecraft Bedrock Edition</value>
+  </data>
+  <data name="MCNukkit" xml:space="preserve">
+    <value>Minecraft Nukkit</value>
+  </data>
+  <data name="MCBDS" xml:space="preserve">
+    <value>Minecraft BDS</value>
+  </data>
+  <data name="MCCloudburst" xml:space="preserve">
+    <value>Minecraft Cloudburst</value>
+  </data>
+  <data name="MCPocketMine" xml:space="preserve">
+    <value>Minecraft PocketMine</value>
+  </data>
+  <data name="Terraria" xml:space="preserve">
+    <value>Terraria</value>
+  </data>
+  <data name="TShock" xml:space="preserve">
+    <value>Terraria TShock</value>
+  </data>
+  <data name="TDSM" xml:space="preserve">
+    <value>Terraria TDSM</value>
+  </data>
+  <data name="ConfirmDelete" xml:space="preserve">
+    <value>Подтверждение удаления</value>
+  </data>
+  <data name="ConfirmDeleteDaemonMessage" xml:space="preserve">
+    <value>Вы уверены, что хотите удалить удаленный хост «{0}»?</value>
+  </data>
   <data name="InstanceCard_StopConfirmTitle" xml:space="preserve">
     <value>Подтверждение остановки</value>
   </data>
@@ -962,4 +1168,194 @@
   <data name="InstanceCard_KillConfirmContent" xml:space="preserve">
     <value>Вы уверены, что хотите принудительно завершить экземпляр «{0}»?</value>
   </data>
+  <data name="ConsoleCommand_EventTrigger_ConsoleOutputTrigger" xml:space="preserve">
+    <value>Console Output Trigger</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_SendNotification" xml:space="preserve">
+    <value>Send Notification</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_IsRegex" xml:space="preserve">
+    <value>Is Regex</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ChangeInstanceStatus" xml:space="preserve">
+    <value>Change Instance Status</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Title" xml:space="preserve">
+    <value>Title</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_SendCommandAction" xml:space="preserve">
+    <value>Send Command Action</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_InstanceStatus" xml:space="preserve">
+    <value>Instance Status</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ConsoleOutput" xml:space="preserve">
+    <value>Console Output</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_SendCommand" xml:space="preserve">
+    <value>Send Command</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Condition" xml:space="preserve">
+    <value>Condition:</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Info" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_SendNotificationAction" xml:space="preserve">
+    <value>Send Notification Action</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Schedule" xml:space="preserve">
+    <value>Schedule</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Success" xml:space="preserve">
+    <value>Success</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Any" xml:space="preserve">
+    <value>Any</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_CronExpression" xml:space="preserve">
+    <value>Cron Expression</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_TargetStatus" xml:space="preserve">
+    <value>Target Status</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Pattern" xml:space="preserve">
+    <value>Pattern</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Action" xml:space="preserve">
+    <value>Action</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Severity" xml:space="preserve">
+    <value>Severity</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Command" xml:space="preserve">
+    <value>Command</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ChangeInstanceStatusAction" xml:space="preserve">
+    <value>Change Instance Status Action</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_All" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_InstanceStatusTrigger" xml:space="preserve">
+    <value>Instance Status Trigger</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ScheduleTrigger" xml:space="preserve">
+    <value>Schedule Trigger</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Message" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>名称</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>描述</value>
+  </data>
+  <data name="Status_Running" xml:space="preserve">
+    <value>运行中</value>
+  </data>
+  <data name="Status_Stopped" xml:space="preserve">
+    <value>已停止</value>
+  </data>
+  <data name="Status_Crashed" xml:space="preserve">
+    <value>已崩溃</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>Успех</value>
+  </data>
+  <data name="EventTrigger_LoadRulesFailed" xml:space="preserve">
+    <value>Не удалось загрузить правила событий: {0}</value>
+  </data>
+  <data name="EventTrigger_SaveRulesSuccess" xml:space="preserve">
+    <value>Правила событий успешно сохранены</value>
+  </data>
+  <data name="EventTrigger_SaveRulesFailed" xml:space="preserve">
+    <value>Не удалось сохранить правила событий: {0}</value>
+  </data>
+  <data name="EventTrigger_NewRuleName" xml:space="preserve">
+    <value>Новое правило</value>
+  </data>
+  <data name="EventTrigger_NewRuleDescription" xml:space="preserve">
+    <value>Описание нового правила</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>Копировать</value>
+  </data>
+  <data name="Settings_Instance_AutoRefreshInterval" xml:space="preserve">
+    <value>Интервал автообновления статуса экземпляра</value>
+  </data>
+  <data name="Settings_Instance_AutoRefreshInterval_Description" xml:space="preserve">
+    <value>Интервал времени (в секундах) для автоматического обновления статуса экземпляра. Установите 0 для отключения.</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick" xml:space="preserve">
+    <value>Действие при двойном клике по карточке экземпляра</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Description" xml:space="preserve">
+    <value>Действие, выполняемое при двойном клике по карточке экземпляра.</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Console" xml:space="preserve">
+    <value>Открыть консоль</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Start" xml:space="preserve">
+    <value>Запустить экземпляр</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Stop" xml:space="preserve">
+    <value>Остановить экземпляр</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Restart" xml:space="preserve">
+    <value>Перезапустить экземпляр</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Kill" xml:space="preserve">
+    <value>Убить экземпляр</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_Settings" xml:space="preserve">
+    <value>Открыть настройки</value>
+  </data>
+  <data name="Settings_Instance_ActionOnDoubleClick_None" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Выбрать</value>
+  </data>
+  <data name="Import" xml:space="preserve">
+    <value>Импорт</value>
+  </data>
+  <data name="Export" xml:space="preserve">
+    <value>Экспорт</value>
+  </data>
+  <data name="ModifiedDate" xml:space="preserve">
+    <value>Дата изменения</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Тип</value>
+  </data>
+  <data name="Size" xml:space="preserve">
+    <value>Размер</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>Открыть</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Скачать</value>
+  </data>
+  <data name="UploadFile" xml:space="preserve">
+    <value>Загрузить файл</value>
+  </data>
+  <data name="Rename" xml:space="preserve">
+    <value>Переименовать</value>
+  </data>
+  <data name="CreateDirectory" xml:space="preserve">
+    <value>Создать папку</value>
+  </data>
+  <data name="MultiSelectTip" xml:space="preserve">
+    <value>Удерживайте Ctrl для выбора нескольких элементов, удерживайте Shift для выбора диапазона.</value>
+  </data>
 </root>
+
