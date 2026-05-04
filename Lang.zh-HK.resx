@@ -1547,4 +1547,11 @@
   <data name="Info" xml:space="preserve">
     <value>資訊</value>
   </data>
+
+  <data name="UploadingFile" xml:space="preserve">
+    <value>正在上傳檔案</value>
+  </data>
+  <data name="FileUploadFailed" xml:space="preserve">
+    <value>檔案上傳失敗</value>
+  </data>
 </root>

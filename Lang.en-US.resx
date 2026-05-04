@@ -1525,4 +1525,10 @@ This action cannot be undone.</value>
   <data name="Info" xml:space="preserve">
     <value>Info</value>
   </data>
+  <data name="UploadingFile" xml:space="preserve">
+    <value>Uploading file</value>
+  </data>
+  <data name="FileUploadFailed" xml:space="preserve">
+    <value>Failed to upload file</value>
+  </data>
 </root>

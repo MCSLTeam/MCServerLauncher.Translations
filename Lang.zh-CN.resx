@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root xmlns:ns1="urn:schemas-microsoft-com:xml-msdata" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:schema id="root">
     <xs:element name="root" ns1:IsDataSet="true">
@@ -1524,5 +1524,12 @@
   </data>
   <data name="Info" xml:space="preserve">
     <value>信息</value>
+  </data>
+
+  <data name="UploadingFile" xml:space="preserve">
+    <value>正在上传文件</value>
+  </data>
+  <data name="FileUploadFailed" xml:space="preserve">
+    <value>文件上传失败</value>
   </data>
 </root>

@@ -1528,4 +1528,11 @@
   <data name="Info" xml:space="preserve">
     <value>Информация</value>
   </data>
+
+  <data name="UploadingFile" xml:space="preserve">
+    <value>Загрузка файла</value>
+  </data>
+  <data name="FileUploadFailed" xml:space="preserve">
+    <value>Не удалось загрузить файл</value>
+  </data>
 </root>
