@@ -1505,4 +1505,46 @@
   <data name="Reload" xml:space="preserve">
     <value>重新載入</value>
   </data>
+  <data name="CreateInstanceMissingDataError" xml:space="preserve">
+    <value>缺少必填資料</value>
+  </data>
+  <data name="CreateInstanceConfirmationMessage" xml:space="preserve">
+    <value>您確定要建立以下實例嗎？</value>
+  </data>
+  <data name="CorePath" xml:space="preserve">
+    <value>核心路徑</value>
+  </data>
+  <data name="JvmArguments" xml:space="preserve">
+    <value>JVM 參數</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>無</value>
+  </data>
+  <data name="CreateInstanceConfirmationTitle" xml:space="preserve">
+    <value>確認建立實例</value>
+  </data>
+  <data name="DaemonConnectionError" xml:space="preserve">
+    <value>無法連線到遠端主機</value>
+  </data>
+  <data name="CreatingInstance" xml:space="preserve">
+    <value>正在建立實例...</value>
+  </data>
+  <data name="InstanceCreatedSuccess" xml:space="preserve">
+    <value>實例建立成功</value>
+  </data>
+  <data name="CreateInstanceError" xml:space="preserve">
+    <value>建立實例失敗</value>
+  </data>
+  <data name="NoJavaFound" xml:space="preserve">
+    <value>未找到 Java 執行環境</value>
+  </data>
+  <data name="SearchJavaError" xml:space="preserve">
+    <value>搜尋 Java 失敗</value>
+  </data>
+  <data name="InstanceName" xml:space="preserve">
+    <value>實例名稱</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>資訊</value>
+  </data>
 </root>

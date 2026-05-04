@@ -1486,4 +1486,46 @@
   <data name="Reload" xml:space="preserve">
     <value>Перезагрузить</value>
   </data>
+  <data name="CreateInstanceMissingDataError" xml:space="preserve">
+    <value>Отсутствуют обязательные данные</value>
+  </data>
+  <data name="CreateInstanceConfirmationMessage" xml:space="preserve">
+    <value>Вы уверены, что хотите создать следующий экземпляр?</value>
+  </data>
+  <data name="CorePath" xml:space="preserve">
+    <value>Путь к ядру</value>
+  </data>
+  <data name="JvmArguments" xml:space="preserve">
+    <value>Аргументы JVM</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="CreateInstanceConfirmationTitle" xml:space="preserve">
+    <value>Подтверждение создания экземпляра</value>
+  </data>
+  <data name="DaemonConnectionError" xml:space="preserve">
+    <value>Не удалось подключиться к демону</value>
+  </data>
+  <data name="CreatingInstance" xml:space="preserve">
+    <value>Создание экземпляра...</value>
+  </data>
+  <data name="InstanceCreatedSuccess" xml:space="preserve">
+    <value>Экземпляр успешно создан</value>
+  </data>
+  <data name="CreateInstanceError" xml:space="preserve">
+    <value>Не удалось создать экземпляр</value>
+  </data>
+  <data name="NoJavaFound" xml:space="preserve">
+    <value>Среда выполнения Java не найдена</value>
+  </data>
+  <data name="SearchJavaError" xml:space="preserve">
+    <value>Не удалось найти Java</value>
+  </data>
+  <data name="InstanceName" xml:space="preserve">
+    <value>Имя экземпляра</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>Информация</value>
+  </data>
 </root>

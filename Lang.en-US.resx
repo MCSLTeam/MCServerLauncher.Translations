@@ -1483,4 +1483,46 @@ This action cannot be undone.</value>
   <data name="Reload" xml:space="preserve">
     <value>Reload</value>
   </data>
+  <data name="CreateInstanceMissingDataError" xml:space="preserve">
+    <value>Missing required data</value>
+  </data>
+  <data name="CreateInstanceConfirmationMessage" xml:space="preserve">
+    <value>Are you sure you want to create the following instance?</value>
+  </data>
+  <data name="CorePath" xml:space="preserve">
+    <value>Core Path</value>
+  </data>
+  <data name="JvmArguments" xml:space="preserve">
+    <value>JVM Arguments</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="CreateInstanceConfirmationTitle" xml:space="preserve">
+    <value>Confirm Instance Creation</value>
+  </data>
+  <data name="DaemonConnectionError" xml:space="preserve">
+    <value>Failed to connect to daemon</value>
+  </data>
+  <data name="CreatingInstance" xml:space="preserve">
+    <value>Creating instance...</value>
+  </data>
+  <data name="InstanceCreatedSuccess" xml:space="preserve">
+    <value>Instance created successfully</value>
+  </data>
+  <data name="CreateInstanceError" xml:space="preserve">
+    <value>Failed to create instance</value>
+  </data>
+  <data name="NoJavaFound" xml:space="preserve">
+    <value>No Java runtime found</value>
+  </data>
+  <data name="SearchJavaError" xml:space="preserve">
+    <value>Failed to search Java</value>
+  </data>
+  <data name="InstanceName" xml:space="preserve">
+    <value>Instance Name</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>Info</value>
+  </data>
 </root>
