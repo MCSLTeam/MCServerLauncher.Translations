@@ -1045,8 +1045,11 @@
   <data name="MCCleanroom" xml:space="preserve">
     <value>Minecraft Cleanroom</value>
   </data>
-  <data name="MCSponge" xml:space="preserve">
-    <value>Minecraft Sponge</value>
+  <data name="MCSpongeVanilla" xml:space="preserve">
+    <value>Minecraft SpongeVanilla</value>
+  </data>
+  <data name="MCSpongeForge" xml:space="preserve">
+    <value>Minecraft SpongeForge</value>
   </data>
   <data name="MCVanilla" xml:space="preserve">
     <value>Minecraft Vanilla</value>
