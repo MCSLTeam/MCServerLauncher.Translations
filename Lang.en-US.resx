@@ -1534,4 +1534,70 @@ This action cannot be undone.</value>
   <data name="FileUploadFailed" xml:space="preserve">
     <value>Failed to upload file</value>
   </data>
+  <data name="ComponentManager_Add" xml:space="preserve">
+    <value>Add Component</value>
+  </data>
+  <data name="ComponentManager_Enable" xml:space="preserve">
+    <value>Enable</value>
+  </data>
+  <data name="ComponentManager_Disable" xml:space="preserve">
+    <value>Disable</value>
+  </data>
+  <data name="ComponentManager_Locate" xml:space="preserve">
+    <value>Locate File</value>
+  </data>
+  <data name="ComponentManager_Enabled" xml:space="preserve">
+    <value>Component enabled</value>
+  </data>
+  <data name="ComponentManager_Disabled" xml:space="preserve">
+    <value>Component disabled</value>
+  </data>
+  <data name="ComponentManager_Deleted" xml:space="preserve">
+    <value>Component deleted</value>
+  </data>
+  <data name="ComponentManager_ConfirmDeleteMessage" xml:space="preserve">
+    <value>Are you sure you want to delete "{0}"?</value>
+  </data>
+  <data name="ComponentManager_PathCopied" xml:space="preserve">
+    <value>Path copied</value>
+  </data>
+  <data name="ComponentManager_DaemonUnavailable" xml:space="preserve">
+    <value>Daemon connection unavailable</value>
+  </data>
+  <data name="ComponentManager_NoTargetFolder" xml:space="preserve">
+    <value>No target folder available</value>
+  </data>
+  <data name="ComponentManager_NoJarFiles" xml:space="preserve">
+    <value>No JAR files found in dropped items</value>
+  </data>
+  <data name="ComponentManager_AddedCount" xml:space="preserve">
+    <value>{0}/{1} components added successfully</value>
+  </data>
+  <data name="MinecraftVersionLabel" xml:space="preserve">
+    <value>Minecraft</value>
+  </data>
+  <data name="ForgeVersionLabel" xml:space="preserve">
+    <value>Forge</value>
+  </data>
+  <data name="FabricLoaderVersionLabel" xml:space="preserve">
+    <value>Fabric Loader</value>
+  </data>
+  <data name="NeoForgeVersionLabel" xml:space="preserve">
+    <value>NeoForge</value>
+  </data>
+  <data name="InstanceType_MCForge" xml:space="preserve">
+    <value>Minecraft Forge</value>
+  </data>
+  <data name="InstanceType_MCFabric" xml:space="preserve">
+    <value>Minecraft Fabric</value>
+  </data>
+  <data name="InstanceType_MCNeoForge" xml:space="preserve">
+    <value>Minecraft NeoForge</value>
+  </data>
+  <data name="DebugCopyConfig" xml:space="preserve">
+    <value>Debug: Copy Config</value>
+  </data>
+  <data name="InstanceConfigCopied" xml:space="preserve">
+    <value>Instance config copied to clipboard</value>
+  </data>
 </root>

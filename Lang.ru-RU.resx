@@ -1538,4 +1538,70 @@
   <data name="FileUploadFailed" xml:space="preserve">
     <value>Не удалось загрузить файл</value>
   </data>
+  <data name="ComponentManager_Add" xml:space="preserve">
+    <value>Добавить компонент</value>
+  </data>
+  <data name="ComponentManager_Enable" xml:space="preserve">
+    <value>Включить</value>
+  </data>
+  <data name="ComponentManager_Disable" xml:space="preserve">
+    <value>Отключить</value>
+  </data>
+  <data name="ComponentManager_Locate" xml:space="preserve">
+    <value>Найти файл</value>
+  </data>
+  <data name="ComponentManager_Enabled" xml:space="preserve">
+    <value>Компонент включён</value>
+  </data>
+  <data name="ComponentManager_Disabled" xml:space="preserve">
+    <value>Компонент отключён</value>
+  </data>
+  <data name="ComponentManager_Deleted" xml:space="preserve">
+    <value>Компонент удалён</value>
+  </data>
+  <data name="ComponentManager_ConfirmDeleteMessage" xml:space="preserve">
+    <value>Вы уверены, что хотите удалить «{0}»?</value>
+  </data>
+  <data name="ComponentManager_PathCopied" xml:space="preserve">
+    <value>Путь скопирован</value>
+  </data>
+  <data name="ComponentManager_DaemonUnavailable" xml:space="preserve">
+    <value>Подключение к демону недоступно</value>
+  </data>
+  <data name="ComponentManager_NoTargetFolder" xml:space="preserve">
+    <value>Целевая папка не найдена</value>
+  </data>
+  <data name="ComponentManager_NoJarFiles" xml:space="preserve">
+    <value>Среди перетащенных файлов не найдены JAR-файлы</value>
+  </data>
+  <data name="ComponentManager_AddedCount" xml:space="preserve">
+    <value>{0}/{1} компонентов успешно добавлено</value>
+  </data>
+  <data name="MinecraftVersionLabel" xml:space="preserve">
+    <value>Minecraft</value>
+  </data>
+  <data name="ForgeVersionLabel" xml:space="preserve">
+    <value>Forge</value>
+  </data>
+  <data name="FabricLoaderVersionLabel" xml:space="preserve">
+    <value>Fabric Loader</value>
+  </data>
+  <data name="NeoForgeVersionLabel" xml:space="preserve">
+    <value>NeoForge</value>
+  </data>
+  <data name="InstanceType_MCForge" xml:space="preserve">
+    <value>Minecraft Forge</value>
+  </data>
+  <data name="InstanceType_MCFabric" xml:space="preserve">
+    <value>Minecraft Fabric</value>
+  </data>
+  <data name="InstanceType_MCNeoForge" xml:space="preserve">
+    <value>Minecraft NeoForge</value>
+  </data>
+  <data name="DebugCopyConfig" xml:space="preserve">
+    <value>Отладка: скопировать конфиг</value>
+  </data>
+  <data name="InstanceConfigCopied" xml:space="preserve">
+    <value>Конфигурация экземпляра скопирована в буфер обмена</value>
+  </data>
 </root>

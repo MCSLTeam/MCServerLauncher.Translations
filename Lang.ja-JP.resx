@@ -1606,4 +1606,70 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="FileUploadFailed" xml:space="preserve">
     <value>ファイルのアップロードに失敗しました</value>
   </data>
+  <data name="ComponentManager_Add" xml:space="preserve">
+    <value>コンポーネントを追加</value>
+  </data>
+  <data name="ComponentManager_Enable" xml:space="preserve">
+    <value>有効にする</value>
+  </data>
+  <data name="ComponentManager_Disable" xml:space="preserve">
+    <value>無効にする</value>
+  </data>
+  <data name="ComponentManager_Locate" xml:space="preserve">
+    <value>ファイルの場所を開く</value>
+  </data>
+  <data name="ComponentManager_Enabled" xml:space="preserve">
+    <value>コンポーネントが有効になりました</value>
+  </data>
+  <data name="ComponentManager_Disabled" xml:space="preserve">
+    <value>コンポーネントが無効になりました</value>
+  </data>
+  <data name="ComponentManager_Deleted" xml:space="preserve">
+    <value>コンポーネントが削除されました</value>
+  </data>
+  <data name="ComponentManager_ConfirmDeleteMessage" xml:space="preserve">
+    <value>「{0}」を削除してもよろしいですか？</value>
+  </data>
+  <data name="ComponentManager_PathCopied" xml:space="preserve">
+    <value>パスをコピーしました</value>
+  </data>
+  <data name="ComponentManager_DaemonUnavailable" xml:space="preserve">
+    <value>デーモン接続が利用できません</value>
+  </data>
+  <data name="ComponentManager_NoTargetFolder" xml:space="preserve">
+    <value>対象フォルダがありません</value>
+  </data>
+  <data name="ComponentManager_NoJarFiles" xml:space="preserve">
+    <value>ドロップされたアイテムにJARファイルが見つかりません</value>
+  </data>
+  <data name="ComponentManager_AddedCount" xml:space="preserve">
+    <value>{0}/{1} 個のコンポーネントが正常に追加されました</value>
+  </data>
+  <data name="MinecraftVersionLabel" xml:space="preserve">
+    <value>Minecraft</value>
+  </data>
+  <data name="ForgeVersionLabel" xml:space="preserve">
+    <value>Forge</value>
+  </data>
+  <data name="FabricLoaderVersionLabel" xml:space="preserve">
+    <value>Fabric Loader</value>
+  </data>
+  <data name="NeoForgeVersionLabel" xml:space="preserve">
+    <value>NeoForge</value>
+  </data>
+  <data name="InstanceType_MCForge" xml:space="preserve">
+    <value>Minecraft Forge</value>
+  </data>
+  <data name="InstanceType_MCFabric" xml:space="preserve">
+    <value>Minecraft Fabric</value>
+  </data>
+  <data name="InstanceType_MCNeoForge" xml:space="preserve">
+    <value>Minecraft NeoForge</value>
+  </data>
+  <data name="DebugCopyConfig" xml:space="preserve">
+    <value>デバッグ: 設定をコピー</value>
+  </data>
+  <data name="InstanceConfigCopied" xml:space="preserve">
+    <value>インスタンス設定をクリップボードにコピーしました</value>
+  </data>
 </root>

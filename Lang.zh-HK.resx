@@ -1557,4 +1557,70 @@
   <data name="FileUploadFailed" xml:space="preserve">
     <value>檔案上傳失敗</value>
   </data>
+  <data name="ComponentManager_Add" xml:space="preserve">
+    <value>新增元件</value>
+  </data>
+  <data name="ComponentManager_Enable" xml:space="preserve">
+    <value>啟用</value>
+  </data>
+  <data name="ComponentManager_Disable" xml:space="preserve">
+    <value>停用</value>
+  </data>
+  <data name="ComponentManager_Locate" xml:space="preserve">
+    <value>定位檔案</value>
+  </data>
+  <data name="ComponentManager_Enabled" xml:space="preserve">
+    <value>元件已啟用</value>
+  </data>
+  <data name="ComponentManager_Disabled" xml:space="preserve">
+    <value>元件已停用</value>
+  </data>
+  <data name="ComponentManager_Deleted" xml:space="preserve">
+    <value>元件已刪除</value>
+  </data>
+  <data name="ComponentManager_ConfirmDeleteMessage" xml:space="preserve">
+    <value>確定要刪除「{0}」嗎？</value>
+  </data>
+  <data name="ComponentManager_PathCopied" xml:space="preserve">
+    <value>路徑已複製</value>
+  </data>
+  <data name="ComponentManager_DaemonUnavailable" xml:space="preserve">
+    <value>Daemon 連線不可用</value>
+  </data>
+  <data name="ComponentManager_NoTargetFolder" xml:space="preserve">
+    <value>沒有可用嘅目標資料夾</value>
+  </data>
+  <data name="ComponentManager_NoJarFiles" xml:space="preserve">
+    <value>拖放嘅檔案中搵唔到 JAR 檔案</value>
+  </data>
+  <data name="ComponentManager_AddedCount" xml:space="preserve">
+    <value>已成功新增 {0}/{1} 個元件</value>
+  </data>
+  <data name="MinecraftVersionLabel" xml:space="preserve">
+    <value>Minecraft</value>
+  </data>
+  <data name="ForgeVersionLabel" xml:space="preserve">
+    <value>Forge</value>
+  </data>
+  <data name="FabricLoaderVersionLabel" xml:space="preserve">
+    <value>Fabric Loader</value>
+  </data>
+  <data name="NeoForgeVersionLabel" xml:space="preserve">
+    <value>NeoForge</value>
+  </data>
+  <data name="InstanceType_MCForge" xml:space="preserve">
+    <value>Minecraft Forge</value>
+  </data>
+  <data name="InstanceType_MCFabric" xml:space="preserve">
+    <value>Minecraft Fabric</value>
+  </data>
+  <data name="InstanceType_MCNeoForge" xml:space="preserve">
+    <value>Minecraft NeoForge</value>
+  </data>
+  <data name="DebugCopyConfig" xml:space="preserve">
+    <value>除錯：複製設定</value>
+  </data>
+  <data name="InstanceConfigCopied" xml:space="preserve">
+    <value>實例設定已複製到剪貼簿</value>
+  </data>
 </root>
