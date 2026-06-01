@@ -1577,6 +1577,12 @@
   <data name="ComponentManager_AddedCount" xml:space="preserve">
     <value>{0}/{1} компонентов успешно добавлено</value>
   </data>
+  <data name="ComponentManager_ClientSideModBlocked" xml:space="preserve">
+    <value>Клиентский мод заблокирован: {0}</value>
+  </data>
+  <data name="ComponentManager_ClientSideBadge" xml:space="preserve">
+    <value>Клиент</value>
+  </data>
   <data name="MinecraftVersionLabel" xml:space="preserve">
     <value>Minecraft</value>
   </data>

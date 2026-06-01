@@ -1600,4 +1600,10 @@ This action cannot be undone.</value>
   <data name="InstanceConfigCopied" xml:space="preserve">
     <value>Instance config copied to clipboard</value>
   </data>
+  <data name="ComponentManager_ClientSideModBlocked" xml:space="preserve">
+    <value>Blocked client-side-only mod: {0}</value>
+  </data>
+  <data name="ComponentManager_ClientSideBadge" xml:space="preserve">
+    <value>Client</value>
+  </data>
 </root>

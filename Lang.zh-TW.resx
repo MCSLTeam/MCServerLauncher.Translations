@@ -1596,6 +1596,12 @@
   <data name="ComponentManager_AddedCount" xml:space="preserve">
     <value>已成功新增 {0}/{1} 個元件</value>
   </data>
+  <data name="ComponentManager_ClientSideModBlocked" xml:space="preserve">
+    <value>已攔截純客戶端模組：{0}</value>
+  </data>
+  <data name="ComponentManager_ClientSideBadge" xml:space="preserve">
+    <value>客戶端</value>
+  </data>
   <data name="MinecraftVersionLabel" xml:space="preserve">
     <value>Minecraft</value>
   </data>
