@@ -1645,6 +1645,24 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="ComponentManager_AddedCount" xml:space="preserve">
     <value>{0}/{1} 個のコンポーネントが正常に追加されました</value>
   </data>
+  <data name="SettingsSaveSuccess" xml:space="preserve">
+    <value>設定を保存しました</value>
+  </data>
+  <data name="Replace" xml:space="preserve">
+    <value>置き換え</value>
+  </data>
+  <data name="Installer" xml:space="preserve">
+    <value>インストーラー</value>
+  </data>
+  <data name="ForceRerunInstaller" xml:space="preserve">
+    <value>インストーラーを強制再実行</value>
+  </data>
+  <data name="InstanceSettingsInstallerNotice" xml:space="preserve">
+    <value>コアを置き換えると古いファイルを保持したまま、対応する種類では以前の生成物を削除して起動ターゲットを再構築します。</value>
+  </data>
+  <data name="InstanceSettingsBasicModeNotice" xml:space="preserve">
+    <value>現在のインスタンスタイプでは基本情報のみ編集可能です。高度なランタイム設定とコア置換は Java 系インスタンスでのみ利用できます。</value>
+  </data>
   <data name="ComponentManager_ClientSideModBlocked" xml:space="preserve">
     <value>クライアント専用 mod をブロックしました: {0}</value>
   </data>

@@ -1574,6 +1574,24 @@
   <data name="ComponentManager_AddedCount" xml:space="preserve">
     <value>已成功添加 {0}/{1} 个组件</value>
   </data>
+  <data name="SettingsSaveSuccess" xml:space="preserve">
+    <value>设置已保存</value>
+  </data>
+  <data name="Replace" xml:space="preserve">
+    <value>替换</value>
+  </data>
+  <data name="Installer" xml:space="preserve">
+    <value>安装器</value>
+  </data>
+  <data name="ForceRerunInstaller" xml:space="preserve">
+    <value>强制重新运行安装器</value>
+  </data>
+  <data name="InstanceSettingsInstallerNotice" xml:space="preserve">
+    <value>替换核心时会保留旧文件，并在支持的类型上清理旧安装产物后重建启动目标。</value>
+  </data>
+  <data name="InstanceSettingsBasicModeNotice" xml:space="preserve">
+    <value>当前实例类型暂时仅支持基础信息编辑；高级运行时和核心替换仅对 Java 家族实例开放。</value>
+  </data>
   <data name="ComponentManager_ClientSideModBlocked" xml:space="preserve">
     <value>已拦截纯客户端模组：{0}</value>
   </data>

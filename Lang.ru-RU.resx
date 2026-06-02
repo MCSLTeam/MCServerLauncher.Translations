@@ -1577,6 +1577,24 @@
   <data name="ComponentManager_AddedCount" xml:space="preserve">
     <value>{0}/{1} компонентов успешно добавлено</value>
   </data>
+  <data name="SettingsSaveSuccess" xml:space="preserve">
+    <value>Настройки сохранены</value>
+  </data>
+  <data name="Replace" xml:space="preserve">
+    <value>Заменить</value>
+  </data>
+  <data name="Installer" xml:space="preserve">
+    <value>Установщик</value>
+  </data>
+  <data name="ForceRerunInstaller" xml:space="preserve">
+    <value>Принудительно перезапустить установщик</value>
+  </data>
+  <data name="InstanceSettingsInstallerNotice" xml:space="preserve">
+    <value>При замене ядра старый файл будет сохранён, а для поддерживаемых типов старые сгенерированные зависимости будут удалены и целевой запуск будет пересобран.</value>
+  </data>
+  <data name="InstanceSettingsBasicModeNotice" xml:space="preserve">
+    <value>Для текущего типа экземпляра пока доступно только редактирование базовой информации. Расширенные параметры рантайма и замена ядра доступны только для Java-семейства.</value>
+  </data>
   <data name="ComponentManager_ClientSideModBlocked" xml:space="preserve">
     <value>Клиентский мод заблокирован: {0}</value>
   </data>

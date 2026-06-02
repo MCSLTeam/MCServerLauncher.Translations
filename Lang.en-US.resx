@@ -1600,6 +1600,21 @@ This action cannot be undone.</value>
   <data name="InstanceConfigCopied" xml:space="preserve">
     <value>Instance config copied to clipboard</value>
   </data>
+  <data name="SettingsSaveSuccess" xml:space="preserve">
+    <value>Settings saved successfully</value>
+  </data>
+  <data name="Replace" xml:space="preserve">
+    <value>Replace</value>
+  </data>
+  <data name="Installer" xml:space="preserve">
+    <value>Installer</value>
+  </data>
+  <data name="ForceRerunInstaller" xml:space="preserve">
+    <value>Force rerun installer</value>
+  </data>
+  <data name="InstanceSettingsInstallerNotice" xml:space="preserve">
+    <value>Replacing the core will preserve the old file, clean previous generated installer outputs, and rebuild the launch target where supported.</value>
+  </data>
   <data name="ComponentManager_ClientSideModBlocked" xml:space="preserve">
     <value>Blocked client-side-only mod: {0}</value>
   </data>
