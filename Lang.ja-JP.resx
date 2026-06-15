@@ -235,6 +235,9 @@
   <data name="InstanceType" xml:space="preserve">
     <value>インスタンスタイプ</value>
   </data>
+  <data name="Version" xml:space="preserve">
+    <value>バージョン</value>
+  </data>
   <data name="More" xml:space="preserve">
     <value>詳細</value>
   </data>

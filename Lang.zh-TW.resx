@@ -249,6 +249,9 @@
   <data name="InstanceType" xml:space="preserve">
     <value>實例類型</value>
   </data>
+  <data name="Version" xml:space="preserve">
+    <value>版本</value>
+  </data>
   <data name="More" xml:space="preserve">
     <value>更多</value>
   </data>

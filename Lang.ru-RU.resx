@@ -230,6 +230,9 @@
   <data name="InstanceType" xml:space="preserve">
     <value>Тип экземпляра</value>
   </data>
+  <data name="Version" xml:space="preserve">
+    <value>Версия</value>
+  </data>
   <data name="More" xml:space="preserve">
     <value>больше</value>
   </data>

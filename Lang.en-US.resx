@@ -234,6 +234,9 @@
   <data name="InstanceType" xml:space="preserve">
     <value>Instance Type</value>
   </data>
+  <data name="Version" xml:space="preserve">
+    <value>Version</value>
+  </data>
   <data name="More" xml:space="preserve">
     <value>More</value>
   </data>
@@ -1662,6 +1665,9 @@ This action cannot be undone.</value>
   </data>
   <data name="InstanceSettingsInstallerNotice" xml:space="preserve">
     <value>Replacing the core will preserve the old file, clean previous generated installer outputs, and rebuild the launch target where supported.</value>
+  </data>
+  <data name="InstanceSettingsBasicModeNotice" xml:space="preserve">
+    <value>This instance type currently only supports basic information editing; advanced runtime settings and core replacement are only available for Java-family instances.</value>
   </data>
   <data name="ComponentManager_ClientSideModBlocked" xml:space="preserve">
     <value>Blocked client-side-only mod: {0}</value>
