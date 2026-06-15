@@ -1175,6 +1175,54 @@
   <data name="ConfirmDeleteDaemonMessage" xml:space="preserve">
     <value>確定要刪除遠端主機「{0}」嗎？</value>
   </data>
+  <data name="Daemon_ResourceUsage" xml:space="preserve">
+    <value>資源佔用</value>
+  </data>
+  <data name="Daemon_CpuUsage" xml:space="preserve">
+    <value>CPU</value>
+  </data>
+  <data name="Daemon_MemoryUsage" xml:space="preserve">
+    <value>記憶體</value>
+  </data>
+  <data name="Daemon_DriveUsage" xml:space="preserve">
+    <value>磁碟</value>
+  </data>
+  <data name="DaemonDeleted" xml:space="preserve">
+    <value>已刪除遠端主機</value>
+  </data>
+  <data name="DaemonDeleteFailed" xml:space="preserve">
+    <value>刪除遠端主機失敗：{0}</value>
+  </data>
+  <data name="Daemon_AutoRefresh" xml:space="preserve">
+    <value>自動重新整理</value>
+  </data>
+  <data name="AutoRefresh_On" xml:space="preserve">
+    <value>自動重新整理: 開</value>
+  </data>
+  <data name="AutoRefresh_Off" xml:space="preserve">
+    <value>自動重新整理: 關</value>
+  </data>
+  <data name="RefreshInterval_5Seconds" xml:space="preserve">
+    <value>5 秒</value>
+  </data>
+  <data name="RefreshInterval_20Seconds" xml:space="preserve">
+    <value>20 秒</value>
+  </data>
+  <data name="RefreshInterval_30Seconds" xml:space="preserve">
+    <value>30 秒</value>
+  </data>
+  <data name="RefreshInterval_45Seconds" xml:space="preserve">
+    <value>45 秒</value>
+  </data>
+  <data name="RefreshInterval_1Minute" xml:space="preserve">
+    <value>1 分鐘</value>
+  </data>
+  <data name="Daemon_SystemVersion" xml:space="preserve">
+    <value>系統</value>
+  </data>
+  <data name="Daemon_DaemonVersion" xml:space="preserve">
+    <value>節點版本</value>
+  </data>
   <data name="InstanceCard_StopConfirmTitle" xml:space="preserve">
     <value>確認停止</value>
   </data>

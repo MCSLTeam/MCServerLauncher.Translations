@@ -1221,6 +1221,54 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="ConfirmDeleteDaemonMessage" xml:space="preserve">
     <value>リモートホスト「{0}」を削除してもよろしいですか？</value>
   </data>
+  <data name="Daemon_ResourceUsage" xml:space="preserve">
+    <value>リソース使用率</value>
+  </data>
+  <data name="Daemon_CpuUsage" xml:space="preserve">
+    <value>CPU</value>
+  </data>
+  <data name="Daemon_MemoryUsage" xml:space="preserve">
+    <value>メモリ</value>
+  </data>
+  <data name="Daemon_DriveUsage" xml:space="preserve">
+    <value>ドライブ</value>
+  </data>
+  <data name="DaemonDeleted" xml:space="preserve">
+    <value>リモートホストを削除しました</value>
+  </data>
+  <data name="DaemonDeleteFailed" xml:space="preserve">
+    <value>リモートホストの削除に失敗しました: {0}</value>
+  </data>
+  <data name="Daemon_AutoRefresh" xml:space="preserve">
+    <value>自動更新</value>
+  </data>
+  <data name="AutoRefresh_On" xml:space="preserve">
+    <value>自動更新: オン</value>
+  </data>
+  <data name="AutoRefresh_Off" xml:space="preserve">
+    <value>自動更新: オフ</value>
+  </data>
+  <data name="RefreshInterval_5Seconds" xml:space="preserve">
+    <value>5 秒</value>
+  </data>
+  <data name="RefreshInterval_20Seconds" xml:space="preserve">
+    <value>20 秒</value>
+  </data>
+  <data name="RefreshInterval_30Seconds" xml:space="preserve">
+    <value>30 秒</value>
+  </data>
+  <data name="RefreshInterval_45Seconds" xml:space="preserve">
+    <value>45 秒</value>
+  </data>
+  <data name="RefreshInterval_1Minute" xml:space="preserve">
+    <value>1 分</value>
+  </data>
+  <data name="Daemon_SystemVersion" xml:space="preserve">
+    <value>システム</value>
+  </data>
+  <data name="Daemon_DaemonVersion" xml:space="preserve">
+    <value>ノードバージョン</value>
+  </data>
   <data name="InstanceCard_StopConfirmTitle" xml:space="preserve">
     <value>停止の確認</value>
   </data>

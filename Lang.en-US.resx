@@ -1204,6 +1204,54 @@ This action cannot be undone.</value>
   <data name="ConfirmDeleteDaemonMessage" xml:space="preserve">
     <value>Are you sure you want to delete remote host '{0}'?</value>
   </data>
+  <data name="Daemon_ResourceUsage" xml:space="preserve">
+    <value>Resource Usage</value>
+  </data>
+  <data name="Daemon_CpuUsage" xml:space="preserve">
+    <value>CPU</value>
+  </data>
+  <data name="Daemon_MemoryUsage" xml:space="preserve">
+    <value>Memory</value>
+  </data>
+  <data name="Daemon_DriveUsage" xml:space="preserve">
+    <value>Drive</value>
+  </data>
+  <data name="DaemonDeleted" xml:space="preserve">
+    <value>Remote host deleted</value>
+  </data>
+  <data name="DaemonDeleteFailed" xml:space="preserve">
+    <value>Failed to delete remote host: {0}</value>
+  </data>
+  <data name="Daemon_AutoRefresh" xml:space="preserve">
+    <value>Auto Refresh</value>
+  </data>
+  <data name="AutoRefresh_On" xml:space="preserve">
+    <value>Auto refresh: On</value>
+  </data>
+  <data name="AutoRefresh_Off" xml:space="preserve">
+    <value>Auto refresh: Off</value>
+  </data>
+  <data name="RefreshInterval_5Seconds" xml:space="preserve">
+    <value>5 seconds</value>
+  </data>
+  <data name="RefreshInterval_20Seconds" xml:space="preserve">
+    <value>20 seconds</value>
+  </data>
+  <data name="RefreshInterval_30Seconds" xml:space="preserve">
+    <value>30 seconds</value>
+  </data>
+  <data name="RefreshInterval_45Seconds" xml:space="preserve">
+    <value>45 seconds</value>
+  </data>
+  <data name="RefreshInterval_1Minute" xml:space="preserve">
+    <value>1 minute</value>
+  </data>
+  <data name="Daemon_SystemVersion" xml:space="preserve">
+    <value>System</value>
+  </data>
+  <data name="Daemon_DaemonVersion" xml:space="preserve">
+    <value>Node version</value>
+  </data>
   <data name="ConsoleCommand_EventTrigger_ConsoleOutputTrigger" xml:space="preserve">
     <value>Console Output Trigger</value>
   </data>

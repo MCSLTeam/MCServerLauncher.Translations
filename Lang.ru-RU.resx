@@ -1153,6 +1153,54 @@
   <data name="ConfirmDeleteDaemonMessage" xml:space="preserve">
     <value>Вы уверены, что хотите удалить удаленный хост «{0}»?</value>
   </data>
+  <data name="Daemon_ResourceUsage" xml:space="preserve">
+    <value>Использование ресурсов</value>
+  </data>
+  <data name="Daemon_CpuUsage" xml:space="preserve">
+    <value>CPU</value>
+  </data>
+  <data name="Daemon_MemoryUsage" xml:space="preserve">
+    <value>Память</value>
+  </data>
+  <data name="Daemon_DriveUsage" xml:space="preserve">
+    <value>Диск</value>
+  </data>
+  <data name="DaemonDeleted" xml:space="preserve">
+    <value>Удаленный хост удален</value>
+  </data>
+  <data name="DaemonDeleteFailed" xml:space="preserve">
+    <value>Не удалось удалить удаленный хост: {0}</value>
+  </data>
+  <data name="Daemon_AutoRefresh" xml:space="preserve">
+    <value>Автообновление</value>
+  </data>
+  <data name="AutoRefresh_On" xml:space="preserve">
+    <value>Автообновление: вкл.</value>
+  </data>
+  <data name="AutoRefresh_Off" xml:space="preserve">
+    <value>Автообновление: выкл.</value>
+  </data>
+  <data name="RefreshInterval_5Seconds" xml:space="preserve">
+    <value>5 секунд</value>
+  </data>
+  <data name="RefreshInterval_20Seconds" xml:space="preserve">
+    <value>20 секунд</value>
+  </data>
+  <data name="RefreshInterval_30Seconds" xml:space="preserve">
+    <value>30 секунд</value>
+  </data>
+  <data name="RefreshInterval_45Seconds" xml:space="preserve">
+    <value>45 секунд</value>
+  </data>
+  <data name="RefreshInterval_1Minute" xml:space="preserve">
+    <value>1 минута</value>
+  </data>
+  <data name="Daemon_SystemVersion" xml:space="preserve">
+    <value>Система</value>
+  </data>
+  <data name="Daemon_DaemonVersion" xml:space="preserve">
+    <value>Версия узла</value>
+  </data>
   <data name="InstanceCard_StopConfirmTitle" xml:space="preserve">
     <value>Подтверждение остановки</value>
   </data>

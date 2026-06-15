@@ -1204,6 +1204,54 @@
   <data name="ConfirmDeleteDaemonMessage" xml:space="preserve">
     <value>确定要删除远程主机“{0}”吗？</value>
   </data>
+  <data name="Daemon_ResourceUsage" xml:space="preserve">
+    <value>资源占用</value>
+  </data>
+  <data name="Daemon_CpuUsage" xml:space="preserve">
+    <value>CPU</value>
+  </data>
+  <data name="Daemon_MemoryUsage" xml:space="preserve">
+    <value>内存</value>
+  </data>
+  <data name="Daemon_DriveUsage" xml:space="preserve">
+    <value>磁盘</value>
+  </data>
+  <data name="DaemonDeleted" xml:space="preserve">
+    <value>已删除远程主机</value>
+  </data>
+  <data name="DaemonDeleteFailed" xml:space="preserve">
+    <value>删除远程主机失败：{0}</value>
+  </data>
+  <data name="Daemon_AutoRefresh" xml:space="preserve">
+    <value>自动刷新</value>
+  </data>
+  <data name="AutoRefresh_On" xml:space="preserve">
+    <value>自动刷新: 开</value>
+  </data>
+  <data name="AutoRefresh_Off" xml:space="preserve">
+    <value>自动刷新: 关</value>
+  </data>
+  <data name="RefreshInterval_5Seconds" xml:space="preserve">
+    <value>5 秒</value>
+  </data>
+  <data name="RefreshInterval_20Seconds" xml:space="preserve">
+    <value>20 秒</value>
+  </data>
+  <data name="RefreshInterval_30Seconds" xml:space="preserve">
+    <value>30 秒</value>
+  </data>
+  <data name="RefreshInterval_45Seconds" xml:space="preserve">
+    <value>45 秒</value>
+  </data>
+  <data name="RefreshInterval_1Minute" xml:space="preserve">
+    <value>1 分钟</value>
+  </data>
+  <data name="Daemon_SystemVersion" xml:space="preserve">
+    <value>系统</value>
+  </data>
+  <data name="Daemon_DaemonVersion" xml:space="preserve">
+    <value>节点版本</value>
+  </data>
   <data name="ConsoleCommand_EventTrigger_ConsoleOutputTrigger" xml:space="preserve">
     <value>控制台输出触发器</value>
   </data>
