@@ -1516,6 +1516,9 @@
   <data name="SendCommandFailed" xml:space="preserve">
     <value>发送命令失败：{0}</value>
   </data>
+  <data name="ConsoleCommand_SendUnavailable" xml:space="preserve">
+    <value>实例 {0} 当前状态下不能发送命令。</value>
+  </data>
   <data name="File" xml:space="preserve">
     <value>文件</value>
   </data>

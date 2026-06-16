@@ -1462,6 +1462,9 @@
   <data name="SendCommandFailed" xml:space="preserve">
     <value>Не удалось отправить команду: {0}</value>
   </data>
+  <data name="ConsoleCommand_SendUnavailable" xml:space="preserve">
+    <value>Нельзя отправлять команды экземпляру {0} в текущем состоянии.</value>
+  </data>
   <data name="FileEditor" xml:space="preserve">
     <value>Редактор файлов</value>
   </data>

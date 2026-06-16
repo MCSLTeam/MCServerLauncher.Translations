@@ -1516,6 +1516,9 @@ This action cannot be undone.</value>
   <data name="SendCommandFailed" xml:space="preserve">
     <value>Failed to send command: {0}</value>
   </data>
+  <data name="ConsoleCommand_SendUnavailable" xml:space="preserve">
+    <value>Cannot send commands to instance {0} in the current status.</value>
+  </data>
   <data name="File" xml:space="preserve">
     <value>File</value>
   </data>

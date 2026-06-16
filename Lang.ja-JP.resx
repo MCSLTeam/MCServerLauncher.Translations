@@ -1530,6 +1530,9 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="SendCommandFailed" xml:space="preserve">
     <value>コマンドの送信に失敗しました：{0}</value>
   </data>
+  <data name="ConsoleCommand_SendUnavailable" xml:space="preserve">
+    <value>現在の状態ではインスタンス {0} にコマンドを送信できません。</value>
+  </data>
   <data name="FileEditor" xml:space="preserve">
     <value>ファイルエディタ</value>
   </data>
