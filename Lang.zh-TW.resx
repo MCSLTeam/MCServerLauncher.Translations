@@ -1021,6 +1021,27 @@
   <data name="InstanceCard_StartingInstance" xml:space="preserve">
     <value>正在啟動實例：{0}</value>
   </data>
+  <data name="InstanceCard_StartConfirmTitle" xml:space="preserve">
+    <value>啟動實例</value>
+  </data>
+  <data name="InstanceCard_StartConfirmContent" xml:space="preserve">
+    <value>您確定要啟動實例 "{0}" 嗎？</value>
+  </data>
+  <data name="InstanceCard_StartUnavailable" xml:space="preserve">
+    <value>實例 "{0}" 目前狀態不允許啟動。</value>
+  </data>
+  <data name="InstanceCard_StopUnavailable" xml:space="preserve">
+    <value>實例 "{0}" 目前狀態不允許停止。</value>
+  </data>
+  <data name="InstanceCard_RestartUnavailable" xml:space="preserve">
+    <value>實例 "{0}" 目前狀態不允許重啟。</value>
+  </data>
+  <data name="InstanceCard_KillUnavailable" xml:space="preserve">
+    <value>實例 "{0}" 目前狀態不允許強制結束。</value>
+  </data>
+  <data name="InstanceCard_DeleteUnavailable" xml:space="preserve">
+    <value>實例 "{0}" 只有在關閉狀態下才能刪除。</value>
+  </data>
   <data name="InstanceCard_StoppingInstance" xml:space="preserve">
     <value>正在停止實例：{0}</value>
   </data>

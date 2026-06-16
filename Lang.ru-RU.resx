@@ -999,6 +999,27 @@
   <data name="InstanceCard_StartingInstance" xml:space="preserve">
     <value>Запуск экземпляра: {0}</value>
   </data>
+  <data name="InstanceCard_StartConfirmTitle" xml:space="preserve">
+    <value>Запустить экземпляр</value>
+  </data>
+  <data name="InstanceCard_StartConfirmContent" xml:space="preserve">
+    <value>Запустить экземпляр "{0}"?</value>
+  </data>
+  <data name="InstanceCard_StartUnavailable" xml:space="preserve">
+    <value>Экземпляр "{0}" нельзя запустить в текущем состоянии.</value>
+  </data>
+  <data name="InstanceCard_StopUnavailable" xml:space="preserve">
+    <value>Экземпляр "{0}" нельзя остановить в текущем состоянии.</value>
+  </data>
+  <data name="InstanceCard_RestartUnavailable" xml:space="preserve">
+    <value>Экземпляр "{0}" нельзя перезапустить в текущем состоянии.</value>
+  </data>
+  <data name="InstanceCard_KillUnavailable" xml:space="preserve">
+    <value>Экземпляр "{0}" нельзя принудительно завершить в текущем состоянии.</value>
+  </data>
+  <data name="InstanceCard_DeleteUnavailable" xml:space="preserve">
+    <value>Экземпляр "{0}" можно удалить только после остановки.</value>
+  </data>
   <data name="InstanceCard_StoppingInstance" xml:space="preserve">
     <value>Остановка экземпляра: {0}</value>
   </data>

@@ -1032,6 +1032,27 @@
   <data name="InstanceCard_StartingInstance" xml:space="preserve">
     <value>Starting instance: {0}</value>
   </data>
+  <data name="InstanceCard_StartConfirmTitle" xml:space="preserve">
+    <value>Start Instance</value>
+  </data>
+  <data name="InstanceCard_StartConfirmContent" xml:space="preserve">
+    <value>Are you sure you want to start instance "{0}"?</value>
+  </data>
+  <data name="InstanceCard_StartUnavailable" xml:space="preserve">
+    <value>Instance "{0}" cannot be started in its current state.</value>
+  </data>
+  <data name="InstanceCard_StopUnavailable" xml:space="preserve">
+    <value>Instance "{0}" cannot be stopped in its current state.</value>
+  </data>
+  <data name="InstanceCard_RestartUnavailable" xml:space="preserve">
+    <value>Instance "{0}" cannot be restarted in its current state.</value>
+  </data>
+  <data name="InstanceCard_KillUnavailable" xml:space="preserve">
+    <value>Instance "{0}" cannot be killed in its current state.</value>
+  </data>
+  <data name="InstanceCard_DeleteUnavailable" xml:space="preserve">
+    <value>Instance "{0}" can only be deleted when it is stopped.</value>
+  </data>
   <data name="InstanceCard_StoppingInstance" xml:space="preserve">
     <value>Stopping instance: {0}</value>
   </data>

@@ -1067,6 +1067,27 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="InstanceCard_StartingInstance" xml:space="preserve">
     <value>インスタンスを起動しています：{0}</value>
   </data>
+  <data name="InstanceCard_StartConfirmTitle" xml:space="preserve">
+    <value>インスタンスを起動</value>
+  </data>
+  <data name="InstanceCard_StartConfirmContent" xml:space="preserve">
+    <value>インスタンス "{0}" を起動しますか？</value>
+  </data>
+  <data name="InstanceCard_StartUnavailable" xml:space="preserve">
+    <value>インスタンス "{0}" は現在の状態では起動できません。</value>
+  </data>
+  <data name="InstanceCard_StopUnavailable" xml:space="preserve">
+    <value>インスタンス "{0}" は現在の状態では停止できません。</value>
+  </data>
+  <data name="InstanceCard_RestartUnavailable" xml:space="preserve">
+    <value>インスタンス "{0}" は現在の状態では再起動できません。</value>
+  </data>
+  <data name="InstanceCard_KillUnavailable" xml:space="preserve">
+    <value>インスタンス "{0}" は現在の状態では強制終了できません。</value>
+  </data>
+  <data name="InstanceCard_DeleteUnavailable" xml:space="preserve">
+    <value>インスタンス "{0}" は停止中の場合のみ削除できます。</value>
+  </data>
   <data name="InstanceCard_StoppingInstance" xml:space="preserve">
     <value>インスタンスを停止しています：{0}</value>
   </data>
