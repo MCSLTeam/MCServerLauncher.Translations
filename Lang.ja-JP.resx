@@ -805,6 +805,12 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="ConsoleTitle" xml:space="preserve">
     <value>コンソール</value>
   </data>
+  <data name="InstanceConsole_InstanceTitlePart" xml:space="preserve">
+    <value>インスタンス [{0}]</value>
+  </data>
+  <data name="InstanceConsole_NodeTitlePart" xml:space="preserve">
+    <value>ノード [{0}]</value>
+  </data>
   <data name="Console_BoardNavMenu" xml:space="preserve">
     <value>インスタンスボード</value>
   </data>
@@ -1784,5 +1790,38 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   </data>
   <data name="ConsoleCommand_EventTrigger_AlwaysTrueRuleset" xml:space="preserve">
     <value>常に真</value>
+  </data>
+  <data name="ComponentManager_AddMod" xml:space="preserve">
+    <value>Mod を追加</value>
+  </data>
+  <data name="ComponentManager_AddPlugin" xml:space="preserve">
+    <value>プラグインを追加</value>
+  </data>
+  <data name="ComponentManager_EmptyMods" xml:space="preserve">
+    <value>このインスタンスにはまだ Mod がありません。</value>
+  </data>
+  <data name="ComponentManager_EmptyPlugins" xml:space="preserve">
+    <value>このインスタンスにはまだプラグインがありません。</value>
+  </data>
+  <data name="ComponentManager_Unsupported" xml:space="preserve">
+    <value>コンポーネント管理を使用する前に、Mod またはプラグイン対応のローダーを導入してください。</value>
+  </data>
+  <data name="ComponentManager_ClientSideModsFound" xml:space="preserve">
+    <value>クライアント専用 Mod を検出</value>
+  </data>
+  <data name="ComponentManager_ClientSideModsWarning" xml:space="preserve">
+    <value>有効なクライアント専用 Mod が {0} 個見つかりました。通常サーバーでは動作せず、起動失敗の原因になる可能性があります。今すぐ無効化するか、この警告を無視できます。</value>
+  </data>
+  <data name="ComponentManager_DisableClientSideMods" xml:space="preserve">
+    <value>無効化</value>
+  </data>
+  <data name="ComponentManager_DisabledClientSideMods" xml:space="preserve">
+    <value>{0} 個のクライアント専用 Mod を無効化しました。</value>
+  </data>
+  <data name="EventTrigger_EmptyRules" xml:space="preserve">
+    <value>このインスタンスにはまだトリガールールがありません。</value>
+  </data>
+  <data name="Ignore" xml:space="preserve">
+    <value>無視</value>
   </data>
 </root>

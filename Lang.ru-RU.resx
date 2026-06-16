@@ -737,6 +737,12 @@
   <data name="ConsoleTitle" xml:space="preserve">
     <value>控制台</value>
   </data>
+  <data name="InstanceConsole_InstanceTitlePart" xml:space="preserve">
+    <value>实例 [{0}]</value>
+  </data>
+  <data name="InstanceConsole_NodeTitlePart" xml:space="preserve">
+    <value>节点 [{0}]</value>
+  </data>
   <data name="Console_BoardNavMenu" xml:space="preserve">
     <value>实例看板</value>
   </data>
@@ -1716,5 +1722,38 @@
   </data>
   <data name="ConsoleCommand_EventTrigger_AlwaysTrueRuleset" xml:space="preserve">
     <value>Всегда true</value>
+  </data>
+  <data name="ComponentManager_AddMod" xml:space="preserve">
+    <value>Добавить мод</value>
+  </data>
+  <data name="ComponentManager_AddPlugin" xml:space="preserve">
+    <value>Добавить плагин</value>
+  </data>
+  <data name="ComponentManager_EmptyMods" xml:space="preserve">
+    <value>В этом экземпляре пока нет модов.</value>
+  </data>
+  <data name="ComponentManager_EmptyPlugins" xml:space="preserve">
+    <value>В этом экземпляре пока нет плагинов.</value>
+  </data>
+  <data name="ComponentManager_Unsupported" xml:space="preserve">
+    <value>Перед использованием управления компонентами установите или выберите загрузчик модов/плагинов.</value>
+  </data>
+  <data name="ComponentManager_ClientSideModsFound" xml:space="preserve">
+    <value>Обнаружены клиентские моды</value>
+  </data>
+  <data name="ComponentManager_ClientSideModsWarning" xml:space="preserve">
+    <value>Обнаружено включенных клиентских модов: {0}. Обычно они не работают на сервере и могут помешать запуску экземпляра. Отключите их сейчас или проигнорируйте предупреждение.</value>
+  </data>
+  <data name="ComponentManager_DisableClientSideMods" xml:space="preserve">
+    <value>Отключить</value>
+  </data>
+  <data name="ComponentManager_DisabledClientSideMods" xml:space="preserve">
+    <value>Отключено клиентских модов: {0}.</value>
+  </data>
+  <data name="EventTrigger_EmptyRules" xml:space="preserve">
+    <value>Для этого экземпляра пока нет правил триггеров.</value>
+  </data>
+  <data name="Ignore" xml:space="preserve">
+    <value>Игнорировать</value>
   </data>
 </root>

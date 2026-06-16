@@ -774,6 +774,12 @@
   <data name="ConsoleTitle" xml:space="preserve">
     <value>Dashboard</value>
   </data>
+  <data name="InstanceConsole_InstanceTitlePart" xml:space="preserve">
+    <value>Instance [{0}]</value>
+  </data>
+  <data name="InstanceConsole_NodeTitlePart" xml:space="preserve">
+    <value>Node [{0}]</value>
+  </data>
   <data name="Console_BoardNavMenu" xml:space="preserve">
     <value>Board</value>
   </data>
@@ -1713,5 +1719,38 @@ This action cannot be undone.</value>
   </data>
   <data name="ConsoleCommand_EventTrigger_AlwaysTrueRuleset" xml:space="preserve">
     <value>Always true</value>
+  </data>
+  <data name="ComponentManager_AddMod" xml:space="preserve">
+    <value>Add Mod</value>
+  </data>
+  <data name="ComponentManager_AddPlugin" xml:space="preserve">
+    <value>Add Plugin</value>
+  </data>
+  <data name="ComponentManager_EmptyMods" xml:space="preserve">
+    <value>No mods are installed in this instance yet.</value>
+  </data>
+  <data name="ComponentManager_EmptyPlugins" xml:space="preserve">
+    <value>No plugins are installed in this instance yet.</value>
+  </data>
+  <data name="ComponentManager_Unsupported" xml:space="preserve">
+    <value>Install or switch to a mod/plugin loader before using component management.</value>
+  </data>
+  <data name="ComponentManager_ClientSideModsFound" xml:space="preserve">
+    <value>Client-side mods detected</value>
+  </data>
+  <data name="ComponentManager_ClientSideModsWarning" xml:space="preserve">
+    <value>Detected {0} enabled client-side-only mod(s). These usually cannot run on a server and may prevent the instance from starting. Disable them now or ignore this warning.</value>
+  </data>
+  <data name="ComponentManager_DisableClientSideMods" xml:space="preserve">
+    <value>Disable</value>
+  </data>
+  <data name="ComponentManager_DisabledClientSideMods" xml:space="preserve">
+    <value>Disabled {0} client-side mod(s).</value>
+  </data>
+  <data name="EventTrigger_EmptyRules" xml:space="preserve">
+    <value>No trigger rules are configured for this instance yet.</value>
+  </data>
+  <data name="Ignore" xml:space="preserve">
+    <value>Ignore</value>
   </data>
 </root>

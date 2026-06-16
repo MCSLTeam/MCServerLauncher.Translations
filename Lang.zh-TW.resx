@@ -759,6 +759,12 @@
   <data name="ConsoleTitle" xml:space="preserve">
     <value>控制臺</value>
   </data>
+  <data name="InstanceConsole_InstanceTitlePart" xml:space="preserve">
+    <value>實例 [{0}]</value>
+  </data>
+  <data name="InstanceConsole_NodeTitlePart" xml:space="preserve">
+    <value>節點 [{0}]</value>
+  </data>
   <data name="Console_BoardNavMenu" xml:space="preserve">
     <value>實例看板</value>
   </data>
@@ -1735,5 +1741,38 @@
   </data>
   <data name="ConsoleCommand_EventTrigger_AlwaysTrueRuleset" xml:space="preserve">
     <value>總是為真</value>
+  </data>
+  <data name="ComponentManager_AddMod" xml:space="preserve">
+    <value>新增模組</value>
+  </data>
+  <data name="ComponentManager_AddPlugin" xml:space="preserve">
+    <value>新增外掛</value>
+  </data>
+  <data name="ComponentManager_EmptyMods" xml:space="preserve">
+    <value>此實例尚未安裝任何模組。</value>
+  </data>
+  <data name="ComponentManager_EmptyPlugins" xml:space="preserve">
+    <value>此實例尚未安裝任何外掛。</value>
+  </data>
+  <data name="ComponentManager_Unsupported" xml:space="preserve">
+    <value>請先安裝或切換到支援模組/外掛的載入器，然後再使用元件管理。</value>
+  </data>
+  <data name="ComponentManager_ClientSideModsFound" xml:space="preserve">
+    <value>偵測到客戶端模組</value>
+  </data>
+  <data name="ComponentManager_ClientSideModsWarning" xml:space="preserve">
+    <value>偵測到 {0} 個已啟用的純客戶端模組。它們通常無法在伺服端執行，可能導致實例啟動失敗。你可以立即停用它們，或忽略此警告。</value>
+  </data>
+  <data name="ComponentManager_DisableClientSideMods" xml:space="preserve">
+    <value>停用</value>
+  </data>
+  <data name="ComponentManager_DisabledClientSideMods" xml:space="preserve">
+    <value>已停用 {0} 個客戶端模組。</value>
+  </data>
+  <data name="EventTrigger_EmptyRules" xml:space="preserve">
+    <value>此實例尚未設定任何觸發規則。</value>
+  </data>
+  <data name="Ignore" xml:space="preserve">
+    <value>忽略</value>
   </data>
 </root>

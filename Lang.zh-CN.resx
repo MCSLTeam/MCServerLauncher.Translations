@@ -774,6 +774,12 @@
   <data name="ConsoleTitle" xml:space="preserve">
     <value>控制台</value>
   </data>
+  <data name="InstanceConsole_InstanceTitlePart" xml:space="preserve">
+    <value>实例 [{0}]</value>
+  </data>
+  <data name="InstanceConsole_NodeTitlePart" xml:space="preserve">
+    <value>节点 [{0}]</value>
+  </data>
   <data name="Console_BoardNavMenu" xml:space="preserve">
     <value>实例看板</value>
   </data>
@@ -1713,5 +1719,38 @@
   </data>
   <data name="ConsoleCommand_EventTrigger_AlwaysTrueRuleset" xml:space="preserve">
     <value>总是为真</value>
+  </data>
+  <data name="ComponentManager_AddMod" xml:space="preserve">
+    <value>添加模组</value>
+  </data>
+  <data name="ComponentManager_AddPlugin" xml:space="preserve">
+    <value>添加插件</value>
+  </data>
+  <data name="ComponentManager_EmptyMods" xml:space="preserve">
+    <value>此实例还没有安装任何模组。</value>
+  </data>
+  <data name="ComponentManager_EmptyPlugins" xml:space="preserve">
+    <value>此实例还没有安装任何插件。</value>
+  </data>
+  <data name="ComponentManager_Unsupported" xml:space="preserve">
+    <value>请先安装或切换到支持模组/插件的加载器，然后再使用组件管理。</value>
+  </data>
+  <data name="ComponentManager_ClientSideModsFound" xml:space="preserve">
+    <value>检测到客户端模组</value>
+  </data>
+  <data name="ComponentManager_ClientSideModsWarning" xml:space="preserve">
+    <value>检测到 {0} 个已启用的纯客户端模组。它们通常无法在服务端运行，可能导致实例启动失败。你可以立即禁用它们，或忽略此警告。</value>
+  </data>
+  <data name="ComponentManager_DisableClientSideMods" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="ComponentManager_DisabledClientSideMods" xml:space="preserve">
+    <value>已禁用 {0} 个客户端模组。</value>
+  </data>
+  <data name="EventTrigger_EmptyRules" xml:space="preserve">
+    <value>此实例还没有配置任何触发规则。</value>
+  </data>
+  <data name="Ignore" xml:space="preserve">
+    <value>忽略</value>
   </data>
 </root>
