@@ -645,6 +645,9 @@
   <data name="ConnectDaemon" xml:space="preserve">
     <value>新建连接</value>
   </data>
+  <data name="EditDaemon" xml:space="preserve">
+    <value>编辑连接</value>
+  </data>
   <data name="FirstSetup_ConnectDaemonTip" xml:space="preserve">
     <value>MCServerLauncher 的所有实例均移交给远程主机管理。请在此处链接已部署好的远程主机。</value>
   </data>
@@ -1250,10 +1253,10 @@
     <value>1 分钟</value>
   </data>
   <data name="Daemon_SystemVersion" xml:space="preserve">
-    <value>系统</value>
+    <value>操作系统:</value>
   </data>
   <data name="Daemon_DaemonVersion" xml:space="preserve">
-    <value>节点版本</value>
+    <value>节点版本:</value>
   </data>
   <data name="ConsoleCommand_EventTrigger_ConsoleOutputTrigger" xml:space="preserve">
     <value>控制台输出触发器</value>
@@ -1579,7 +1582,6 @@
   <data name="Info" xml:space="preserve">
     <value>信息</value>
   </data>
-
   <data name="UploadingFile" xml:space="preserve">
     <value>正在上传文件</value>
   </data>
@@ -1675,5 +1677,41 @@
   </data>
   <data name="InstanceConfigCopied" xml:space="preserve">
     <value>实例配置已复制到剪贴板</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ActionExecutionMode" xml:space="preserve">
+    <value>执行方式</value>
+  </data>
+  <data name="FeatureNotReadyTip" xml:space="preserve">
+    <value>该功能尚未完成。</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ParallelSeparator" xml:space="preserve">
+    <value>同时</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_SequentialSeparator" xml:space="preserve">
+    <value>然后</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysFalseRuleset" xml:space="preserve">
+    <value>总是为假</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_RulesetConditionHint" xml:space="preserve">
+    <value>满足以下条件时执行行动</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysTrueRulesetDescription" xml:space="preserve">
+    <value>无论在什么情况下，该规则都会返回真。</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Parallel" xml:space="preserve">
+    <value>并行</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysFalseRulesetDescription" xml:space="preserve">
+    <value>无论在什么情况下，该规则都会返回假。</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Sequential" xml:space="preserve">
+    <value>顺序</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Ruleset" xml:space="preserve">
+    <value>规则集</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysTrueRuleset" xml:space="preserve">
+    <value>总是为真</value>
   </data>
 </root>

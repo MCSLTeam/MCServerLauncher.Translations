@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root xmlns:ns1="urn:schemas-microsoft-com:xml-msdata" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:schema id="root">
     <xs:element name="root" ns1:IsDataSet="true">
@@ -645,6 +645,9 @@
   <data name="ConnectDaemon" xml:space="preserve">
     <value>New Connection</value>
   </data>
+  <data name="EditDaemon" xml:space="preserve">
+    <value>Edit Connection</value>
+  </data>
   <data name="FirstSetup_ConnectDaemonTip" xml:space="preserve">
     <value>All MCServerLauncher instances are handed over to remote host management. Please link remote hosts here.</value>
   </data>
@@ -1250,10 +1253,10 @@ This action cannot be undone.</value>
     <value>1 minute</value>
   </data>
   <data name="Daemon_SystemVersion" xml:space="preserve">
-    <value>System</value>
+    <value>System:</value>
   </data>
   <data name="Daemon_DaemonVersion" xml:space="preserve">
-    <value>Node version</value>
+    <value>Node version:</value>
   </data>
   <data name="ConsoleCommand_EventTrigger_ConsoleOutputTrigger" xml:space="preserve">
     <value>Console Output Trigger</value>
@@ -1674,5 +1677,41 @@ This action cannot be undone.</value>
   </data>
   <data name="ComponentManager_ClientSideBadge" xml:space="preserve">
     <value>Client</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ActionExecutionMode" xml:space="preserve">
+    <value>Execution mode</value>
+  </data>
+  <data name="FeatureNotReadyTip" xml:space="preserve">
+    <value>This feature is not ready yet.</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ParallelSeparator" xml:space="preserve">
+    <value>At the same time</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_SequentialSeparator" xml:space="preserve">
+    <value>Then</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysFalseRuleset" xml:space="preserve">
+    <value>Always false</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_RulesetConditionHint" xml:space="preserve">
+    <value>Run actions when the following conditions are met</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysTrueRulesetDescription" xml:space="preserve">
+    <value>This ruleset always returns true.</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Parallel" xml:space="preserve">
+    <value>Parallel</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysFalseRulesetDescription" xml:space="preserve">
+    <value>This ruleset always returns false.</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Sequential" xml:space="preserve">
+    <value>Sequential</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Ruleset" xml:space="preserve">
+    <value>Rulesets</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysTrueRuleset" xml:space="preserve">
+    <value>Always true</value>
   </data>
 </root>

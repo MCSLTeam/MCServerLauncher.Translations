@@ -676,6 +676,9 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="ConnectDaemon" xml:space="preserve">
     <value>新しい接続</value>
   </data>
+  <data name="EditDaemon" xml:space="preserve">
+    <value>接続を編集</value>
+  </data>
   <data name="FirstSetup_ConnectDaemonTip" xml:space="preserve">
     <value>MCServerLauncher のすべてのインスタンスはリモートホストに引き継がれて管理されます。ここにデプロイ済みのリモートホストを接続してください。</value>
   </data>
@@ -1267,10 +1270,10 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
     <value>1 分</value>
   </data>
   <data name="Daemon_SystemVersion" xml:space="preserve">
-    <value>システム</value>
+    <value>システム:</value>
   </data>
   <data name="Daemon_DaemonVersion" xml:space="preserve">
-    <value>ノードバージョン</value>
+    <value>ノードバージョン:</value>
   </data>
   <data name="InstanceCard_StopConfirmTitle" xml:space="preserve">
     <value>停止の確認</value>
@@ -1650,7 +1653,6 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="Info" xml:space="preserve">
     <value>情報</value>
   </data>
-
   <data name="UploadingFile" xml:space="preserve">
     <value>ファイルをアップロード中</value>
   </data>
@@ -1746,5 +1748,41 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   </data>
   <data name="InstanceConfigCopied" xml:space="preserve">
     <value>インスタンス設定をクリップボードにコピーしました</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ActionExecutionMode" xml:space="preserve">
+    <value>実行モード</value>
+  </data>
+  <data name="FeatureNotReadyTip" xml:space="preserve">
+    <value>この機能はまだ準備中です。</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ParallelSeparator" xml:space="preserve">
+    <value>同時に</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_SequentialSeparator" xml:space="preserve">
+    <value>次に</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysFalseRuleset" xml:space="preserve">
+    <value>常に偽</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_RulesetConditionHint" xml:space="preserve">
+    <value>次の条件を満たしたときにアクションを実行します</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysTrueRulesetDescription" xml:space="preserve">
+    <value>このルールセットは常に真を返します。</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Parallel" xml:space="preserve">
+    <value>並列</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysFalseRulesetDescription" xml:space="preserve">
+    <value>このルールセットは常に偽を返します。</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Sequential" xml:space="preserve">
+    <value>順番</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Ruleset" xml:space="preserve">
+    <value>ルールセット</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysTrueRuleset" xml:space="preserve">
+    <value>常に真</value>
   </data>
 </root>

@@ -608,6 +608,9 @@
   <data name="ConnectDaemon" xml:space="preserve">
     <value>Создание нового подключения</value>
   </data>
+  <data name="EditDaemon" xml:space="preserve">
+    <value>Редактировать подключение</value>
+  </data>
   <data name="FirstSetup_ConnectDaemonTip" xml:space="preserve">
     <value>Все экземпляры MCServerLauncher передаются в управление удаленными хостами. Пожалуйста, дайте ссылку на развернутый удаленный хост здесь.</value>
   </data>
@@ -1199,10 +1202,10 @@
     <value>1 минута</value>
   </data>
   <data name="Daemon_SystemVersion" xml:space="preserve">
-    <value>Система</value>
+    <value>Система:</value>
   </data>
   <data name="Daemon_DaemonVersion" xml:space="preserve">
-    <value>Версия узла</value>
+    <value>Версия узла:</value>
   </data>
   <data name="InstanceCard_StopConfirmTitle" xml:space="preserve">
     <value>Подтверждение остановки</value>
@@ -1582,7 +1585,6 @@
   <data name="Info" xml:space="preserve">
     <value>Информация</value>
   </data>
-
   <data name="UploadingFile" xml:space="preserve">
     <value>Загрузка файла</value>
   </data>
@@ -1678,5 +1680,41 @@
   </data>
   <data name="InstanceConfigCopied" xml:space="preserve">
     <value>Конфигурация экземпляра скопирована в буфер обмена</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ActionExecutionMode" xml:space="preserve">
+    <value>Режим выполнения</value>
+  </data>
+  <data name="FeatureNotReadyTip" xml:space="preserve">
+    <value>Эта функция пока не готова.</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_ParallelSeparator" xml:space="preserve">
+    <value>Одновременно</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_SequentialSeparator" xml:space="preserve">
+    <value>Затем</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysFalseRuleset" xml:space="preserve">
+    <value>Всегда false</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_RulesetConditionHint" xml:space="preserve">
+    <value>Выполнять действия при выполнении следующих условий</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysTrueRulesetDescription" xml:space="preserve">
+    <value>Этот набор правил всегда возвращает true.</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Parallel" xml:space="preserve">
+    <value>Параллельно</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysFalseRulesetDescription" xml:space="preserve">
+    <value>Этот набор правил всегда возвращает false.</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Sequential" xml:space="preserve">
+    <value>Последовательно</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_Ruleset" xml:space="preserve">
+    <value>Наборы правил</value>
+  </data>
+  <data name="ConsoleCommand_EventTrigger_AlwaysTrueRuleset" xml:space="preserve">
+    <value>Всегда true</value>
   </data>
 </root>
