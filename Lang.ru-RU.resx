@@ -629,6 +629,12 @@
   <data name="Status_Error" xml:space="preserve">
     <value>ненормальный</value>
   </data>
+  <data name="Status_NotLoaded" xml:space="preserve">
+    <value>Не загружено</value>
+  </data>
+  <data name="Status_LoadFailed" xml:space="preserve">
+    <value>Ошибка загрузки</value>
+  </data>
   <data name="Disconnect" xml:space="preserve">
     <value>разъединять</value>
   </data>
@@ -699,10 +705,10 @@
     <value>Войти в полноэкранный терминал</value>
   </data>
   <data name="Stop" xml:space="preserve">
-    <value>终止</value>
+    <value>Остановить</value>
   </data>
   <data name="Kill" xml:space="preserve">
-    <value>杀死</value>
+    <value>Принудительно закрыть</value>
   </data>
   <data name="Restart" xml:space="preserve">
     <value>重启</value>
@@ -1015,7 +1021,7 @@
     <value>Экземпляр "{0}" нельзя перезапустить в текущем состоянии.</value>
   </data>
   <data name="InstanceCard_KillUnavailable" xml:space="preserve">
-    <value>Экземпляр "{0}" нельзя принудительно завершить в текущем состоянии.</value>
+    <value>Экземпляр "{0}" нельзя принудительно закрыть в текущем состоянии.</value>
   </data>
   <data name="InstanceCard_DeleteUnavailable" xml:space="preserve">
     <value>Экземпляр "{0}" можно удалить только после остановки.</value>
@@ -1027,7 +1033,7 @@
     <value>Перезапуск экземпляра: {0}</value>
   </data>
   <data name="InstanceCard_KillingInstance" xml:space="preserve">
-    <value>Экземпляр принудительно завершен: {0}</value>
+    <value>Экземпляр принудительно закрыт: {0}</value>
   </data>
   <data name="InstanceCard_DeletedInstance" xml:space="preserve">
     <value>Экземпляр удален: {0}</value>
@@ -1049,7 +1055,7 @@
     <value>Не удалось перезапустить экземпляр: {0}</value>
   </data>
   <data name="InstanceCard_KillFailed" xml:space="preserve">
-    <value>Не удалось принудительно завершить экземпляр: {0}</value>
+    <value>Не удалось принудительно закрыть экземпляр: {0}</value>
   </data>
   <data name="InstanceCard_DeleteFailed" xml:space="preserve">
     <value>Не удалось удалить экземпляр: {0}</value>
@@ -1247,10 +1253,10 @@
     <value>Вы уверены, что хотите перезапустить экземпляр «{0}»?</value>
   </data>
   <data name="InstanceCard_KillConfirmTitle" xml:space="preserve">
-    <value>Подтверждение принудительного завершения</value>
+    <value>Принудительно закрыть экземпляр</value>
   </data>
   <data name="InstanceCard_KillConfirmContent" xml:space="preserve">
-    <value>Вы уверены, что хотите принудительно завершить экземпляр «{0}»?</value>
+    <value>Вы уверены, что хотите принудительно закрыть экземпляр «{0}»?</value>
   </data>
   <data name="ConsoleCommand_EventTrigger_ConsoleOutputTrigger" xml:space="preserve">
     <value>Console Output Trigger</value>
@@ -1397,7 +1403,7 @@
     <value>Перезапустить экземпляр</value>
   </data>
   <data name="Settings_Instance_ActionOnDoubleClick_Kill" xml:space="preserve">
-    <value>Убить экземпляр</value>
+    <value>Принудительно закрыть экземпляр</value>
   </data>
   <data name="Settings_Instance_ActionOnDoubleClick_Settings" xml:space="preserve">
     <value>Открыть настройки</value>
@@ -1454,7 +1460,7 @@
     <value>Команда остановки успешно отправлена</value>
   </data>
   <data name="KillCommandSentSuccess" xml:space="preserve">
-    <value>Команда принудительного завершения успешно отправлена</value>
+    <value>Команда принудительного закрытия успешно отправлена</value>
   </data>
   <data name="RestartCommandSentSuccess" xml:space="preserve">
     <value>Команда перезапуска успешно отправлена</value>

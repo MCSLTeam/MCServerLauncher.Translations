@@ -697,6 +697,12 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="Status_Error" xml:space="preserve">
     <value>異常</value>
   </data>
+  <data name="Status_NotLoaded" xml:space="preserve">
+    <value>未読み込み</value>
+  </data>
+  <data name="Status_LoadFailed" xml:space="preserve">
+    <value>読み込み失敗</value>
+  </data>
   <data name="Disconnect" xml:space="preserve">
     <value>切断</value>
   </data>
@@ -770,7 +776,7 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
     <value>停止</value>
   </data>
   <data name="Kill" xml:space="preserve">
-    <value>強制終了</value>
+    <value>強制的に閉じる</value>
   </data>
   <data name="Restart" xml:space="preserve">
     <value>再起動</value>
@@ -1083,7 +1089,7 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
     <value>インスタンス "{0}" は現在の状態では再起動できません。</value>
   </data>
   <data name="InstanceCard_KillUnavailable" xml:space="preserve">
-    <value>インスタンス "{0}" は現在の状態では強制終了できません。</value>
+    <value>インスタンス "{0}" は現在の状態では強制的に閉じられません。</value>
   </data>
   <data name="InstanceCard_DeleteUnavailable" xml:space="preserve">
     <value>インスタンス "{0}" は停止中の場合のみ削除できます。</value>
@@ -1095,7 +1101,7 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
     <value>インスタンスを再起動しています：{0}</value>
   </data>
   <data name="InstanceCard_KillingInstance" xml:space="preserve">
-    <value>インスタンスを強制終了しました：{0}</value>
+    <value>インスタンスを強制的に閉じました：{0}</value>
   </data>
   <data name="InstanceCard_DeletedInstance" xml:space="preserve">
     <value>インスタンスを削除しました：{0}</value>
@@ -1117,7 +1123,7 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
     <value>インスタンスの再起動に失敗しました：{0}</value>
   </data>
   <data name="InstanceCard_KillFailed" xml:space="preserve">
-    <value>インスタンスの強制終了に失敗しました：{0}</value>
+    <value>インスタンスを強制的に閉じられませんでした：{0}</value>
   </data>
   <data name="InstanceCard_DeleteFailed" xml:space="preserve">
     <value>インスタンスの削除に失敗しました：{0}</value>
@@ -1315,10 +1321,10 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
     <value>インスタンス「{0}」を再起動してもよろしいですか？</value>
   </data>
   <data name="InstanceCard_KillConfirmTitle" xml:space="preserve">
-    <value>強制終了の確認</value>
+    <value>インスタンスを強制的に閉じる</value>
   </data>
   <data name="InstanceCard_KillConfirmContent" xml:space="preserve">
-    <value>インスタンス「{0}」を強制終了してもよろしいですか？</value>
+    <value>インスタンス「{0}」を強制的に閉じてもよろしいですか？</value>
   </data>
   <data name="ConsoleCommand_EventTrigger_ConsoleOutputTrigger" xml:space="preserve">
     <value>Console Output Trigger</value>
@@ -1465,7 +1471,7 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
     <value>インスタンスを再起動</value>
   </data>
   <data name="Settings_Instance_ActionOnDoubleClick_Kill" xml:space="preserve">
-    <value>インスタンスを強制終了</value>
+    <value>インスタンスを強制的に閉じる</value>
   </data>
   <data name="Settings_Instance_ActionOnDoubleClick_Settings" xml:space="preserve">
     <value>設定を開く</value>
@@ -1522,7 +1528,7 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
     <value>停止コマンドが正常に送信されました</value>
   </data>
   <data name="KillCommandSentSuccess" xml:space="preserve">
-    <value>強制終了コマンドが正常に送信されました</value>
+    <value>閉じるコマンドが正常に送信されました</value>
   </data>
   <data name="RestartCommandSentSuccess" xml:space="preserve">
     <value>再起動コマンドが正常に送信されました</value>

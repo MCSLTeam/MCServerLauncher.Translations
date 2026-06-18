@@ -61,10 +61,10 @@
       Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ErrorDialogTitle" xml:space="preserve">
-    <value />
+    <value>關閉</value>
   </data>
   <data name="OnlyForWindows" xml:space="preserve">
-    <value />
+    <value>強制關閉</value>
   </data>
   <data name="FirstSetup_TimeLanguageMenu" xml:space="preserve">
     <value />
@@ -657,6 +657,12 @@
   <data name="Status_Error" xml:space="preserve">
     <value />
   </data>
+  <data name="Status_NotLoaded" xml:space="preserve">
+    <value>未載入</value>
+  </data>
+  <data name="Status_LoadFailed" xml:space="preserve">
+    <value>載入失敗</value>
+  </data>
   <data name="Disconnect" xml:space="preserve">
     <value />
   </data>
@@ -763,7 +769,7 @@
     <value />
   </data>
   <data name="ConsoleTitle" xml:space="preserve">
-    <value />
+    <value>關閉</value>
   </data>
   <data name="InstanceConsole_InstanceTitlePart" xml:space="preserve">
     <value>實例 [{0}]</value>
@@ -1037,7 +1043,7 @@
     <value>實例 "{0}" 目前狀態不允許重啟。</value>
   </data>
   <data name="InstanceCard_KillUnavailable" xml:space="preserve">
-    <value>實例 "{0}" 目前狀態不允許強制結束。</value>
+    <value>實例 "{0}" 目前狀態不允許強制關閉。</value>
   </data>
   <data name="InstanceCard_DeleteUnavailable" xml:space="preserve">
     <value>實例 "{0}" 只有在關閉狀態下才能刪除。</value>
@@ -1049,7 +1055,7 @@
     <value>正在重啟實例：{0}</value>
   </data>
   <data name="InstanceCard_KillingInstance" xml:space="preserve">
-    <value>已強制結束實例：{0}</value>
+    <value>已強制關閉實例：{0}</value>
   </data>
   <data name="InstanceCard_DeletedInstance" xml:space="preserve">
     <value>已刪除實例：{0}</value>
@@ -1071,7 +1077,7 @@
     <value>重啟實例失敗：{0}</value>
   </data>
   <data name="InstanceCard_KillFailed" xml:space="preserve">
-    <value>強制結束實例失敗：{0}</value>
+    <value>強制關閉實例失敗：{0}</value>
   </data>
   <data name="InstanceCard_DeleteFailed" xml:space="preserve">
     <value>刪除實例失敗：{0}</value>
@@ -1269,10 +1275,10 @@
     <value>確定要重啟實例「{0}」嗎？</value>
   </data>
   <data name="InstanceCard_KillConfirmTitle" xml:space="preserve">
-    <value>確認強制結束</value>
+    <value>強制關閉實例</value>
   </data>
   <data name="InstanceCard_KillConfirmContent" xml:space="preserve">
-    <value>確定要強制結束實例「{0}」嗎？</value>
+    <value>確定要強制關閉實例「{0}」嗎？</value>
   </data>
   <data name="ConsoleCommand_EventTrigger_ConsoleOutputTrigger" xml:space="preserve">
     <value>控制台输出触发器</value>
@@ -1416,7 +1422,7 @@
     <value>重啟實例</value>
   </data>
   <data name="Settings_Instance_ActionOnDoubleClick_Kill" xml:space="preserve">
-    <value>殺死實例</value>
+    <value>強制關閉實例</value>
   </data>
   <data name="Settings_Instance_ActionOnDoubleClick_Settings" xml:space="preserve">
     <value>打開設置</value>
@@ -1473,7 +1479,7 @@
     <value>停止命令發送成功</value>
   </data>
   <data name="KillCommandSentSuccess" xml:space="preserve">
-    <value>強制結束命令發送成功</value>
+    <value>強制關閉命令發送成功</value>
   </data>
   <data name="RestartCommandSentSuccess" xml:space="preserve">
     <value>重啟命令發送成功</value>

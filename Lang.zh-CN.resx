@@ -466,7 +466,7 @@
     <value>重启实例</value>
   </data>
   <data name="Settings_Instance_ActionOnDoubleClick_Kill" xml:space="preserve">
-    <value>杀死实例</value>
+    <value>强制关闭实例</value>
   </data>
   <data name="Settings_Instance_ActionOnDoubleClick_Settings" xml:space="preserve">
     <value>打开设置</value>
@@ -666,6 +666,12 @@
   <data name="Status_Error" xml:space="preserve">
     <value>异常</value>
   </data>
+  <data name="Status_NotLoaded" xml:space="preserve">
+    <value>未加载</value>
+  </data>
+  <data name="Status_LoadFailed" xml:space="preserve">
+    <value>加载失败</value>
+  </data>
   <data name="Disconnect" xml:space="preserve">
     <value>断连</value>
   </data>
@@ -736,10 +742,10 @@
     <value>进入全屏终端</value>
   </data>
   <data name="Stop" xml:space="preserve">
-    <value>终止</value>
+    <value>关闭</value>
   </data>
   <data name="Kill" xml:space="preserve">
-    <value>杀死</value>
+    <value>强制关闭</value>
   </data>
   <data name="Restart" xml:space="preserve">
     <value>重启</value>
@@ -1048,7 +1054,7 @@
     <value>实例 "{0}" 当前状态不允许重启。</value>
   </data>
   <data name="InstanceCard_KillUnavailable" xml:space="preserve">
-    <value>实例 "{0}" 当前状态不允许强制杀死。</value>
+    <value>实例 "{0}" 当前状态不允许强制关闭。</value>
   </data>
   <data name="InstanceCard_DeleteUnavailable" xml:space="preserve">
     <value>实例 "{0}" 只有在关闭状态下才能删除。</value>
@@ -1060,7 +1066,7 @@
     <value>正在重启实例：{0}</value>
   </data>
   <data name="InstanceCard_KillingInstance" xml:space="preserve">
-    <value>已杀死实例：{0}</value>
+    <value>已强制关闭实例：{0}</value>
   </data>
   <data name="InstanceCard_DeletedInstance" xml:space="preserve">
     <value>已删除实例：{0}</value>
@@ -1081,10 +1087,10 @@
     <value>您确定要重启实例 "{0}" 吗？</value>
   </data>
   <data name="InstanceCard_KillConfirmTitle" xml:space="preserve">
-    <value>杀死实例</value>
+    <value>强制关闭实例</value>
   </data>
   <data name="InstanceCard_KillConfirmContent" xml:space="preserve">
-    <value>您确定要强制杀死实例 "{0}" 吗？这可能会导致数据丢失。</value>
+    <value>您确定要强制关闭实例 "{0}" 吗？这可能会导致数据丢失。</value>
   </data>
   <data name="InstanceCard_DeleteConfirmContent" xml:space="preserve">
     <value>确定要删除实例“{0}”吗？
@@ -1100,7 +1106,7 @@
     <value>重启实例失败：{0}</value>
   </data>
   <data name="InstanceCard_KillFailed" xml:space="preserve">
-    <value>杀死实例失败：{0}</value>
+    <value>强制关闭实例失败：{0}</value>
   </data>
   <data name="InstanceCard_DeleteFailed" xml:space="preserve">
     <value>删除实例失败：{0}</value>
@@ -1508,7 +1514,7 @@
     <value>停止命令发送成功</value>
   </data>
   <data name="KillCommandSentSuccess" xml:space="preserve">
-    <value>强制终止命令发送成功</value>
+    <value>强制关闭命令发送成功</value>
   </data>
   <data name="RestartCommandSentSuccess" xml:space="preserve">
     <value>重启命令发送成功</value>

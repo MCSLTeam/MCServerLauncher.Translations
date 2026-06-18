@@ -466,7 +466,7 @@
     <value>Restart Instance</value>
   </data>
   <data name="Settings_Instance_ActionOnDoubleClick_Kill" xml:space="preserve">
-    <value>Kill Instance</value>
+    <value>Force Close Instance</value>
   </data>
   <data name="Settings_Instance_ActionOnDoubleClick_Settings" xml:space="preserve">
     <value>Open Settings</value>
@@ -666,6 +666,12 @@
   <data name="Status_Error" xml:space="preserve">
     <value>Error</value>
   </data>
+  <data name="Status_NotLoaded" xml:space="preserve">
+    <value>Not loaded</value>
+  </data>
+  <data name="Status_LoadFailed" xml:space="preserve">
+    <value>Load failed</value>
+  </data>
   <data name="Disconnect" xml:space="preserve">
     <value>Disconnect</value>
   </data>
@@ -739,7 +745,7 @@
     <value>Stop</value>
   </data>
   <data name="Kill" xml:space="preserve">
-    <value>Terminate</value>
+    <value>Force Close</value>
   </data>
   <data name="Restart" xml:space="preserve">
     <value>Restart</value>
@@ -1048,7 +1054,7 @@
     <value>Instance "{0}" cannot be restarted in its current state.</value>
   </data>
   <data name="InstanceCard_KillUnavailable" xml:space="preserve">
-    <value>Instance "{0}" cannot be killed in its current state.</value>
+    <value>Instance "{0}" cannot be forcibly closed in its current state.</value>
   </data>
   <data name="InstanceCard_DeleteUnavailable" xml:space="preserve">
     <value>Instance "{0}" can only be deleted when it is stopped.</value>
@@ -1060,7 +1066,7 @@
     <value>Restarting instance: {0}</value>
   </data>
   <data name="InstanceCard_KillingInstance" xml:space="preserve">
-    <value>Killed instance: {0}</value>
+    <value>Force closed instance: {0}</value>
   </data>
   <data name="InstanceCard_DeletedInstance" xml:space="preserve">
     <value>Deleted instance: {0}</value>
@@ -1081,10 +1087,10 @@
     <value>Are you sure you want to restart the instance "{0}"?</value>
   </data>
   <data name="InstanceCard_KillConfirmTitle" xml:space="preserve">
-    <value>Kill Instance</value>
+    <value>Force Close Instance</value>
   </data>
   <data name="InstanceCard_KillConfirmContent" xml:space="preserve">
-    <value>Are you sure you want to forcibly kill the instance "{0}"? This may cause data loss.</value>
+    <value>Are you sure you want to forcibly close the instance "{0}"? This may cause data loss.</value>
   </data>
   <data name="InstanceCard_DeleteConfirmContent" xml:space="preserve">
     <value>Are you sure you want to delete instance "{0}"?
@@ -1100,7 +1106,7 @@ This action cannot be undone.</value>
     <value>Failed to restart instance: {0}</value>
   </data>
   <data name="InstanceCard_KillFailed" xml:space="preserve">
-    <value>Failed to kill instance: {0}</value>
+    <value>Failed to force close instance: {0}</value>
   </data>
   <data name="InstanceCard_DeleteFailed" xml:space="preserve">
     <value>Failed to delete instance: {0}</value>
@@ -1508,7 +1514,7 @@ This action cannot be undone.</value>
     <value>Stop command sent successfully</value>
   </data>
   <data name="KillCommandSentSuccess" xml:space="preserve">
-    <value>Kill command sent successfully</value>
+    <value>Close command sent successfully</value>
   </data>
   <data name="RestartCommandSentSuccess" xml:space="preserve">
     <value>Restart command sent successfully</value>
