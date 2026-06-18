@@ -1777,4 +1777,52 @@
   <data name="Ignore" xml:space="preserve">
     <value>忽略</value>
   </data>
+  <data name="FirstSetup_EulaOnlineTip" xml:space="preserve">
+    <value>请在浏览器中阅读 MCSL Future 用户协议。继续前需要等待 15 秒，以确保你有时间打开并查看协议内容。</value>
+  </data>
+  <data name="FirstSetup_EulaOpenInBrowser" xml:space="preserve">
+    <value>打开用户协议</value>
+  </data>
+  <data name="FirstSetup_EulaContinueCountdown" xml:space="preserve">
+    <value>同意（{0}s）</value>
+  </data>
+  <data name="FirstSetup_EulaUrlLabel" xml:space="preserve">
+    <value>协议地址</value>
+  </data>
+  <data name="FirstSetup_DaemonRemoteHost" xml:space="preserve">
+    <value>远程主机</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalHost" xml:space="preserve">
+    <value>在本机运行</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalQuestion" xml:space="preserve">
+    <value>是否要在本机运行守护进程？</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalQuestionTip" xml:space="preserve">
+    <value>如果这台电脑会直接托管实例，请选择在本机运行；否则可以直接添加远程节点。</value>
+  </data>
+  <data name="FirstSetup_DaemonUseLocal" xml:space="preserve">
+    <value>在本机运行</value>
+  </data>
+  <data name="FirstSetup_DaemonSkipLocalUseRemote" xml:space="preserve">
+    <value>添加远程节点</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalDownload" xml:space="preserve">
+    <value>下载守护进程</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalDownloadUnavailable" xml:space="preserve">
+    <value>本机守护进程下载地址暂未配置，请先添加远程主机，或稍后在此处配置直链后重试。</value>
+  </data>
+  <data name="FirstSetup_DaemonAddAnotherHostTitle" xml:space="preserve">
+    <value>继续添加主机？</value>
+  </data>
+  <data name="FirstSetup_DaemonAddAnotherHostTip" xml:space="preserve">
+    <value>当前主机已添加。你可以继续添加其他主机，或完成首次设置。</value>
+  </data>
+  <data name="FirstSetup_DaemonAddAnotherHost" xml:space="preserve">
+    <value>继续添加</value>
+  </data>
+  <data name="FirstSetup_DaemonFinishAdding" xml:space="preserve">
+    <value>完成</value>
+  </data>
 </root>

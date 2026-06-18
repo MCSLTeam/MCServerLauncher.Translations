@@ -1799,4 +1799,52 @@
   <data name="Ignore" xml:space="preserve">
     <value>忽略</value>
   </data>
+  <data name="FirstSetup_EulaOnlineTip" xml:space="preserve">
+    <value>請在瀏覽器中閱讀 MCSL Future 使用者協議。繼續前需要等待 15 秒，以確保你有時間開啟並查看協議內容。</value>
+  </data>
+  <data name="FirstSetup_EulaOpenInBrowser" xml:space="preserve">
+    <value>開啟使用者協議</value>
+  </data>
+  <data name="FirstSetup_EulaContinueCountdown" xml:space="preserve">
+    <value>同意（{0}s）</value>
+  </data>
+  <data name="FirstSetup_EulaUrlLabel" xml:space="preserve">
+    <value>協議地址</value>
+  </data>
+  <data name="FirstSetup_DaemonRemoteHost" xml:space="preserve">
+    <value>遠端主機</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalHost" xml:space="preserve">
+    <value>在本機執行</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalQuestion" xml:space="preserve">
+    <value>是否要在本機執行守護進程？</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalQuestionTip" xml:space="preserve">
+    <value>如果這部電腦會直接託管實例，請選擇在本機執行；否則可以直接新增遠端節點。</value>
+  </data>
+  <data name="FirstSetup_DaemonUseLocal" xml:space="preserve">
+    <value>在本機執行</value>
+  </data>
+  <data name="FirstSetup_DaemonSkipLocalUseRemote" xml:space="preserve">
+    <value>新增遠端節點</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalDownload" xml:space="preserve">
+    <value>下載守護進程</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalDownloadUnavailable" xml:space="preserve">
+    <value>本機守護進程下載地址尚未配置，請先新增遠端主機，或稍後在此處配置直連後重試。</value>
+  </data>
+  <data name="FirstSetup_DaemonAddAnotherHostTitle" xml:space="preserve">
+    <value>繼續新增主機？</value>
+  </data>
+  <data name="FirstSetup_DaemonAddAnotherHostTip" xml:space="preserve">
+    <value>目前主機已新增。你可以繼續新增其他主機，或完成首次設定。</value>
+  </data>
+  <data name="FirstSetup_DaemonAddAnotherHost" xml:space="preserve">
+    <value>繼續新增</value>
+  </data>
+  <data name="FirstSetup_DaemonFinishAdding" xml:space="preserve">
+    <value>完成</value>
+  </data>
 </root>

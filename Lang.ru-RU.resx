@@ -1780,4 +1780,52 @@
   <data name="Ignore" xml:space="preserve">
     <value>Игнорировать</value>
   </data>
+  <data name="FirstSetup_EulaOnlineTip" xml:space="preserve">
+    <value>Прочитайте пользовательское соглашение MCSL Future в браузере. Перед продолжением нужно подождать 15 секунд, чтобы успеть открыть и проверить соглашение.</value>
+  </data>
+  <data name="FirstSetup_EulaOpenInBrowser" xml:space="preserve">
+    <value>Открыть соглашение</value>
+  </data>
+  <data name="FirstSetup_EulaContinueCountdown" xml:space="preserve">
+    <value>Принять ({0} с)</value>
+  </data>
+  <data name="FirstSetup_EulaUrlLabel" xml:space="preserve">
+    <value>Адрес соглашения</value>
+  </data>
+  <data name="FirstSetup_DaemonRemoteHost" xml:space="preserve">
+    <value>Удалённый хост</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalHost" xml:space="preserve">
+    <value>Запустить локально</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalQuestion" xml:space="preserve">
+    <value>Запустить daemon на этом компьютере?</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalQuestionTip" xml:space="preserve">
+    <value>Выберите локальный режим, если этот компьютер будет напрямую размещать экземпляры. Иначе добавьте удалённый узел.</value>
+  </data>
+  <data name="FirstSetup_DaemonUseLocal" xml:space="preserve">
+    <value>Запустить на этом компьютере</value>
+  </data>
+  <data name="FirstSetup_DaemonSkipLocalUseRemote" xml:space="preserve">
+    <value>Добавить удалённый узел</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalDownload" xml:space="preserve">
+    <value>Скачать daemon</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalDownloadUnavailable" xml:space="preserve">
+    <value>URL для загрузки локального daemon пока не настроен. Пока добавьте удалённый хост или настройте прямую ссылку позже и повторите попытку.</value>
+  </data>
+  <data name="FirstSetup_DaemonAddAnotherHostTitle" xml:space="preserve">
+    <value>Добавить ещё один хост?</value>
+  </data>
+  <data name="FirstSetup_DaemonAddAnotherHostTip" xml:space="preserve">
+    <value>Текущий хост добавлен. Можно добавить ещё один хост или завершить первичную настройку.</value>
+  </data>
+  <data name="FirstSetup_DaemonAddAnotherHost" xml:space="preserve">
+    <value>Добавить ещё</value>
+  </data>
+  <data name="FirstSetup_DaemonFinishAdding" xml:space="preserve">
+    <value>Готово</value>
+  </data>
 </root>

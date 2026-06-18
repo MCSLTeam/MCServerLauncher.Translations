@@ -1848,4 +1848,52 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="Ignore" xml:space="preserve">
     <value>無視</value>
   </data>
+  <data name="FirstSetup_EulaOnlineTip" xml:space="preserve">
+    <value>ブラウザーで MCSL Future のユーザー契約を確認してください。開いて内容を確認できるよう、続行するには 15 秒待つ必要があります。</value>
+  </data>
+  <data name="FirstSetup_EulaOpenInBrowser" xml:space="preserve">
+    <value>ユーザー契約を開く</value>
+  </data>
+  <data name="FirstSetup_EulaContinueCountdown" xml:space="preserve">
+    <value>同意（{0}s）</value>
+  </data>
+  <data name="FirstSetup_EulaUrlLabel" xml:space="preserve">
+    <value>契約 URL</value>
+  </data>
+  <data name="FirstSetup_DaemonRemoteHost" xml:space="preserve">
+    <value>リモートホスト</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalHost" xml:space="preserve">
+    <value>ローカルで実行</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalQuestion" xml:space="preserve">
+    <value>このコンピューターでデーモンを実行しますか？</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalQuestionTip" xml:space="preserve">
+    <value>このコンピューターでインスタンスを直接ホストする場合はローカル実行を選択してください。それ以外の場合はリモートノードを追加します。</value>
+  </data>
+  <data name="FirstSetup_DaemonUseLocal" xml:space="preserve">
+    <value>このコンピューターで実行</value>
+  </data>
+  <data name="FirstSetup_DaemonSkipLocalUseRemote" xml:space="preserve">
+    <value>リモートノードを追加</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalDownload" xml:space="preserve">
+    <value>デーモンをダウンロード</value>
+  </data>
+  <data name="FirstSetup_DaemonLocalDownloadUnavailable" xml:space="preserve">
+    <value>ローカルデーモンのダウンロード URL はまだ設定されていません。今はリモートホストを追加するか、後で直接リンクを設定して再試行してください。</value>
+  </data>
+  <data name="FirstSetup_DaemonAddAnotherHostTitle" xml:space="preserve">
+    <value>別のホストを追加しますか？</value>
+  </data>
+  <data name="FirstSetup_DaemonAddAnotherHostTip" xml:space="preserve">
+    <value>現在のホストが追加されました。別のホストを追加するか、初回設定を完了できます。</value>
+  </data>
+  <data name="FirstSetup_DaemonAddAnotherHost" xml:space="preserve">
+    <value>続けて追加</value>
+  </data>
+  <data name="FirstSetup_DaemonFinishAdding" xml:space="preserve">
+    <value>完了</value>
+  </data>
 </root>
