@@ -1445,7 +1445,7 @@
     <value>Создать папку</value>
   </data>
   <data name="MultiSelectTip" xml:space="preserve">
-    <value>Удерживайте Ctrl для выбора нескольких элементов, удерживайте Shift для выбора диапазона.</value>
+      <value>Удерживайте Ctrl для выбора нескольких элементов, Shift для выбора диапазона или перетащите из пустой области для выбора рамкой.</value>
   </data>
   <data name="Yes" xml:space="preserve">
     <value>Да</value>
@@ -1834,4 +1834,16 @@
   <data name="FirstSetup_DaemonFinishAdding" xml:space="preserve">
     <value>Готово</value>
   </data>
+    <data name="InstanceSettingsConsoleMode" xml:space="preserve">
+      <value>Режим терминала</value>
+    </data>
+    <data name="InstanceSettingsConsoleModePipe" xml:space="preserve">
+      <value>Канал</value>
+    </data>
+    <data name="InstanceSettingsConsoleModePty" xml:space="preserve">
+      <value>PTY (интерактивный терминал)</value>
+    </data>
+    <data name="InstanceSettingsConsoleModeDescription" xml:space="preserve">
+      <value>Изменения применятся после остановки и перезапуска экземпляра. PTY подходит для интерактивных программ; серверы Minecraft обычно используют режим канала.</value>
+    </data>
 </root>

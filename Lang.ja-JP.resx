@@ -1513,7 +1513,7 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
     <value>新しいフォルダー</value>
   </data>
   <data name="MultiSelectTip" xml:space="preserve">
-    <value>Ctrlキーを押しながらクリックで複数選択、Shiftキーを押しながらクリックで範囲選択できます。</value>
+      <value>Ctrl キーを押しながらクリックすると複数選択でき、Shift キーを押しながらクリックすると連続選択できます。空白領域からドラッグすると範囲選択できます。</value>
   </data>
   <data name="Yes" xml:space="preserve">
     <value>はい</value>
@@ -1902,4 +1902,16 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="FirstSetup_DaemonFinishAdding" xml:space="preserve">
     <value>完了</value>
   </data>
+    <data name="InstanceSettingsConsoleMode" xml:space="preserve">
+      <value>ターミナル モード</value>
+    </data>
+    <data name="InstanceSettingsConsoleModePipe" xml:space="preserve">
+      <value>パイプ</value>
+    </data>
+    <data name="InstanceSettingsConsoleModePty" xml:space="preserve">
+      <value>PTY（対話型ターミナル）</value>
+    </data>
+    <data name="InstanceSettingsConsoleModeDescription" xml:space="preserve">
+      <value>変更はインスタンスを停止して再起動した後に適用されます。PTY は対話型プログラム向けです。Minecraft サーバーでは通常パイプ モードを使用します。</value>
+    </data>
 </root>

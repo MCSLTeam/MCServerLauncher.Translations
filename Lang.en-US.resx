@@ -1439,7 +1439,7 @@ This action cannot be undone.</value>
     <value>New Folder</value>
   </data>
   <data name="MultiSelectTip" xml:space="preserve">
-    <value>Hold Ctrl to select multiple items, hold Shift to select a range.</value>
+      <value>Hold Ctrl to select multiple items, Shift to select a range, or drag from an empty area to box-select.</value>
   </data>
   <data name="Copy" xml:space="preserve">
     <value>Copy</value>
@@ -1831,4 +1831,16 @@ This action cannot be undone.</value>
   <data name="FirstSetup_DaemonFinishAdding" xml:space="preserve">
     <value>Finish</value>
   </data>
+    <data name="InstanceSettingsConsoleMode" xml:space="preserve">
+      <value>Terminal mode</value>
+    </data>
+    <data name="InstanceSettingsConsoleModePipe" xml:space="preserve">
+      <value>Pipe</value>
+    </data>
+    <data name="InstanceSettingsConsoleModePty" xml:space="preserve">
+      <value>PTY (interactive terminal)</value>
+    </data>
+    <data name="InstanceSettingsConsoleModeDescription" xml:space="preserve">
+      <value>Changes apply after the instance is stopped and restarted. PTY suits interactive programs; Minecraft servers usually use pipe mode.</value>
+    </data>
 </root>

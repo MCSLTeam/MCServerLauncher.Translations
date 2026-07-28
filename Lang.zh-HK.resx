@@ -1464,7 +1464,7 @@
     <value>新建文件夾</value>
   </data>
   <data name="MultiSelectTip" xml:space="preserve">
-    <value>按住 Ctrl 鍵點擊可多選，按住 Shift 鍵點擊可連選。</value>
+      <value>按住 Ctrl 鍵點擊可多選，按住 Shift 鍵點擊可連選；從空白區域拖曳可框選。</value>
   </data>
   <data name="Yes" xml:space="preserve">
     <value>是</value>
@@ -1853,4 +1853,16 @@
   <data name="FirstSetup_DaemonFinishAdding" xml:space="preserve">
     <value>完成</value>
   </data>
+    <data name="InstanceSettingsConsoleMode" xml:space="preserve">
+      <value>終端模式</value>
+    </data>
+    <data name="InstanceSettingsConsoleModePipe" xml:space="preserve">
+      <value>管道</value>
+    </data>
+    <data name="InstanceSettingsConsoleModePty" xml:space="preserve">
+      <value>PTY（互動式終端）</value>
+    </data>
+    <data name="InstanceSettingsConsoleModeDescription" xml:space="preserve">
+      <value>儲存後需停止並重新啟動實例才會生效。PTY 適合互動式程式；Minecraft 伺服器通常使用管道模式。</value>
+    </data>
 </root>
