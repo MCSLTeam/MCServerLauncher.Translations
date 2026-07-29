@@ -917,6 +917,12 @@
   <data name="Starting" xml:space="preserve">
     <value>Запускается</value>
   </data>
+  <data name="InstanceLog_Starting" xml:space="preserve">
+    <value>Экземпляр запускается.</value>
+  </data>
+  <data name="InstanceLog_Stopped" xml:space="preserve">
+    <value>Экземпляр остановлен.</value>
+  </data>
   <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve">
     <value>Зеркало RainYun</value>
   </data>

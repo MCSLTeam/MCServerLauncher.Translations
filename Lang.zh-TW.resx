@@ -942,6 +942,12 @@
   <data name="Starting" xml:space="preserve">
     <value>啟動中</value>
   </data>
+  <data name="InstanceLog_Starting" xml:space="preserve">
+    <value>執行個體正在啟動。</value>
+  </data>
+  <data name="InstanceLog_Stopped" xml:space="preserve">
+    <value>執行個體已關閉。</value>
+  </data>
   <data name="PleaseSelectDaemon" xml:space="preserve">
     <value>請選擇將要執行此實例的遠端主機。</value>
   </data>

@@ -948,6 +948,12 @@
   <data name="Starting" xml:space="preserve">
     <value>Starting</value>
   </data>
+  <data name="InstanceLog_Starting" xml:space="preserve">
+    <value>Instance is starting.</value>
+  </data>
+  <data name="InstanceLog_Stopped" xml:space="preserve">
+    <value>Instance has stopped.</value>
+  </data>
   <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve">
     <value>RainYun Mirror</value>
   </data>

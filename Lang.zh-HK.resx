@@ -939,6 +939,12 @@
   <data name="Starting" xml:space="preserve">
     <value>啟動中</value>
   </data>
+  <data name="InstanceLog_Starting" xml:space="preserve">
+    <value>實例正在啟動。</value>
+  </data>
+  <data name="InstanceLog_Stopped" xml:space="preserve">
+    <value>實例已關閉。</value>
+  </data>
   <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve">
     <value>雨雲鏡像站</value>
   </data>

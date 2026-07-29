@@ -985,6 +985,12 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="Starting" xml:space="preserve">
     <value>起動中</value>
   </data>
+  <data name="InstanceLog_Starting" xml:space="preserve">
+    <value>インスタンスを起動しています。</value>
+  </data>
+  <data name="InstanceLog_Stopped" xml:space="preserve">
+    <value>インスタンスは停止しました。</value>
+  </data>
   <data name="ResDownloadPage_ProviderName_RainYun" xml:space="preserve">
     <value>RainYun ミラーサイト</value>
   </data>
