@@ -1930,4 +1930,7 @@ daemon 命令：{5}
   <data name="Plugin_ExtensionCenter_ReviewClientAudit" xml:space="preserve">
     <value>此包仅面向客户端，将保存到本机客户端扩展缓存。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
+    <value>daemon 部署：包 {0} 已缓存；部署到 daemon 插件目录和 daemon 重启仍待完成。</value>
+  </data>
 </root>

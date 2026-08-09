@@ -1952,4 +1952,7 @@ daemon 命令：{5}
   <data name="Plugin_ExtensionCenter_ReviewClientAudit" xml:space="preserve">
     <value>此套件僅適用於用戶端，將儲存至本機用戶端擴充快取。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
+    <value>daemon 部署：套件 {0} 已快取；部署到 daemon 外掛目錄和 daemon 重新啟動仍待完成。</value>
+  </data>
 </root>

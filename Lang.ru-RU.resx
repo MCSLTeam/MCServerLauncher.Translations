@@ -1933,4 +1933,7 @@
   <data name="Plugin_ExtensionCenter_ReviewClientAudit" xml:space="preserve">
     <value>Этот пакет предназначен только для клиента и будет сохранен в локальный кэш клиентских расширений.</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
+    <value>Развертывание daemon: bundle {0} кэширован; развертывание в daemon plugins и перезапуск daemon еще ожидаются.</value>
+  </data>
 </root>

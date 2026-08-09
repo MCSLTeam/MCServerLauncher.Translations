@@ -1930,4 +1930,7 @@ Install this extension?</value>
   <data name="Plugin_ExtensionCenter_ReviewClientAudit" xml:space="preserve">
     <value>This package is client-only and will be stored in the local client extension cache.</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
+    <value>Daemon deployment: bundle {0} is cached; deployment to daemon plugins and daemon restart are still pending.</value>
+  </data>
 </root>

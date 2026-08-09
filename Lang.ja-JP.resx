@@ -2001,4 +2001,7 @@ daemon コマンド: {5}
   <data name="Plugin_ExtensionCenter_ReviewClientAudit" xml:space="preserve">
     <value>このパッケージはクライアント専用で、ローカルのクライアント拡張キャッシュに保存されます。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
+    <value>daemon 配置: バンドル {0} はキャッシュ済みです。daemon plugins への配置と daemon 再起動は未完了です。</value>
+  </data>
 </root>
