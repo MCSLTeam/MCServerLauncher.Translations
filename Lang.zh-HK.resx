@@ -1925,4 +1925,31 @@ Host 能力：{1}
   <data name="Plugin_ExtensionCenter_CommandAccepted" xml:space="preserve">
     <value>擴充命令已被 daemon 接受。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_InstallCancelled" xml:space="preserve">
+    <value>擴展安裝已取消。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewTitle" xml:space="preserve">
+    <value>審閱擴展權限</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
+    <value>套件：{0}
+版本：{1}
+檔案：{2}
+
+Host 權限：{3}
+事件權限：{4}
+daemon 命令：{5}
+擴展點：{6}
+資源：{7}
+審核：{8}
+大小：{9}
+
+是否安裝此擴展？</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDaemonAudit" xml:space="preserve">
+    <value>此套件包含 daemon 負載。客戶端安裝只會快取套件；daemon 部署和重啟狀態需要另行審閱。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewClientAudit" xml:space="preserve">
+    <value>此套件只適用於客戶端，將儲存至本機客戶端擴展快取。</value>
+  </data>
 </root>

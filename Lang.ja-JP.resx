@@ -1974,4 +1974,31 @@ Host 能力: {1}
   <data name="Plugin_ExtensionCenter_CommandAccepted" xml:space="preserve">
     <value>拡張コマンドは daemon に受け付けられました。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_InstallCancelled" xml:space="preserve">
+    <value>拡張機能のインストールをキャンセルしました。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewTitle" xml:space="preserve">
+    <value>拡張機能の権限を確認</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
+    <value>パッケージ: {0}
+バージョン: {1}
+ファイル: {2}
+
+Host 権限: {3}
+イベント権限: {4}
+daemon コマンド: {5}
+拡張ポイント: {6}
+リソース: {7}
+監査: {8}
+サイズ: {9}
+
+この拡張機能をインストールしますか？</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDaemonAudit" xml:space="preserve">
+    <value>このパッケージには daemon ペイロードが含まれます。クライアントのインストールではパッケージのみをキャッシュします。daemon の配置と再起動状態は別途確認してください。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewClientAudit" xml:space="preserve">
+    <value>このパッケージはクライアント専用で、ローカルのクライアント拡張キャッシュに保存されます。</value>
+  </data>
 </root>

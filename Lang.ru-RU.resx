@@ -1906,4 +1906,31 @@
   <data name="Plugin_ExtensionCenter_CommandAccepted" xml:space="preserve">
     <value>Команда расширения принята daemon.</value>
   </data>
+  <data name="Plugin_ExtensionCenter_InstallCancelled" xml:space="preserve">
+    <value>Установка расширения отменена.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewTitle" xml:space="preserve">
+    <value>Проверка разрешений расширения</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
+    <value>Пакет: {0}
+Версия: {1}
+Файл: {2}
+
+Разрешения Host: {3}
+Разрешения событий: {4}
+Команды daemon: {5}
+Точки расширения: {6}
+Ресурсы: {7}
+Аудит: {8}
+Размер: {9}
+
+Установить это расширение?</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDaemonAudit" xml:space="preserve">
+    <value>Этот пакет содержит daemon payload. Установка в клиенте только кэширует пакет; развертывание daemon и состояние перезапуска нужно проверить отдельно.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewClientAudit" xml:space="preserve">
+    <value>Этот пакет предназначен только для клиента и будет сохранен в локальный кэш клиентских расширений.</value>
+  </data>
 </root>

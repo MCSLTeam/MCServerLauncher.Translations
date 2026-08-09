@@ -1903,4 +1903,31 @@ Resources: {3}</value>
   <data name="Plugin_ExtensionCenter_CommandAccepted" xml:space="preserve">
     <value>Extension command accepted by the daemon.</value>
   </data>
+  <data name="Plugin_ExtensionCenter_InstallCancelled" xml:space="preserve">
+    <value>Extension installation cancelled.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewTitle" xml:space="preserve">
+    <value>Review extension permissions</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
+    <value>Package: {0}
+Version: {1}
+File: {2}
+
+Host permissions: {3}
+Event permissions: {4}
+Daemon commands: {5}
+Extension points: {6}
+Resources: {7}
+Audit: {8}
+Size: {9}
+
+Install this extension?</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDaemonAudit" xml:space="preserve">
+    <value>This package includes a daemon payload. Client installation only caches the package; daemon deployment and restart state must be reviewed separately.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewClientAudit" xml:space="preserve">
+    <value>This package is client-only and will be stored in the local client extension cache.</value>
+  </data>
 </root>
