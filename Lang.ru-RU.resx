@@ -1852,4 +1852,58 @@
     <data name="InstanceSettingsConsoleModeDescription" xml:space="preserve">
       <value>Изменения применятся после остановки и перезапуска экземпляра. PTY подходит для интерактивных программ; серверы Minecraft обычно используют режим канала.</value>
     </data>
+  <data name="Main_PluginExtensionCenterNavMenu" xml:space="preserve">
+    <value>Расширения / плагины</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Title" xml:space="preserve">
+    <value>Расширения / плагины</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Subtitle" xml:space="preserve">
+    <value>Установка, восстановление и управление проверенными локальными пакетами расширений .mpx.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Install" xml:space="preserve">
+    <value>Установить</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Installed" xml:space="preserve">
+    <value>Установленные расширения</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_InstallSuccess" xml:space="preserve">
+    <value>Расширение установлено.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RemoveSuccess" xml:space="preserve">
+    <value>Расширение удалено.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RemoveMissing" xml:space="preserve">
+    <value>Расширение уже отсутствует.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Empty" xml:space="preserve">
+    <value>В локальном кэше пока нет установленных расширений.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_NoUi" xml:space="preserve">
+    <value>У этого расширения нет UI-панели; оно может предоставлять только тему, ресурсы или payload daemon.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_NoSelection" xml:space="preserve">
+    <value>Расширение не выбрано</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_SelectedSummary" xml:space="preserve">
+    <value>Версия {0}; команд: {1}, ресурсов: {2}, возможностей Host: {3}.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Metadata" xml:space="preserve">
+    <value>Команды: {0}
+Возможности Host: {1}
+Разрешения событий: {2}
+Ресурсы: {3}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ListSummary" xml:space="preserve">
+    <value>v{0} · {1} · команд: {2} · ресурсов: {3}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AssetsOnly" xml:space="preserve">
+    <value>ресурсы</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_UiEventReceived" xml:space="preserve">
+    <value>Событие UI получено.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_CommandAccepted" xml:space="preserve">
+    <value>Команда расширения принята daemon.</value>
+  </data>
 </root>

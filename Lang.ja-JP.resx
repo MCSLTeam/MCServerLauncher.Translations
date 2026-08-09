@@ -1920,4 +1920,58 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
     <data name="InstanceSettingsConsoleModeDescription" xml:space="preserve">
       <value>変更はインスタンスを停止して再起動した後に適用されます。PTY は対話型プログラム向けです。Minecraft サーバーでは通常パイプ モードを使用します。</value>
     </data>
+  <data name="Main_PluginExtensionCenterNavMenu" xml:space="preserve">
+    <value>拡張 / プラグイン</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Title" xml:space="preserve">
+    <value>拡張 / プラグイン</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Subtitle" xml:space="preserve">
+    <value>検証済みのローカル .mpx 拡張パッケージをインストール、復元、管理します。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Install" xml:space="preserve">
+    <value>インストール</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Installed" xml:space="preserve">
+    <value>インストール済み拡張</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_InstallSuccess" xml:space="preserve">
+    <value>拡張をインストールしました。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RemoveSuccess" xml:space="preserve">
+    <value>拡張を削除しました。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RemoveMissing" xml:space="preserve">
+    <value>拡張は既に存在しません。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Empty" xml:space="preserve">
+    <value>ローカルキャッシュにインストール済み拡張はまだありません。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_NoUi" xml:space="preserve">
+    <value>この拡張には UI パネルがありません。テーマ、リソース、または daemon ペイロードのみを提供している可能性があります。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_NoSelection" xml:space="preserve">
+    <value>拡張が選択されていません</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_SelectedSummary" xml:space="preserve">
+    <value>バージョン {0}；{1} コマンド、{2} リソース、{3} Host 能力。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Metadata" xml:space="preserve">
+    <value>コマンド: {0}
+Host 能力: {1}
+イベント権限: {2}
+リソース: {3}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ListSummary" xml:space="preserve">
+    <value>v{0} · {1} · {2} コマンド · {3} リソース</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AssetsOnly" xml:space="preserve">
+    <value>リソース</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_UiEventReceived" xml:space="preserve">
+    <value>UI イベントを受信しました。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_CommandAccepted" xml:space="preserve">
+    <value>拡張コマンドは daemon に受け付けられました。</value>
+  </data>
 </root>

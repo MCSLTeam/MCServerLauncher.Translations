@@ -1849,4 +1849,58 @@ This action cannot be undone.</value>
     <data name="InstanceSettingsConsoleModeDescription" xml:space="preserve">
       <value>Changes apply after the instance is stopped and restarted. PTY suits interactive programs; Minecraft servers usually use pipe mode.</value>
     </data>
+  <data name="Main_PluginExtensionCenterNavMenu" xml:space="preserve">
+    <value>Extensions / Plugins</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Title" xml:space="preserve">
+    <value>Extensions / Plugins</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Subtitle" xml:space="preserve">
+    <value>Install, restore, and manage validated local .mpx extension packages.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Install" xml:space="preserve">
+    <value>Install</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Installed" xml:space="preserve">
+    <value>Installed extensions</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_InstallSuccess" xml:space="preserve">
+    <value>Extension installed.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RemoveSuccess" xml:space="preserve">
+    <value>Extension removed.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RemoveMissing" xml:space="preserve">
+    <value>Extension was already absent.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Empty" xml:space="preserve">
+    <value>No extension is installed in the local cache yet.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_NoUi" xml:space="preserve">
+    <value>This extension has no UI panel; it may contribute theme data, resources, or daemon payloads only.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_NoSelection" xml:space="preserve">
+    <value>No extension selected</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_SelectedSummary" xml:space="preserve">
+    <value>Version {0}; {1} command(s), {2} resource(s), {3} host capability item(s).</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Metadata" xml:space="preserve">
+    <value>Commands: {0}
+Host capabilities: {1}
+Event permissions: {2}
+Resources: {3}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ListSummary" xml:space="preserve">
+    <value>v{0} · {1} · {2} command(s) · {3} resource(s)</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AssetsOnly" xml:space="preserve">
+    <value>assets</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_UiEventReceived" xml:space="preserve">
+    <value>UI event received.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_CommandAccepted" xml:space="preserve">
+    <value>Extension command accepted by the daemon.</value>
+  </data>
 </root>

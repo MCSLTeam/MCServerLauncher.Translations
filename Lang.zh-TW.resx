@@ -1871,4 +1871,58 @@
     <data name="InstanceSettingsConsoleModeDescription" xml:space="preserve">
       <value>儲存後需停止並重新啟動實例才會生效。PTY 適合互動式程式；Minecraft 伺服器通常使用管道模式。</value>
     </data>
+  <data name="Main_PluginExtensionCenterNavMenu" xml:space="preserve">
+    <value>擴充 / 外掛</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Title" xml:space="preserve">
+    <value>擴充 / 外掛</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Subtitle" xml:space="preserve">
+    <value>安裝、還原和管理本機已驗證的 .mpx 擴充套件。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Install" xml:space="preserve">
+    <value>安裝</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Installed" xml:space="preserve">
+    <value>已安裝擴充</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_InstallSuccess" xml:space="preserve">
+    <value>擴充已安裝。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RemoveSuccess" xml:space="preserve">
+    <value>擴充已移除。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RemoveMissing" xml:space="preserve">
+    <value>擴充已不存在。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Empty" xml:space="preserve">
+    <value>本機快取中尚未安裝擴充。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_NoUi" xml:space="preserve">
+    <value>此擴充沒有 UI 面板；可能只提供主題、資源或 daemon 負載。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_NoSelection" xml:space="preserve">
+    <value>未選擇擴充</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_SelectedSummary" xml:space="preserve">
+    <value>版本 {0}；{1} 個命令，{2} 個資源，{3} 個 Host 能力。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_Metadata" xml:space="preserve">
+    <value>命令：{0}
+Host 能力：{1}
+事件權限：{2}
+資源：{3}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ListSummary" xml:space="preserve">
+    <value>v{0} · {1} · {2} 命令 · {3} 資源</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AssetsOnly" xml:space="preserve">
+    <value>資源</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_UiEventReceived" xml:space="preserve">
+    <value>已收到 UI 事件。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_CommandAccepted" xml:space="preserve">
+    <value>擴充命令已被 daemon 接受。</value>
+  </data>
 </root>
