@@ -1980,6 +1980,12 @@ Host 能力: {1}
   <data name="Plugin_ExtensionCenter_ReviewTitle" xml:space="preserve">
     <value>拡張機能の権限を確認</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureTrusted" xml:space="preserve">
+    <value>署名: 信頼済み発行元 {0} (キー {1})。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureUnsigned" xml:space="preserve">
+    <value>署名: 未署名のローカル パッケージ。</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>パッケージ: {0}
 バージョン: {1}

@@ -1931,6 +1931,12 @@ Host 能力：{1}
   <data name="Plugin_ExtensionCenter_ReviewTitle" xml:space="preserve">
     <value>審閱擴展權限</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureTrusted" xml:space="preserve">
+    <value>簽名：已信任發佈者 {0}（密鑰 {1}）。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureUnsigned" xml:space="preserve">
+    <value>簽名：未簽名的本機套件。</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>套件：{0}
 版本：{1}

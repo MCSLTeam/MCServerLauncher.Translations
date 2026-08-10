@@ -1909,6 +1909,12 @@ Resources: {3}</value>
   <data name="Plugin_ExtensionCenter_ReviewTitle" xml:space="preserve">
     <value>Review extension permissions</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureTrusted" xml:space="preserve">
+    <value>Signature: trusted publisher {0} (key {1}).</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureUnsigned" xml:space="preserve">
+    <value>Signature: unsigned local package.</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>Package: {0}
 Version: {1}

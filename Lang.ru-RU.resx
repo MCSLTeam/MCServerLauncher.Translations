@@ -1912,6 +1912,12 @@
   <data name="Plugin_ExtensionCenter_ReviewTitle" xml:space="preserve">
     <value>Проверка разрешений расширения</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureTrusted" xml:space="preserve">
+    <value>Подпись: доверенный издатель {0} (ключ {1}).</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureUnsigned" xml:space="preserve">
+    <value>Подпись: неподписанный локальный пакет.</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>Пакет: {0}
 Версия: {1}
