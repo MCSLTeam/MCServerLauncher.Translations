@@ -2018,4 +2018,19 @@ daemon 命令：{5}
   <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
     <value>重啟 daemon 後此變更才會生效。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartWaitingDisconnect" xml:space="preserve">
+    <value>正在等待 daemon 連線關閉。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartWaitingReconnect" xml:space="preserve">
+    <value>已觀察到 daemon 關閉。正在等待啟動器或服務管理器將其重新上線。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartDisconnectNotObserved" xml:space="preserve">
+    <value>daemon 已接受關閉請求，但連線尚未關閉。請透過啟動器或服務管理器重啟 daemon。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartReconnected" xml:space="preserve">
+    <value>{0} 的擴展重啟請求後 daemon 已重新連線。繼續前請刷新部署狀態。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartStillOffline" xml:space="preserve">
+    <value>daemon 仍然離線。請透過啟動器或服務管理器啟動 daemon，然後刷新此頁面。</value>
+  </data>
 </root>

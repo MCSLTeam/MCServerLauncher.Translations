@@ -1996,4 +1996,19 @@ daemon 命令：{5}
   <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
     <value>重启 daemon 后此更改才会生效。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartWaitingDisconnect" xml:space="preserve">
+    <value>正在等待 daemon 连接关闭。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartWaitingReconnect" xml:space="preserve">
+    <value>已观察到 daemon 关闭。正在等待启动器或服务管理器将其重新上线。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartDisconnectNotObserved" xml:space="preserve">
+    <value>daemon 已接受关闭请求，但连接尚未关闭。请通过启动器或服务管理器重启 daemon。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartReconnected" xml:space="preserve">
+    <value>{0} 的扩展重启请求后 daemon 已重新连接。继续操作前请刷新部署状态。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartStillOffline" xml:space="preserve">
+    <value>daemon 仍处于离线状态。请通过启动器或服务管理器启动 daemon，然后刷新此页面。</value>
+  </data>
 </root>

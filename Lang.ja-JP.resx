@@ -2067,4 +2067,19 @@ daemon コマンド: {5}
   <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
     <value>この変更を適用するには daemon を再起動してください。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartWaitingDisconnect" xml:space="preserve">
+    <value>daemon 接続が閉じるのを待っています。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartWaitingReconnect" xml:space="preserve">
+    <value>daemon のシャットダウンを確認しました。ランチャーまたはサービス マネージャーによる再接続を待っています。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartDisconnectNotObserved" xml:space="preserve">
+    <value>daemon はシャットダウン要求を受け付けましたが、接続はまだ閉じていません。ランチャーまたはサービス マネージャーから daemon を再起動してください。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartReconnected" xml:space="preserve">
+    <value>{0} の拡張再起動要求後に daemon が再接続しました。続行する前にデプロイ状態を更新してください。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartStillOffline" xml:space="preserve">
+    <value>daemon はまだオフラインです。ランチャーまたはサービス マネージャーから daemon を起動して、このページを更新してください。</value>
+  </data>
 </root>

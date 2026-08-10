@@ -1996,4 +1996,19 @@ Install this extension?</value>
   <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
     <value>Restart the daemon to apply this change.</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartWaitingDisconnect" xml:space="preserve">
+    <value>Waiting for the daemon connection to close.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartWaitingReconnect" xml:space="preserve">
+    <value>Daemon shutdown was observed. Waiting for the launcher or service manager to bring it back online.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartDisconnectNotObserved" xml:space="preserve">
+    <value>The daemon accepted the shutdown request, but the connection did not close yet. Restart it through its launcher or service manager.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartReconnected" xml:space="preserve">
+    <value>Daemon reconnected after extension restart request for {0}. Refresh deployment status before continuing.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartStillOffline" xml:space="preserve">
+    <value>The daemon is still offline. Start it through its launcher or service manager, then refresh this page.</value>
+  </data>
 </root>

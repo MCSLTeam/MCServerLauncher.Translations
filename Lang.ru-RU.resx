@@ -1999,4 +1999,19 @@
   <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
     <value>Перезапустите daemon, чтобы применить это изменение.</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartWaitingDisconnect" xml:space="preserve">
+    <value>Ожидание закрытия соединения daemon.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartWaitingReconnect" xml:space="preserve">
+    <value>Отключение daemon замечено. Ожидание повторного запуска через launcher или service manager.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartDisconnectNotObserved" xml:space="preserve">
+    <value>daemon принял запрос shutdown, но соединение пока не закрылось. Перезапустите daemon через launcher или service manager.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartReconnected" xml:space="preserve">
+    <value>daemon снова подключился после запроса перезапуска расширения {0}. Перед продолжением обновите статус развертывания.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartStillOffline" xml:space="preserve">
+    <value>daemon все еще offline. Запустите его через launcher или service manager, затем обновите эту страницу.</value>
+  </data>
 </root>
