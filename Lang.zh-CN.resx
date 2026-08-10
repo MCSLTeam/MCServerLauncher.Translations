@@ -1951,6 +1951,21 @@ Host 能力：{1}
   <data name="Plugin_ExtensionCenter_ReviewExtensionPointRisk" xml:space="preserve">
     <value>扩展点（{0}）：{1}</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewDaemonPayloadRisk" xml:space="preserve">
+    <value>daemon 负载（{0}）：{1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDaemonPayloadPresent" xml:space="preserve">
+    <value>包含 daemon 包</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewCommandRisk" xml:space="preserve">
+    <value>daemon 命令（{0}）：{1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDependencyRisk" xml:space="preserve">
+    <value>依赖（{0}）：{1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureRisk" xml:space="preserve">
+    <value>签名（{0}）：{1}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewDriftNone" xml:space="preserve">
     <value>已安装漂移：未检测到此前安装清单的权限或信任漂移。</value>
   </data>
@@ -1986,6 +2001,18 @@ daemon 命令：{5}
   </data>
   <data name="Plugin_ExtensionCenter_AuditHistory" xml:space="preserve">
     <value>最近 daemon 审计记录：</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditMethods" xml:space="preserve">
+    <value>方法：{0}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditFailures" xml:space="preserve">
+    <value>失败记录：</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditSuccesses" xml:space="preserve">
+    <value>成功记录：</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditNone" xml:space="preserve">
+    <value>- 无</value>
   </data>
   <data name="Plugin_ExtensionCenter_AuditEmpty" xml:space="preserve">
     <value>此扩展目标暂无 daemon 审计记录。</value>

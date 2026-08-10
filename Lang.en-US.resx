@@ -1951,6 +1951,21 @@ Resources: {3}</value>
   <data name="Plugin_ExtensionCenter_ReviewExtensionPointRisk" xml:space="preserve">
     <value>Extension points ({0}): {1}</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewDaemonPayloadRisk" xml:space="preserve">
+    <value>Daemon payload ({0}): {1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDaemonPayloadPresent" xml:space="preserve">
+    <value>daemon bundle present</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewCommandRisk" xml:space="preserve">
+    <value>Daemon commands ({0}): {1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDependencyRisk" xml:space="preserve">
+    <value>Dependencies ({0}): {1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureRisk" xml:space="preserve">
+    <value>Signature ({0}): {1}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewDriftNone" xml:space="preserve">
     <value>Installed drift: no previously installed manifest drift detected.</value>
   </data>
@@ -1986,6 +2001,18 @@ Install this extension?</value>
   </data>
   <data name="Plugin_ExtensionCenter_AuditHistory" xml:space="preserve">
     <value>Recent daemon audit records:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditMethods" xml:space="preserve">
+    <value>Methods: {0}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditFailures" xml:space="preserve">
+    <value>Failures:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditSuccesses" xml:space="preserve">
+    <value>Successful changes:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditNone" xml:space="preserve">
+    <value>- none</value>
   </data>
   <data name="Plugin_ExtensionCenter_AuditEmpty" xml:space="preserve">
     <value>No daemon audit records for this extension target yet.</value>

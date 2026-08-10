@@ -1954,6 +1954,21 @@
   <data name="Plugin_ExtensionCenter_ReviewExtensionPointRisk" xml:space="preserve">
     <value>Точки расширения ({0}): {1}</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewDaemonPayloadRisk" xml:space="preserve">
+    <value>Payload daemon ({0}): {1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDaemonPayloadPresent" xml:space="preserve">
+    <value>daemon bundle присутствует</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewCommandRisk" xml:space="preserve">
+    <value>Команды daemon ({0}): {1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDependencyRisk" xml:space="preserve">
+    <value>Зависимости ({0}): {1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureRisk" xml:space="preserve">
+    <value>Подпись ({0}): {1}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewDriftNone" xml:space="preserve">
     <value>Дрейф установленного пакета: изменений разрешений или доверия в ранее установленном манифесте не найдено.</value>
   </data>
@@ -1989,6 +2004,18 @@
   </data>
   <data name="Plugin_ExtensionCenter_AuditHistory" xml:space="preserve">
     <value>Последние записи аудита daemon:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditMethods" xml:space="preserve">
+    <value>Методы: {0}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditFailures" xml:space="preserve">
+    <value>Ошибки:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditSuccesses" xml:space="preserve">
+    <value>Успешные изменения:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditNone" xml:space="preserve">
+    <value>- нет</value>
   </data>
   <data name="Plugin_ExtensionCenter_AuditEmpty" xml:space="preserve">
     <value>Для этой цели расширения пока нет записей аудита daemon.</value>

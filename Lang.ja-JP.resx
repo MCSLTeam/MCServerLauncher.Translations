@@ -2022,6 +2022,21 @@ Host 能力: {1}
   <data name="Plugin_ExtensionCenter_ReviewExtensionPointRisk" xml:space="preserve">
     <value>拡張ポイント ({0}): {1}</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewDaemonPayloadRisk" xml:space="preserve">
+    <value>daemon ペイロード ({0}): {1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDaemonPayloadPresent" xml:space="preserve">
+    <value>daemon バンドルあり</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewCommandRisk" xml:space="preserve">
+    <value>daemon コマンド ({0}): {1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDependencyRisk" xml:space="preserve">
+    <value>依存関係 ({0}): {1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureRisk" xml:space="preserve">
+    <value>署名 ({0}): {1}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewDriftNone" xml:space="preserve">
     <value>インストール済みドリフト: 以前のインストール済みマニフェストに権限または信頼の変更は検出されませんでした。</value>
   </data>
@@ -2057,6 +2072,18 @@ daemon コマンド: {5}
   </data>
   <data name="Plugin_ExtensionCenter_AuditHistory" xml:space="preserve">
     <value>最近の daemon 監査記録:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditMethods" xml:space="preserve">
+    <value>メソッド: {0}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditFailures" xml:space="preserve">
+    <value>失敗:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditSuccesses" xml:space="preserve">
+    <value>成功:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditNone" xml:space="preserve">
+    <value>- なし</value>
   </data>
   <data name="Plugin_ExtensionCenter_AuditEmpty" xml:space="preserve">
     <value>この拡張ターゲットの daemon 監査記録はまだありません。</value>
