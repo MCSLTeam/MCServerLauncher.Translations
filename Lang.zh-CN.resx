@@ -1981,6 +1981,24 @@ daemon 命令：{5}
   <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
     <value>daemon 部署：包 {0} 已缓存；部署到 daemon 插件目录和 daemon 重启仍待完成。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_AuditHistory" xml:space="preserve">
+    <value>最近 daemon 审计记录：</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditEmpty" xml:space="preserve">
+    <value>此扩展目标暂无 daemon 审计记录。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditOutcomeOk" xml:space="preserve">
+    <value>成功</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditOutcomeFailed" xml:space="preserve">
+    <value>失败：{0}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditRecord" xml:space="preserve">
+    <value>{0} {1} {2}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditDropped" xml:space="preserve">
+    <value>daemon 有界审计日志已丢弃 {0} 条记录。</value>
+  </data>
   <data name="Plugin_ExtensionCenter_DeployDaemon" xml:space="preserve">
     <value>部署 daemon</value>
   </data>

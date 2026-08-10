@@ -2052,6 +2052,24 @@ daemon コマンド: {5}
   <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
     <value>daemon 配置: バンドル {0} はキャッシュ済みです。daemon plugins への配置と daemon 再起動は未完了です。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_AuditHistory" xml:space="preserve">
+    <value>最近の daemon 監査記録:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditEmpty" xml:space="preserve">
+    <value>この拡張ターゲットの daemon 監査記録はまだありません。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditOutcomeOk" xml:space="preserve">
+    <value>成功</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditOutcomeFailed" xml:space="preserve">
+    <value>失敗: {0}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditRecord" xml:space="preserve">
+    <value>{0} {1} {2}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditDropped" xml:space="preserve">
+    <value>bounded daemon ログにより {0} 件の監査記録が破棄されました。</value>
+  </data>
   <data name="Plugin_ExtensionCenter_DeployDaemon" xml:space="preserve">
     <value>daemon を配置</value>
   </data>

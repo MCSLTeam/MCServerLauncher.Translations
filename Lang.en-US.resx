@@ -1981,6 +1981,24 @@ Install this extension?</value>
   <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
     <value>Daemon deployment: bundle {0} is cached; deployment to daemon plugins and daemon restart are still pending.</value>
   </data>
+  <data name="Plugin_ExtensionCenter_AuditHistory" xml:space="preserve">
+    <value>Recent daemon audit records:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditEmpty" xml:space="preserve">
+    <value>No daemon audit records for this extension target yet.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditOutcomeOk" xml:space="preserve">
+    <value>ok</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditOutcomeFailed" xml:space="preserve">
+    <value>failed: {0}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditRecord" xml:space="preserve">
+    <value>{0} {1} {2}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditDropped" xml:space="preserve">
+    <value>{0} audit record(s) were dropped by the bounded daemon log.</value>
+  </data>
   <data name="Plugin_ExtensionCenter_DeployDaemon" xml:space="preserve">
     <value>Deploy daemon</value>
   </data>

@@ -1984,6 +1984,24 @@
   <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
     <value>Развертывание daemon: bundle {0} кэширован; развертывание в daemon plugins и перезапуск daemon еще ожидаются.</value>
   </data>
+  <data name="Plugin_ExtensionCenter_AuditHistory" xml:space="preserve">
+    <value>Последние записи аудита daemon:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditEmpty" xml:space="preserve">
+    <value>Для этой цели расширения пока нет записей аудита daemon.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditOutcomeOk" xml:space="preserve">
+    <value>успешно</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditOutcomeFailed" xml:space="preserve">
+    <value>ошибка: {0}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditRecord" xml:space="preserve">
+    <value>{0} {1} {2}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_AuditDropped" xml:space="preserve">
+    <value>Ограниченный журнал аудита daemon отбросил {0} записей.</value>
+  </data>
   <data name="Plugin_ExtensionCenter_DeployDaemon" xml:space="preserve">
     <value>Развернуть daemon</value>
   </data>
