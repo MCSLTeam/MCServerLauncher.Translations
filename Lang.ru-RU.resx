@@ -1864,6 +1864,12 @@
   <data name="Plugin_ExtensionCenter_Install" xml:space="preserve">
     <value>Установить</value>
   </data>
+  <data name="Plugin_ExtensionCenter_Marketplace" xml:space="preserve">
+    <value>Маркет расширений</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_MarketplaceUnavailable" xml:space="preserve">
+    <value>Поиск в маркете, удаленные обновления и загрузка зависимостей отложены до этапа registry. Сейчас используйте локальную установку .mpx.</value>
+  </data>
   <data name="Plugin_ExtensionCenter_Installed" xml:space="preserve">
     <value>Установленные расширения</value>
   </data>

@@ -1932,6 +1932,12 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="Plugin_ExtensionCenter_Install" xml:space="preserve">
     <value>インストール</value>
   </data>
+  <data name="Plugin_ExtensionCenter_Marketplace" xml:space="preserve">
+    <value>拡張マーケットプレイス</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_MarketplaceUnavailable" xml:space="preserve">
+    <value>マーケットプレイス検索、リモート更新、依存関係ダウンロードはレジストリ段階で実装します。現在はローカル .mpx インストールを使用してください。</value>
+  </data>
   <data name="Plugin_ExtensionCenter_Installed" xml:space="preserve">
     <value>インストール済み拡張</value>
   </data>

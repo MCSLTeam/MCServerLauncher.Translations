@@ -1861,6 +1861,12 @@ This action cannot be undone.</value>
   <data name="Plugin_ExtensionCenter_Install" xml:space="preserve">
     <value>Install</value>
   </data>
+  <data name="Plugin_ExtensionCenter_Marketplace" xml:space="preserve">
+    <value>Extension marketplace</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_MarketplaceUnavailable" xml:space="preserve">
+    <value>Marketplace discovery, remote updates, and dependency downloads are reserved for the registry phase. Use local .mpx install for now.</value>
+  </data>
   <data name="Plugin_ExtensionCenter_Installed" xml:space="preserve">
     <value>Installed extensions</value>
   </data>

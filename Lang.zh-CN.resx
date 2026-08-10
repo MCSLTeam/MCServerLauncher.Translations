@@ -1861,6 +1861,12 @@
   <data name="Plugin_ExtensionCenter_Install" xml:space="preserve">
     <value>安装</value>
   </data>
+  <data name="Plugin_ExtensionCenter_Marketplace" xml:space="preserve">
+    <value>扩展市场</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_MarketplaceUnavailable" xml:space="preserve">
+    <value>市场发现、远程更新和依赖下载留到注册表阶段。当前请使用本地 .mpx 安装。</value>
+  </data>
   <data name="Plugin_ExtensionCenter_Installed" xml:space="preserve">
     <value>已安装扩展</value>
   </data>

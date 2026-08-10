@@ -1883,6 +1883,12 @@
   <data name="Plugin_ExtensionCenter_Install" xml:space="preserve">
     <value>安裝</value>
   </data>
+  <data name="Plugin_ExtensionCenter_Marketplace" xml:space="preserve">
+    <value>擴充市場</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_MarketplaceUnavailable" xml:space="preserve">
+    <value>市場探索、遠端更新和依賴下載留待註冊表階段。現時請使用本機 .mpx 安裝。</value>
+  </data>
   <data name="Plugin_ExtensionCenter_Installed" xml:space="preserve">
     <value>已安裝擴充</value>
   </data>
