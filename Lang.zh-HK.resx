@@ -1955,4 +1955,28 @@ daemon 命令：{5}
   <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
     <value>daemon 部署：套件 {0} 已快取；部署到 daemon 插件目錄和 daemon 重啟仍待完成。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DeployDaemon" xml:space="preserve">
+    <value>部署 daemon</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RemoveDaemon" xml:space="preserve">
+    <value>移除 daemon</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonUnavailable" xml:space="preserve">
+    <value>目前沒有可用的 daemon 連線。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonBundleMissing" xml:space="preserve">
+    <value>快取的 daemon 套件遺失。請重新安裝擴展套件後再部署。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonBundleHashMismatch" xml:space="preserve">
+    <value>快取的 daemon 套件未通過 SHA-256 驗證。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonDeploying" xml:space="preserve">
+    <value>正在部署 daemon 套件...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRemoving" xml:space="preserve">
+    <value>正在移除 daemon 套件...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
+    <value>重啟 daemon 後此變更才會生效。</value>
+  </data>
 </root>

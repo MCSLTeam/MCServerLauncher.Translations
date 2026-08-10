@@ -1933,4 +1933,28 @@ Install this extension?</value>
   <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
     <value>Daemon deployment: bundle {0} is cached; deployment to daemon plugins and daemon restart are still pending.</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DeployDaemon" xml:space="preserve">
+    <value>Deploy daemon</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RemoveDaemon" xml:space="preserve">
+    <value>Remove daemon</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonUnavailable" xml:space="preserve">
+    <value>No ready daemon connection is available.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonBundleMissing" xml:space="preserve">
+    <value>The cached daemon bundle is missing. Reinstall the extension package before deploying.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonBundleHashMismatch" xml:space="preserve">
+    <value>The cached daemon bundle failed SHA-256 verification.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonDeploying" xml:space="preserve">
+    <value>Deploying daemon bundle...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRemoving" xml:space="preserve">
+    <value>Removing daemon bundle...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
+    <value>Restart the daemon to apply this change.</value>
+  </data>
 </root>

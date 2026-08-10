@@ -1936,4 +1936,28 @@
   <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
     <value>Развертывание daemon: bundle {0} кэширован; развертывание в daemon plugins и перезапуск daemon еще ожидаются.</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DeployDaemon" xml:space="preserve">
+    <value>Развернуть daemon</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RemoveDaemon" xml:space="preserve">
+    <value>Удалить daemon</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonUnavailable" xml:space="preserve">
+    <value>Нет готового подключения daemon.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonBundleMissing" xml:space="preserve">
+    <value>Кэшированный daemon bundle отсутствует. Переустановите пакет расширения перед развертыванием.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonBundleHashMismatch" xml:space="preserve">
+    <value>Кэшированный daemon bundle не прошел проверку SHA-256.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonDeploying" xml:space="preserve">
+    <value>Развертывание daemon bundle...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRemoving" xml:space="preserve">
+    <value>Удаление daemon bundle...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
+    <value>Перезапустите daemon, чтобы применить это изменение.</value>
+  </data>
 </root>

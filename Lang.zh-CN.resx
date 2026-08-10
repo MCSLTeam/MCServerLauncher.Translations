@@ -1933,4 +1933,28 @@ daemon 命令：{5}
   <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
     <value>daemon 部署：包 {0} 已缓存；部署到 daemon 插件目录和 daemon 重启仍待完成。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DeployDaemon" xml:space="preserve">
+    <value>部署 daemon</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RemoveDaemon" xml:space="preserve">
+    <value>移除 daemon</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonUnavailable" xml:space="preserve">
+    <value>当前没有可用的 daemon 连接。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonBundleMissing" xml:space="preserve">
+    <value>缓存的 daemon 包缺失。请重新安装扩展包后再部署。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonBundleHashMismatch" xml:space="preserve">
+    <value>缓存的 daemon 包未通过 SHA-256 校验。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonDeploying" xml:space="preserve">
+    <value>正在部署 daemon 包...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRemoving" xml:space="preserve">
+    <value>正在移除 daemon 包...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
+    <value>重启 daemon 后此更改才会生效。</value>
+  </data>
 </root>

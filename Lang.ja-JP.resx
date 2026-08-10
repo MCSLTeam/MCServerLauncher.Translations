@@ -2004,4 +2004,28 @@ daemon コマンド: {5}
   <data name="Plugin_ExtensionCenter_DaemonDeploymentPending" xml:space="preserve">
     <value>daemon 配置: バンドル {0} はキャッシュ済みです。daemon plugins への配置と daemon 再起動は未完了です。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_DeployDaemon" xml:space="preserve">
+    <value>daemon を配置</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RemoveDaemon" xml:space="preserve">
+    <value>daemon を削除</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonUnavailable" xml:space="preserve">
+    <value>利用可能な daemon 接続がありません。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonBundleMissing" xml:space="preserve">
+    <value>キャッシュ済みの daemon バンドルが見つかりません。配置前に拡張パッケージを再インストールしてください。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonBundleHashMismatch" xml:space="preserve">
+    <value>キャッシュ済みの daemon バンドルの SHA-256 検証に失敗しました。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonDeploying" xml:space="preserve">
+    <value>daemon バンドルを配置しています...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRemoving" xml:space="preserve">
+    <value>daemon バンドルを削除しています...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
+    <value>この変更を適用するには daemon を再起動してください。</value>
+  </data>
 </root>
