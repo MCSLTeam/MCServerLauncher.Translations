@@ -1958,6 +1958,12 @@ daemon 命令：{5}
   <data name="Plugin_ExtensionCenter_DeployDaemon" xml:space="preserve">
     <value>部署 daemon</value>
   </data>
+  <data name="Plugin_ExtensionCenter_EnableDaemon" xml:space="preserve">
+    <value>啟用 daemon</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DisableDaemon" xml:space="preserve">
+    <value>停用 daemon</value>
+  </data>
   <data name="Plugin_ExtensionCenter_RemoveDaemon" xml:space="preserve">
     <value>移除 daemon</value>
   </data>
@@ -1972,6 +1978,12 @@ daemon 命令：{5}
   </data>
   <data name="Plugin_ExtensionCenter_DaemonDeploying" xml:space="preserve">
     <value>正在部署 daemon 套件...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonEnabling" xml:space="preserve">
+    <value>正在啟用 daemon 套件...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonDisabling" xml:space="preserve">
+    <value>正在停用 daemon 套件...</value>
   </data>
   <data name="Plugin_ExtensionCenter_DaemonRemoving" xml:space="preserve">
     <value>正在移除 daemon 套件...</value>

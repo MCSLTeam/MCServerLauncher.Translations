@@ -1936,6 +1936,12 @@ Install this extension?</value>
   <data name="Plugin_ExtensionCenter_DeployDaemon" xml:space="preserve">
     <value>Deploy daemon</value>
   </data>
+  <data name="Plugin_ExtensionCenter_EnableDaemon" xml:space="preserve">
+    <value>Enable daemon</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DisableDaemon" xml:space="preserve">
+    <value>Disable daemon</value>
+  </data>
   <data name="Plugin_ExtensionCenter_RemoveDaemon" xml:space="preserve">
     <value>Remove daemon</value>
   </data>
@@ -1950,6 +1956,12 @@ Install this extension?</value>
   </data>
   <data name="Plugin_ExtensionCenter_DaemonDeploying" xml:space="preserve">
     <value>Deploying daemon bundle...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonEnabling" xml:space="preserve">
+    <value>Enabling daemon bundle...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonDisabling" xml:space="preserve">
+    <value>Disabling daemon bundle...</value>
   </data>
   <data name="Plugin_ExtensionCenter_DaemonRemoving" xml:space="preserve">
     <value>Removing daemon bundle...</value>

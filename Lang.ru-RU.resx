@@ -1939,6 +1939,12 @@
   <data name="Plugin_ExtensionCenter_DeployDaemon" xml:space="preserve">
     <value>Развернуть daemon</value>
   </data>
+  <data name="Plugin_ExtensionCenter_EnableDaemon" xml:space="preserve">
+    <value>Включить daemon</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DisableDaemon" xml:space="preserve">
+    <value>Отключить daemon</value>
+  </data>
   <data name="Plugin_ExtensionCenter_RemoveDaemon" xml:space="preserve">
     <value>Удалить daemon</value>
   </data>
@@ -1953,6 +1959,12 @@
   </data>
   <data name="Plugin_ExtensionCenter_DaemonDeploying" xml:space="preserve">
     <value>Развертывание daemon bundle...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonEnabling" xml:space="preserve">
+    <value>Включение daemon bundle...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonDisabling" xml:space="preserve">
+    <value>Отключение daemon bundle...</value>
   </data>
   <data name="Plugin_ExtensionCenter_DaemonRemoving" xml:space="preserve">
     <value>Удаление daemon bundle...</value>

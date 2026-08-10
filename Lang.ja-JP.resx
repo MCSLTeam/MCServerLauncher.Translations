@@ -2007,6 +2007,12 @@ daemon コマンド: {5}
   <data name="Plugin_ExtensionCenter_DeployDaemon" xml:space="preserve">
     <value>daemon を配置</value>
   </data>
+  <data name="Plugin_ExtensionCenter_EnableDaemon" xml:space="preserve">
+    <value>daemon を有効化</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DisableDaemon" xml:space="preserve">
+    <value>daemon を無効化</value>
+  </data>
   <data name="Plugin_ExtensionCenter_RemoveDaemon" xml:space="preserve">
     <value>daemon を削除</value>
   </data>
@@ -2021,6 +2027,12 @@ daemon コマンド: {5}
   </data>
   <data name="Plugin_ExtensionCenter_DaemonDeploying" xml:space="preserve">
     <value>daemon バンドルを配置しています...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonEnabling" xml:space="preserve">
+    <value>daemon バンドルを有効化しています...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonDisabling" xml:space="preserve">
+    <value>daemon バンドルを無効化しています...</value>
   </data>
   <data name="Plugin_ExtensionCenter_DaemonRemoving" xml:space="preserve">
     <value>daemon バンドルを削除しています...</value>
