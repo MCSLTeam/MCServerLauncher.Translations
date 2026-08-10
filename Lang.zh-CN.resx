@@ -1916,7 +1916,10 @@ Host 能力：{1}
     <value>审阅扩展权限</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewSignatureTrusted" xml:space="preserve">
-    <value>签名：已信任发布者 {0}（密钥 {1}）。</value>
+    <value>签名：已信任发布者 {0}；密钥 {1}；SPKI SHA-256 {2}；签署时间 {3}。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureTimeUnknown" xml:space="preserve">
+    <value>未知签署时间</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewSignatureUnsigned" xml:space="preserve">
     <value>签名：未签名的本地包。</value>

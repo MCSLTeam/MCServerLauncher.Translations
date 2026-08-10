@@ -1938,7 +1938,10 @@ Host 能力：{1}
     <value>審閱擴充權限</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewSignatureTrusted" xml:space="preserve">
-    <value>簽名：已信任發佈者 {0}（密鑰 {1}）。</value>
+    <value>簽名：已信任發佈者 {0}；金鑰 {1}；SPKI SHA-256 {2}；簽署時間 {3}。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureTimeUnknown" xml:space="preserve">
+    <value>未知簽署時間</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewSignatureUnsigned" xml:space="preserve">
     <value>簽名：未簽名的本機套件。</value>

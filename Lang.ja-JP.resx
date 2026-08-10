@@ -1987,7 +1987,10 @@ Host 能力: {1}
     <value>拡張機能の権限を確認</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewSignatureTrusted" xml:space="preserve">
-    <value>署名: 信頼済み発行元 {0} (キー {1})。</value>
+    <value>署名: 信頼済み発行元 {0}; キー {1}; SPKI SHA-256 {2}; 署名時刻 {3}。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureTimeUnknown" xml:space="preserve">
+    <value>署名時刻不明</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewSignatureUnsigned" xml:space="preserve">
     <value>署名: 未署名のローカル パッケージ。</value>
