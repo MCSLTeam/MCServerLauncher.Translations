@@ -1988,6 +1988,15 @@ daemon 命令：{5}
   <data name="Plugin_ExtensionCenter_DaemonRemoving" xml:space="preserve">
     <value>正在移除 daemon 套件...</value>
   </data>
+  <data name="Plugin_ExtensionCenter_RequestDaemonRestart" xml:space="preserve">
+    <value>請求重新啟動</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonShutdownRequesting" xml:space="preserve">
+    <value>正在請求 daemon 關閉...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonShutdownRequested" xml:space="preserve">
+    <value>已請求 daemon 關閉。請透過服務管理員或啟動器重新啟動。</value>
+  </data>
   <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
     <value>重新啟動 daemon 後此變更才會生效。</value>
   </data>

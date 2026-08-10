@@ -1966,6 +1966,15 @@ Install this extension?</value>
   <data name="Plugin_ExtensionCenter_DaemonRemoving" xml:space="preserve">
     <value>Removing daemon bundle...</value>
   </data>
+  <data name="Plugin_ExtensionCenter_RequestDaemonRestart" xml:space="preserve">
+    <value>Request restart</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonShutdownRequesting" xml:space="preserve">
+    <value>Requesting daemon shutdown...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonShutdownRequested" xml:space="preserve">
+    <value>Daemon shutdown requested. Restart it through its service manager or launcher.</value>
+  </data>
   <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
     <value>Restart the daemon to apply this change.</value>
   </data>

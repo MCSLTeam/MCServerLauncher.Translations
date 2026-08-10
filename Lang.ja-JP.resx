@@ -2037,6 +2037,15 @@ daemon コマンド: {5}
   <data name="Plugin_ExtensionCenter_DaemonRemoving" xml:space="preserve">
     <value>daemon バンドルを削除しています...</value>
   </data>
+  <data name="Plugin_ExtensionCenter_RequestDaemonRestart" xml:space="preserve">
+    <value>再起動を要求</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonShutdownRequesting" xml:space="preserve">
+    <value>daemon のシャットダウンを要求しています...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonShutdownRequested" xml:space="preserve">
+    <value>daemon のシャットダウンを要求しました。サービスマネージャーまたはランチャーから再起動してください。</value>
+  </data>
   <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
     <value>この変更を適用するには daemon を再起動してください。</value>
   </data>

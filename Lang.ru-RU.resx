@@ -1969,6 +1969,15 @@
   <data name="Plugin_ExtensionCenter_DaemonRemoving" xml:space="preserve">
     <value>Удаление daemon bundle...</value>
   </data>
+  <data name="Plugin_ExtensionCenter_RequestDaemonRestart" xml:space="preserve">
+    <value>Запросить перезапуск</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonShutdownRequesting" xml:space="preserve">
+    <value>Запрос остановки daemon...</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_DaemonShutdownRequested" xml:space="preserve">
+    <value>Остановка daemon запрошена. Перезапустите его через менеджер служб или launcher.</value>
+  </data>
   <data name="Plugin_ExtensionCenter_DaemonRestartRequired" xml:space="preserve">
     <value>Перезапустите daemon, чтобы применить это изменение.</value>
   </data>
