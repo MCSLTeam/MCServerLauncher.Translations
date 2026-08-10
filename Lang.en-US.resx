@@ -1948,6 +1948,15 @@ Resources: {3}</value>
   <data name="Plugin_ExtensionCenter_ReviewExtensionPointRisk" xml:space="preserve">
     <value>Extension points ({0}): {1}</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewDriftNone" xml:space="preserve">
+    <value>Installed drift: no previously installed manifest drift detected.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDriftSummary" xml:space="preserve">
+    <value>Installed drift review:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDriftItem" xml:space="preserve">
+    <value>{1} ({0}): {2}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>Package: {0}
 Version: {1}

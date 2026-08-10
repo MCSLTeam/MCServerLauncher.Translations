@@ -1948,6 +1948,15 @@ Host 能力：{1}
   <data name="Plugin_ExtensionCenter_ReviewExtensionPointRisk" xml:space="preserve">
     <value>扩展点（{0}）：{1}</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewDriftNone" xml:space="preserve">
+    <value>已安装漂移：未检测到此前安装清单的权限或信任漂移。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDriftSummary" xml:space="preserve">
+    <value>已安装漂移审阅：</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDriftItem" xml:space="preserve">
+    <value>{1}（{0}）：{2}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>包：{0}
 版本：{1}

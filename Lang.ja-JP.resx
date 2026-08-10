@@ -2019,6 +2019,15 @@ Host 能力: {1}
   <data name="Plugin_ExtensionCenter_ReviewExtensionPointRisk" xml:space="preserve">
     <value>拡張ポイント ({0}): {1}</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewDriftNone" xml:space="preserve">
+    <value>インストール済みドリフト: 以前のインストール済みマニフェストに権限または信頼の変更は検出されませんでした。</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDriftSummary" xml:space="preserve">
+    <value>インストール済みドリフトのレビュー:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDriftItem" xml:space="preserve">
+    <value>{1} ({0}): {2}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>パッケージ: {0}
 バージョン: {1}

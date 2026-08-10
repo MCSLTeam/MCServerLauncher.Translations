@@ -1951,6 +1951,15 @@
   <data name="Plugin_ExtensionCenter_ReviewExtensionPointRisk" xml:space="preserve">
     <value>Точки расширения ({0}): {1}</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewDriftNone" xml:space="preserve">
+    <value>Дрейф установленного пакета: изменений разрешений или доверия в ранее установленном манифесте не найдено.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDriftSummary" xml:space="preserve">
+    <value>Проверка дрейфа установленного пакета:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewDriftItem" xml:space="preserve">
+    <value>{1} ({0}): {2}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>Пакет: {0}
 Версия: {1}
