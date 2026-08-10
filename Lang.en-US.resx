@@ -1915,6 +1915,12 @@ Resources: {3}</value>
   <data name="Plugin_ExtensionCenter_ReviewSignatureUnsigned" xml:space="preserve">
     <value>Signature: unsigned local package.</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewDependencies" xml:space="preserve">
+    <value>Dependencies: {0}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewUpdates" xml:space="preserve">
+    <value>Updates: {0}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>Package: {0}
 Version: {1}

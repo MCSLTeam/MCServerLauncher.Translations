@@ -1918,6 +1918,12 @@
   <data name="Plugin_ExtensionCenter_ReviewSignatureUnsigned" xml:space="preserve">
     <value>Подпись: неподписанный локальный пакет.</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewDependencies" xml:space="preserve">
+    <value>Зависимости: {0}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewUpdates" xml:space="preserve">
+    <value>Обновления: {0}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>Пакет: {0}
 Версия: {1}

@@ -1937,6 +1937,12 @@ Host 能力：{1}
   <data name="Plugin_ExtensionCenter_ReviewSignatureUnsigned" xml:space="preserve">
     <value>簽名：未簽名的本機套件。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewDependencies" xml:space="preserve">
+    <value>依賴：{0}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewUpdates" xml:space="preserve">
+    <value>更新：{0}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>套件：{0}
 版本：{1}

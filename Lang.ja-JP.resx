@@ -1986,6 +1986,12 @@ Host 能力: {1}
   <data name="Plugin_ExtensionCenter_ReviewSignatureUnsigned" xml:space="preserve">
     <value>署名: 未署名のローカル パッケージ。</value>
   </data>
+  <data name="Plugin_ExtensionCenter_ReviewDependencies" xml:space="preserve">
+    <value>依存関係: {0}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewUpdates" xml:space="preserve">
+    <value>更新: {0}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>パッケージ: {0}
 バージョン: {1}
