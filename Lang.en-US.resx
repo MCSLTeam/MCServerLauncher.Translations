@@ -1927,6 +1927,27 @@ Resources: {3}</value>
   <data name="Plugin_ExtensionCenter_ReviewUpdates" xml:space="preserve">
     <value>Updates: {0}</value>
   </data>
+  <data name="Plugin_ExtensionCenter_RiskLow" xml:space="preserve">
+    <value>low</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RiskMedium" xml:space="preserve">
+    <value>medium</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RiskHigh" xml:space="preserve">
+    <value>high</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewRiskSummary" xml:space="preserve">
+    <value>Risk review:</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewHostRisk" xml:space="preserve">
+    <value>Host APIs ({0}): {1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewEventRisk" xml:space="preserve">
+    <value>Event subscriptions ({0}): {1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewExtensionPointRisk" xml:space="preserve">
+    <value>Extension points ({0}): {1}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>Package: {0}
 Version: {1}

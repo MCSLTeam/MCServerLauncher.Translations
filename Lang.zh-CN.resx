@@ -1927,6 +1927,27 @@ Host 能力：{1}
   <data name="Plugin_ExtensionCenter_ReviewUpdates" xml:space="preserve">
     <value>更新：{0}</value>
   </data>
+  <data name="Plugin_ExtensionCenter_RiskLow" xml:space="preserve">
+    <value>低</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RiskMedium" xml:space="preserve">
+    <value>中</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_RiskHigh" xml:space="preserve">
+    <value>高</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewRiskSummary" xml:space="preserve">
+    <value>风险审阅：</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewHostRisk" xml:space="preserve">
+    <value>Host API（{0}）：{1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewEventRisk" xml:space="preserve">
+    <value>事件订阅（{0}）：{1}</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewExtensionPointRisk" xml:space="preserve">
+    <value>扩展点（{0}）：{1}</value>
+  </data>
   <data name="Plugin_ExtensionCenter_ReviewConfirm" xml:space="preserve">
     <value>包：{0}
 版本：{1}
