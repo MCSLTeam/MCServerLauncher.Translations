@@ -1919,13 +1919,16 @@
     <value>Проверка разрешений расширения</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewSignatureTrusted" xml:space="preserve">
-    <value>Подпись: доверенный издатель {0}; ключ {1}; SPKI SHA-256 {2}; подписано {3}.</value>
+    <value>Подпись: проверена локальным доверенным ключом издателя; издатель {0}; ключ {1}; SPKI SHA-256 {2}; подписано {3}.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureProvenance" xml:space="preserve">
+    <value>локальный доверенный ключ издателя: {0}; ключ {1}; SPKI SHA-256 {2}</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewSignatureTimeUnknown" xml:space="preserve">
     <value>время подписи неизвестно</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewSignatureUnsigned" xml:space="preserve">
-    <value>Подпись: неподписанный локальный пакет.</value>
+    <value>Подпись: неподписанный локальный пакет; локальный доверенный ключ издателя не проверен.</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewDependencies" xml:space="preserve">
     <value>Зависимости: {0}</value>

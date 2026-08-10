@@ -1916,13 +1916,16 @@ Resources: {3}</value>
     <value>Review extension permissions</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewSignatureTrusted" xml:space="preserve">
-    <value>Signature: trusted publisher {0}; key {1}; SPKI SHA-256 {2}; signed at {3}.</value>
+    <value>Signature: verified by local trusted publisher key; publisher {0}; key {1}; SPKI SHA-256 {2}; signed at {3}.</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ReviewSignatureProvenance" xml:space="preserve">
+    <value>local trusted publisher key: {0}; key {1}; SPKI SHA-256 {2}</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewSignatureTimeUnknown" xml:space="preserve">
     <value>unknown signing time</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewSignatureUnsigned" xml:space="preserve">
-    <value>Signature: unsigned local package.</value>
+    <value>Signature: unsigned local package; no local trusted publisher key was verified.</value>
   </data>
   <data name="Plugin_ExtensionCenter_ReviewDependencies" xml:space="preserve">
     <value>Dependencies: {0}</value>
