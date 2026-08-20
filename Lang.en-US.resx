@@ -924,6 +924,18 @@
   <data name="ShowRealtimeLog" xml:space="preserve">
     <value>Show Real-time Log</value>
   </data>
+  <data name="Plugin_ExtensionCenter_TargetFilter" xml:space="preserve">
+    <value>Target filter</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_TargetAll" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_TargetLocal" xml:space="preserve">
+    <value>This computer</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_TargetServer" xml:space="preserve">
+    <value>Servers</value>
+  </data>
   <data name="Search" xml:space="preserve">
     <value>Search</value>
   </data>
@@ -1905,6 +1917,25 @@ Resources: {3}</value>
   </data>
   <data name="Plugin_ExtensionCenter_AssetsHasUi" xml:space="preserve">
     <value>UI</value>
+  </data>
+
+  <data name="Plugin_ExtensionCenter_ScopeKindClientOnly" xml:space="preserve">
+    <value>Client only</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindServerOnly" xml:space="preserve">
+    <value>Server only</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindBoth" xml:space="preserve">
+    <value>Required on both client and server</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindClientOnlyDesc" xml:space="preserve">
+    <value>Installed only on this computer</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindServerOnlyDesc" xml:space="preserve">
+    <value>Installed only to servers</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindBothDesc" xml:space="preserve">
+    <value>Installed on this computer and deployed to servers</value>
   </data>
   <data name="Plugin_ExtensionCenter_MetaCommands" xml:space="preserve">
     <value>command(s)</value>

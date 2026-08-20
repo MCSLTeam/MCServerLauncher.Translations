@@ -961,6 +961,18 @@ f. サードパーティの原因またはその他の不可抗力の状況に�
   <data name="ShowRealtimeLog" xml:space="preserve">
     <value>リアルタイムログを表示</value>
   </data>
+  <data name="Plugin_ExtensionCenter_TargetFilter" xml:space="preserve">
+    <value>対象</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_TargetAll" xml:space="preserve">
+    <value>すべて</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_TargetLocal" xml:space="preserve">
+    <value>このコンピューター</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_TargetServer" xml:space="preserve">
+    <value>サーバー</value>
+  </data>
   <data name="Search" xml:space="preserve">
     <value>検索</value>
   </data>
@@ -1976,6 +1988,25 @@ Host 能力: {1}
   </data>
   <data name="Plugin_ExtensionCenter_AssetsHasUi" xml:space="preserve">
     <value>UI</value>
+  </data>
+
+  <data name="Plugin_ExtensionCenter_ScopeKindClientOnly" xml:space="preserve">
+    <value>クライアントのみ</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindServerOnly" xml:space="preserve">
+    <value>サーバーのみ</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindBoth" xml:space="preserve">
+    <value>クライアントとサーバーの両方に必要</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindClientOnlyDesc" xml:space="preserve">
+    <value>このコンピューターにのみインストール</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindServerOnlyDesc" xml:space="preserve">
+    <value>サーバーのみにインストール</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindBothDesc" xml:space="preserve">
+    <value>このコンピューターとサーバーの両方にインストール</value>
   </data>
   <data name="Plugin_ExtensionCenter_MetaCommands" xml:space="preserve">
     <value>コマンド</value>

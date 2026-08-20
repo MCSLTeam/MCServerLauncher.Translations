@@ -893,6 +893,18 @@
   <data name="ShowRealtimeLog" xml:space="preserve">
     <value>Показать журнал в реальном времени</value>
   </data>
+  <data name="Plugin_ExtensionCenter_TargetFilter" xml:space="preserve">
+    <value>Цель</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_TargetAll" xml:space="preserve">
+    <value>Все</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_TargetLocal" xml:space="preserve">
+    <value>Этот компьютер</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_TargetServer" xml:space="preserve">
+    <value>Серверы</value>
+  </data>
   <data name="Search" xml:space="preserve">
     <value>Поиск</value>
   </data>
@@ -1908,6 +1920,25 @@
   </data>
   <data name="Plugin_ExtensionCenter_AssetsHasUi" xml:space="preserve">
     <value>UI</value>
+  </data>
+
+  <data name="Plugin_ExtensionCenter_ScopeKindClientOnly" xml:space="preserve">
+    <value>Только клиент</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindServerOnly" xml:space="preserve">
+    <value>Только сервер</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindBoth" xml:space="preserve">
+    <value>Нужен и клиенту, и серверу</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindClientOnlyDesc" xml:space="preserve">
+    <value>Устанавливается только на этот компьютер</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindServerOnlyDesc" xml:space="preserve">
+    <value>Устанавливается только на серверы</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindBothDesc" xml:space="preserve">
+    <value>Устанавливается на этот компьютер и на серверы</value>
   </data>
   <data name="Plugin_ExtensionCenter_MetaCommands" xml:space="preserve">
     <value>команд(ы)</value>

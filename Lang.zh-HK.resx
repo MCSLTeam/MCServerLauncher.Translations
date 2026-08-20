@@ -915,6 +915,18 @@
   <data name="ShowRealtimeLog" xml:space="preserve">
     <value>顯示即時日誌</value>
   </data>
+  <data name="Plugin_ExtensionCenter_TargetFilter" xml:space="preserve">
+    <value>目標</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_TargetAll" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_TargetLocal" xml:space="preserve">
+    <value>本機</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_TargetServer" xml:space="preserve">
+    <value>伺服器</value>
+  </data>
   <data name="Search" xml:space="preserve">
     <value>搜尋</value>
   </data>
@@ -1927,6 +1939,25 @@ Host 能力：{1}
   </data>
   <data name="Plugin_ExtensionCenter_AssetsHasUi" xml:space="preserve">
     <value>UI</value>
+  </data>
+
+  <data name="Plugin_ExtensionCenter_ScopeKindClientOnly" xml:space="preserve">
+    <value>僅用戶端</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindServerOnly" xml:space="preserve">
+    <value>僅伺服器</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindBoth" xml:space="preserve">
+    <value>雙端需裝</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindClientOnlyDesc" xml:space="preserve">
+    <value>只安裝在這台電腦</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindServerOnlyDesc" xml:space="preserve">
+    <value>只安裝到伺服器</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_ScopeKindBothDesc" xml:space="preserve">
+    <value>安裝在這台電腦並部署到伺服器</value>
   </data>
   <data name="Plugin_ExtensionCenter_MetaCommands" xml:space="preserve">
     <value>命令</value>
