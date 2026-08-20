@@ -1903,6 +1903,15 @@ Host 能力：{1}
   <data name="Plugin_ExtensionCenter_AssetsOnly" xml:space="preserve">
     <value>资源</value>
   </data>
+  <data name="Plugin_ExtensionCenter_AssetsHasUi" xml:space="preserve">
+    <value>UI</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_MetaCommands" xml:space="preserve">
+    <value>命令</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_MetaResources" xml:space="preserve">
+    <value>资源</value>
+  </data>
   <data name="Plugin_ExtensionCenter_UiEventReceived" xml:space="preserve">
     <value>已收到 UI 事件。</value>
   </data>

@@ -1974,6 +1974,15 @@ Host 能力: {1}
   <data name="Plugin_ExtensionCenter_AssetsOnly" xml:space="preserve">
     <value>リソース</value>
   </data>
+  <data name="Plugin_ExtensionCenter_AssetsHasUi" xml:space="preserve">
+    <value>UI</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_MetaCommands" xml:space="preserve">
+    <value>コマンド</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_MetaResources" xml:space="preserve">
+    <value>リソース</value>
+  </data>
   <data name="Plugin_ExtensionCenter_UiEventReceived" xml:space="preserve">
     <value>UI イベントを受信しました。</value>
   </data>

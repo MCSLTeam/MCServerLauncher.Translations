@@ -1903,6 +1903,15 @@ Resources: {3}</value>
   <data name="Plugin_ExtensionCenter_AssetsOnly" xml:space="preserve">
     <value>assets</value>
   </data>
+  <data name="Plugin_ExtensionCenter_AssetsHasUi" xml:space="preserve">
+    <value>UI</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_MetaCommands" xml:space="preserve">
+    <value>command(s)</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_MetaResources" xml:space="preserve">
+    <value>resource(s)</value>
+  </data>
   <data name="Plugin_ExtensionCenter_UiEventReceived" xml:space="preserve">
     <value>UI event received.</value>
   </data>

@@ -1906,6 +1906,15 @@
   <data name="Plugin_ExtensionCenter_AssetsOnly" xml:space="preserve">
     <value>ресурсы</value>
   </data>
+  <data name="Plugin_ExtensionCenter_AssetsHasUi" xml:space="preserve">
+    <value>UI</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_MetaCommands" xml:space="preserve">
+    <value>команд(ы)</value>
+  </data>
+  <data name="Plugin_ExtensionCenter_MetaResources" xml:space="preserve">
+    <value>ресурс(ы)</value>
+  </data>
   <data name="Plugin_ExtensionCenter_UiEventReceived" xml:space="preserve">
     <value>Событие UI получено.</value>
   </data>
